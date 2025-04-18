@@ -1,4 +1,25 @@
 genrule {
+    name: "merge_DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08",
+    srcs: [
+        "DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08/*.apk*",
+    ],
+    out: ["DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08",
+	owner: "gms",
+	apk: ":merge_DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+genrule {
     name: "merge_Photos",
     srcs: [
         "Photos/*.apk*",
