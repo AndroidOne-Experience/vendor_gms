@@ -1,0 +1,12 @@
+remote: error: File partner-gms/proprietary/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk is 134.91 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File partner-gms/proprietary/product/priv-app/Velvet/Velvet.apk is 396.21 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File partner-gms/proprietary/product/app/Photos/Photos.apk is 144.80 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File partner-gms/proprietary/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk is 163.70 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File partner-gms/proprietary/product/app/PrebuiltGmail/PrebuiltGmail.apk is 140.95 MB; this exceeds GitHub's file size limit of 100.00 MB
+----------------------------------------------------------------------------------------------------------------------------------------
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk;OVERRIDES=messaging;PRESIGNED
+product/priv-app/Velvet/Velvet.apk;OVERRIDES=QuickSearchBox;PRESIGNED
+product/app/Photos/Photos.apk;OVERRIDES=Gallery2;PRESIGNED
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
+product/app/PrebuiltGmail/PrebuiltGmail.apk;OVERRIDES=Email;PRESIGNED
+----------------------------------------------------------------------------------------------------------------------------------------

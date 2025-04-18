@@ -1,0 +1,106 @@
+genrule {
+    name: "merge_Photos",
+    srcs: [
+        "Photos/*.apk*",
+    ],
+    out: ["Photos.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "Photos",
+	owner: "gms",
+	apk: ":merge_Photos",
+	overrides: ["Gallery2"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+genrule {
+    name: "merge_PrebuiltBugle",
+    srcs: [
+        "PrebuiltBugle/*.apk*",
+    ],
+    out: ["PrebuiltBugle.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "PrebuiltBugle",
+	owner: "gms",
+	apk: ":merge_PrebuiltBugle",
+	overrides: ["messaging"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+genrule {
+    name: "merge_PrebuiltGmail",
+    srcs: [
+        "PrebuiltGmail/*.apk*",
+    ],
+    out: ["PrebuiltGmail.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "PrebuiltGmail",
+	owner: "gms",
+	apk: ":merge_PrebuiltGmail",
+	overrides: ["Email"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+genrule {
+    name: "merge_PrebuiltGmsCore",
+    srcs: [
+        "PrebuiltGmsCore/*.apk*",
+    ],
+    out: ["PrebuiltGmsCore.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "PrebuiltGmsCore",
+	owner: "gms",
+	apk: ":merge_PrebuiltGmsCore",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+genrule {
+    name: "merge_Velvet",
+    srcs: [
+        "Velvet/*.apk*",
+    ],
+    out: ["Velvet.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "Velvet",
+	owner: "gms",
+	apk: ":merge_Velvet",
+	overrides: ["QuickSearchBox"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
