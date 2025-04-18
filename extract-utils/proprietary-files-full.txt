@@ -1,0 +1,129 @@
+# All the blobs below extracted from "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys
+
+# Browser
+product/app/Chrome-Stub/Chrome-Stub.apk;OVERRIDES=webview,Browser2,Jelly;PRESIGNED
+product/app/Chrome/Chrome.apk.gz;PRESIGNED
+product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk;PRESIGNED
+product/app/TrichromeLibrary/TrichromeLibrary.apk.gz;PRESIGNED
+product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk;OVERRIDES=webview;PRESIGNED
+product/app/WebViewGoogle/WebViewGoogle.apk.gz;PRESIGNED
+product/priv-app/ScribePrebuilt_v7.0.633113815/ScribePrebuilt_v7.0.633113815.apk;PRESIGNED
+product/priv-app/Velvet/Velvet.apk;OVERRIDES=QuickSearchBox;PRESIGNED
+
+# Cellular
+product/app/GoogleContacts/GoogleContacts.apk;OVERRIDES=Contacts,Contacts2;PRESIGNED
+product/etc/permissions/com.google.android.dialer.support.xml
+product/framework/com.google.android.dialer.support.jar
+product/priv-app/GoogleDialer/GoogleDialer.apk;OVERRIDES=Dialer;PRESIGNED
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk;OVERRIDES=messaging;PRESIGNED
+
+# Digital Wellbeing
+product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk;PRESIGNED
+
+# General Apps (Calculator, Calendar, Clocks)
+product/app/CalculatorGooglePrebuilt_85005407/CalculatorGooglePrebuilt_85005407.apk;OVERRIDES=ExactCalculator;PRESIGNED
+product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;OVERRIDES=Calendar2,Calendar,Etar;PRESIGNED
+product/priv-app/PrebuiltDeskClockGoogle_76006071/PrebuiltDeskClockGoogle_76006071.apk;OVERRIDES=DeskClock;PRESIGNED
+
+# Google Mail
+product/app/PrebuiltGmail/PrebuiltGmail.apk;OVERRIDES=Email;PRESIGNED
+
+# Google Photos
+product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
+product/app/Photos/Photos.apk;OVERRIDES=Gallery2;PRESIGNED
+
+# Google Play
+product/etc/security/fsverity/gms_fsverity_cert.der
+product/etc/security/fsverity/play_store_fsi_cert.der
+product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
+product/priv-app/Phonesky/Phonesky.apk;OVERRIDES=messaging;PRESIGNED
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreVic.apk:product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_AdsDynamite.uncompressed.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_CronetDynamite.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_DynamiteLoader.uncompressed.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_DynamiteModulesA.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_DynamiteModulesC.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_GoogleCertificates.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_MapsDynamite.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreVic_MeasurementDynamite.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices/AndroidPlatformServices.apk;PRESIGNED
+system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNED
+
+# Intelligence
+product/priv-app/DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01/DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01.apk;PRESIGNED
+product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED
+
+# Launcher
+system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
+
+# LockScreen clocks
+system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/priv-app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
+system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk
+system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
+
+# Permissions & Sysconfig
+product/etc/default-permissions/default-permissions-com.google.android.apps.pixel.agent.xml
+product/etc/default-permissions/default-permissions-safetyhub.xml
+product/etc/default-permissions/default-permissions.xml
+product/etc/permissions/com.android.omadm.service.xml
+product/etc/permissions/com.google.android.odad.xml
+product/etc/permissions/com.google.omadm.trigger.xml
+product/etc/permissions/privapp-permissions-google-p.xml
+product/etc/permissions/split-permissions-google.xml
+product/etc/preferred-apps/google.xml
+product/etc/sysconfig/allowlist_com.android.omadm.service.xml
+product/etc/sysconfig/contextual_search.xml
+product/etc/sysconfig/game_service.xml
+product/etc/sysconfig/google-hiddenapi-package-whitelist.xml
+product/etc/sysconfig/google-staged-installer-whitelist.xml
+product/etc/sysconfig/google.xml
+product/etc/sysconfig/google_build.xml
+product/etc/sysconfig/nexus.xml
+product/etc/sysconfig/pixel_experience_2017.xml
+product/etc/sysconfig/pixel_experience_2018.xml
+product/etc/sysconfig/pixel_experience_2019.xml
+product/etc/sysconfig/pixel_experience_2019_midyear.xml
+product/etc/sysconfig/pixel_experience_2020.xml
+product/etc/sysconfig/pixel_experience_2020_midyear.xml
+product/etc/sysconfig/pixel_experience_2021.xml
+product/etc/sysconfig/pixel_experience_2021_midyear.xml
+product/etc/sysconfig/pixel_experience_2022.xml
+product/etc/sysconfig/pixel_experience_2022_midyear.xml
+product/etc/sysconfig/pixel_experience_2023.xml
+product/etc/sysconfig/pixel_experience_2023_midyear.xml
+product/etc/sysconfig/pixel_experience_2024.xml
+product/etc/sysconfig/pixel_experience_2024_midyear.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml
+system/etc/permissions/privapp-permissions-google.xml
+system_ext/etc/permissions/privapp-permissions-google-se.xml
+system_ext/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml
+
+# Search Selector
+product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk;PRESIGNED
+
+# SetupWizard
+product/etc/permissions/com.google.android.apps.setupwizard.searchselector.xml
+product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;OVERRIDES=OneTimeInitializer;PRESIGNED
+product/priv-app/GoogleRestorePrebuilt-v636048/GoogleRestorePrebuilt-v636048.apk;PRESIGNED
+product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
+product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk;OVERRIDES=Provision,LineageSetupWizard;PRESIGNED
+
+# Wallpapers
+product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
+product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk
+product/app/PixelWallpapers2024/PixelWallpapers2024.apk;PRESIGNED
+product/app/WallpaperEmojiPrebuilt-v2804/WallpaperEmojiPrebuilt-v2804.apk;PRESIGNED
+product/priv-app/PixelLiveWallpaperPrebuilt-25000013/PixelLiveWallpaperPrebuilt-25000013.apk;PRESIGNED
+product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
+system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
+
+# Weather
+product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk;PRESIGNED
