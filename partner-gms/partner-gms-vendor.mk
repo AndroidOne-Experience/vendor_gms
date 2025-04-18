@@ -49,24 +49,35 @@ PRODUCT_COPY_FILES += \
     vendor/gms/partner-gms/proprietary/product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml \
     vendor/gms/partner-gms/proprietary/product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml \
     vendor/gms/partner-gms/proprietary/product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml \
+    vendor/gms/partner-gms/proprietary/product/usr/share/ime/google/d3_lms/ko_2018030706.zip:$(TARGET_COPY_OUT_PRODUCT)/usr/share/ime/google/d3_lms/ko_2018030706.zip \
+    vendor/gms/partner-gms/proprietary/product/usr/share/ime/google/d3_lms/mozc.data:$(TARGET_COPY_OUT_PRODUCT)/usr/share/ime/google/d3_lms/mozc.data \
+    vendor/gms/partner-gms/proprietary/product/usr/share/ime/google/d3_lms/zh_CN_2018030706.zip:$(TARGET_COPY_OUT_PRODUCT)/usr/share/ime/google/d3_lms/zh_CN_2018030706.zip \
     vendor/gms/partner-gms/proprietary/system/etc/permissions/privapp-permissions-google.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-google.xml \
     vendor/gms/partner-gms/proprietary/system_ext/etc/permissions/privapp-permissions-google-se.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-google-se.xml \
     vendor/gms/partner-gms/proprietary/system_ext/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml
 
 PRODUCT_PACKAGES += \
+    DocumentsUIGoogle \
     CalculatorGooglePrebuilt_85005407 \
     CalendarGooglePrebuilt \
     Chrome-Stub \
     GoogleContacts \
+    GoogleTTS \
+    LatinIMEGooglePrebuilt \
+    LocationHistoryPrebuilt \
     MarkupGoogle_v2 \
+    ModuleMetadataGoogle \
     PixelThemesStub \
     PixelThemesStub2022_and_newer \
     PixelWallpapers2024 \
+    SoundPickerPrebuilt_31000232 \
     TrichromeLibrary-Stub \
     WallpaperEmojiPrebuilt-v2804 \
     WebViewGoogle-Stub \
+    AICorePrebuilt-aicore_20240509.01_RC02 \
     ConfigUpdater \
     DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
+    FilesPrebuilt \
     GoogleDialer \
     GoogleOneTimeInitializer \
     GoogleRestorePrebuilt-v636048 \
@@ -83,6 +94,7 @@ PRODUCT_PACKAGES += \
     PrebuiltGmsCoreVic_MapsDynamite \
     PrebuiltGmsCoreVic_MeasurementDynamite \
     AndroidPlatformServices \
+    RecorderPrebuilt_675788680 \
     ScribePrebuilt_v7.0.633113815 \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
@@ -90,8 +102,11 @@ PRODUCT_PACKAGES += \
     WallpaperEffect \
     WeatherPixelPrebuilt_24D1 \
     WellbeingPrebuilt \
+    AccessibilityMenu \
+    AvatarPickerGoogle \
     GoogleServicesFramework \
     NexusLauncherRelease \
+    StorageManagerGoogle \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \
     SystemUIClocks-Flex \

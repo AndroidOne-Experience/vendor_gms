@@ -1,5 +1,14 @@
 # All the blobs below extracted from "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys"
 
+# Accessibility Menu
+system_ext/app/AccessibilityMenu/AccessibilityMenu.apk;PRESIGNED
+
+# AICore
+product/priv-app/AICorePrebuilt-aicore_20240509.01_RC02/AICorePrebuilt-aicore_20240509.01_RC02.apk;PRESIGNED
+
+# Avatar Picker
+system_ext/priv-app/AvatarPickerGoogle/AvatarPickerGoogle.apk;OVERRIDES=AvatarPicker;PRESIGNED
+
 # Browser
 product/app/Chrome-Stub/Chrome-Stub.apk;OVERRIDES=webview,Browser2,Jelly;PRESIGNED
 product/app/Chrome/Chrome.apk.gz;PRESIGNED
@@ -26,6 +35,11 @@ product/priv-app/PrebuiltDeskClockGoogle_76006071/PrebuiltDeskClockGoogle_760060
 # Google Photos
 product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
 
+# Files
+product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
+system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk;OVERRIDES=DocumentsUI;PRESIGNED
+system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk;OVERRIDES=StorageManager;PRESIGNED
+
 # Google Play
 product/etc/security/fsverity/gms_fsverity_cert.der
 product/etc/security/fsverity/play_store_fsi_cert.der
@@ -46,6 +60,12 @@ system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNE
 product/priv-app/DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01/DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED
 
+# Keyboard
+product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk;OVERRIDES=LatinIME;PRESIGNED
+product/usr/share/ime/google/d3_lms/ko_2018030706.zip
+product/usr/share/ime/google/d3_lms/mozc.data
+product/usr/share/ime/google/d3_lms/zh_CN_2018030706.zip
+
 # Launcher
 system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
 
@@ -57,6 +77,12 @@ system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
 system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
 system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk
 system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
+
+# Location
+product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk;PRESIGNED
+
+# ModuleMetadata
+product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;PRESIGNED
 
 # Permissions & Sysconfig
 product/etc/default-permissions/default-permissions-com.google.android.apps.pixel.agent.xml
@@ -108,6 +134,13 @@ product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;OVERRIDES
 product/priv-app/GoogleRestorePrebuilt-v636048/GoogleRestorePrebuilt-v636048.apk;PRESIGNED
 product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
 product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk;OVERRIDES=Provision,LineageSetupWizard;PRESIGNED
+
+# Sound
+product/app/SoundPickerPrebuilt_31000232/SoundPickerPrebuilt_31000232.apk;PRESIGNED
+
+# Voice
+product/app/GoogleTTS/GoogleTTS.apk;OVERRIDES=PicoTts;PRESIGNED
+product/priv-app/RecorderPrebuilt_675788680/RecorderPrebuilt_675788680.apk;OVERRIDES=Recorder;PRESIGNED
 
 # Wallpapers
 product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
