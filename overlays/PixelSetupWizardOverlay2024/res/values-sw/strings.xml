@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Kama kiratibu kwenye simu yako, Gemini inaweza kukusaidia kuandika ujumbe wa kutoa shukrani, kupanga matukio, kujifunza mambo mapya, kuweka mipangilio ya kengele, kupiga simu na zaidi.
+
+Baada ya kuweka mipangilio kwenye simu yako, bonyeza na ushikilie tu kitufe cha kuwasha/kuzima simu ili uanze kutumia Gemini."</string>
+    <string name="assistant_title">Gemini, kiratibu chako kinachotumia AI kilichojumuishwa</string>
+    <string name="moment_activity_item_add_me_summary">Hakikisha kila mtu anaonekana kwenye picha ya kikundi</string>
+    <string name="moment_activity_item_add_me_title">Niongeze</string>
+    <string name="moment_activity_item_chat_summary">Kiratibu chako kinachotumia AI kimejumuishwa</string>
+    <string name="moment_activity_item_circle_summary">Tafuta kilicho kwenye skrini yako</string>
+    <string name="moment_activity_item_circle_title">Chora Mviringo ili Kutafuta</string>
+    <string name="moment_activity_item_imagine_summary">Unafikiria kuhusu kitu fulani. Pixel inakibuni.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Pata maelezo unayohitaji kwenye picha zako za skrini</string>
+    <string name="moment_description">Tafuta, hifadhi na upange maelezo, kamilisha mambo na uanze kubuni</string>
+    <string name="moment_title">Gundua huduma bora zaidi ya Akiliunde ya Google</string>
+</resources>

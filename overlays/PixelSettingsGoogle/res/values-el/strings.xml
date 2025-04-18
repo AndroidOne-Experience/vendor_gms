@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Δυναμική προσαρμογή της προβολής σε πιο θερμούς ή ψυχρούς τόνους με βάση τον φωτισμό του περιβάλλοντος</string>
+    <string name="display_white_balance_title">Προσαρμοστική απόχρωση</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Κωδικός πρόσβασης</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Μοτίβο</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Συνέχεια χωρίς το Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Με το Pixel Imprint, μπορείτε να ξεκλειδώνετε το τηλέφωνό σας χρησιμοποιώντας το δακτυλικό σας αποτύπωμα. Για λόγους ασφάλειας, αυτή η επιλογή απαιτεί εφεδρικό κλείδωμα οθόνης.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Να επιτρέπεται το Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Με το Pixel Imprint, μπορείτε να χρησιμοποιήσετε το δακτυλικό σας αποτύπωμα για την εξουσιοδότηση αγορών ή τη σύνδεση σε εφαρμογές.
+
+Να είστε προσεκτικοί με τα δακτυλικά αποτυπώματα που προσθέτετε. Αυτές οι ενέργειες θα μπορούν να πραγματοποιηθούν με οποιαδήποτε δακτυλικά αποτυπώματα προσθέσετε στο τηλέφωνό σας.
+
+Σημείωση: Δεν μπορείτε να χρησιμοποιήσετε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε αυτήν τη συσκευή. Για περισσότερες πληροφορίες, επικοινωνήστε με τον διαχειριστή του οργανισμού σας."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ρύθμιση Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Χρήση του Pixel Imprint για ξεκλείδωμα του τηλεφώνου</string>
+</resources>

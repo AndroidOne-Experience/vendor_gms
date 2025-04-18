@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"(N)‏‮As‬‏ ‏‮the‬‏ ‏‮assistant‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮Gemini‬‏ ‏‮can‬‏ ‏‮help‬‏ ‏‮you‬‏ ‏‮write‬‏ ‏‮thank‬‏ ‏‮you‬‏ ‏‮notes,‬‏ ‏‮plan‬‏ ‏‮events,‬‏ ‏‮learn‬‏ ‏‮new‬‏ ‏‮things,‬‏ ‏‮set‬‏ ‏‮alarms,‬‏ ‏‮make‬‏ ‏‮calls,‬‏ ‏‮and‬‏ ‏‮more.‬‏
+
+‏‮After‬‏ ‏‮setting‬‏ ‏‮up‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮just‬‏ ‏‮press‬‏ ‏‮&amp;‬‏ ‏‮hold‬‏ ‏‮the‬‏ ‏‮power‬‏ ‏‮button‬‏ ‏‮to‬‏ ‏‮get‬‏ ‏‮started‬‏ ‏‮with‬‏ ‏‮Gemini.‬‏"</string>
+    <string name="assistant_title">(N)‏‮Gemini,‬‏ ‏‮your‬‏ ‏‮AI‬‏ ‏‮assistant‬‏ ‏‮built-in‬‏</string>
+    <string name="moment_activity_item_add_me_summary">(N)‏‮Make‬‏ ‏‮sure‬‏ ‏‮everyone’s‬‏ ‏‮included‬‏ ‏‮in‬‏ ‏‮a‬‏ ‏‮group‬‏ ‏‮photo‬‏</string>
+    <string name="moment_activity_item_add_me_title">(N)‏‮Add‬‏ ‏‮Me‬‏</string>
+    <string name="moment_activity_item_chat_summary">(N)‏‮Your‬‏ ‏‮AI‬‏ ‏‮assistant‬‏ ‏‮built-in‬‏</string>
+    <string name="moment_activity_item_circle_summary">(N)‏‮Search‬‏ ‏‮what’s‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮screen‬‏</string>
+    <string name="moment_activity_item_circle_title">(N)‏‮Circle‬‏ ‏‮to‬‏ ‏‮Search‬‏</string>
+    <string name="moment_activity_item_imagine_summary">(N)‏‮You‬‏ ‏‮imagine‬‏ ‏‮it.‬‏ ‏‮Pixel‬‏ ‏‮creates‬‏ ‏‮it.‬‏</string>
+    <string name="moment_activity_item_imagine_title">(N)‏‮Studio‬‏</string>
+    <string name="moment_activity_item_memory_summary">(N)‏‮Find‬‏ ‏‮the‬‏ ‏‮info‬‏ ‏‮you‬‏ ‏‮need‬‏ ‏‮from‬‏ ‏‮your‬‏ ‏‮screenshots‬‏</string>
+    <string name="moment_description">(N)‏‮Search,‬‏ ‏‮save,‬‏ ‏‮and‬‏ ‏‮organize‬‏ ‏‮info,‬‏ ‏‮get‬‏ ‏‮things‬‏ ‏‮done,‬‏ ‏‮and‬‏ ‏‮kickstart‬‏ ‏‮creativity‬‏</string>
+    <string name="moment_title">(N)‏‮Discover‬‏ ‏‮Google‬‏ ‏‮AI‬‏ ‏‮at‬‏ ‏‮its‬‏ ‏‮best‬‏</string>
+</resources>

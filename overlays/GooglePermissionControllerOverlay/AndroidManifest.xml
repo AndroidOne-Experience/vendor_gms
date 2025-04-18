@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.overlay.permissioncontroller_gms">
+    <overlay android:targetPackage="com.google.android.permissioncontroller"
+                   android:targetName="PermissionControllerStyles"
+                   android:isStatic="true"
+                   android:priority="0"/>
+</manifest>

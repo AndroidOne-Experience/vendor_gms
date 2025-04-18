@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"‏אם מגדירים את Gemini בתור העוזר הדיגיטלי בטלפון, הוא יכול לעזור לכתוב הודעות תודה, לתכנן אירועים, ללמוד דברים חדשים, להגדיר התראות, להתקשר ועוד.
+
+אחרי שמגדירים את Gemini בטלפון, פשוט לוחצים לחיצה ארוכה על כפתור ההפעלה כדי להתחיל להשתמש ב-Gemini."</string>
+    <string name="assistant_title">‏‫Gemini, עוזר דיגיטלי מובנה מבוסס-AI</string>
+    <string name="moment_activity_item_add_me_summary">כולם מופיעים בתמונה הקבוצתית</string>
+    <string name="moment_activity_item_add_me_title">הצטרפות לתמונה</string>
+    <string name="moment_activity_item_chat_summary">‏עוזר אישי מובנה שמבוסס על AI</string>
+    <string name="moment_activity_item_circle_summary">מחפשים את מה שמוצג במסך</string>
+    <string name="moment_activity_item_circle_title">מקיפים ומחפשים</string>
+    <string name="moment_activity_item_imagine_summary">‏דמיינת משהו? Pixel יכול ליצור אותו!</string>
+    <string name="moment_activity_item_imagine_title">סטודיו</string>
+    <string name="moment_activity_item_memory_summary">מוצאים את המידע שצריך מצילומי המסך</string>
+    <string name="moment_description">מקבלים עזרה בחיפוש וארגון מידע, עובדים ביעילות חסרת תקדים ומוצאים השראה בקלות</string>
+    <string name="moment_title">‏‫AI מבית Google במיטבו</string>
+</resources>

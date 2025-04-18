@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini-ს, როგორც ასისტენტს თქვენს ტელეფონში, შეუძლია დაგეხმაროთ მადლობის წერილების დაწერაში, ღონისძიებების დაგეგმვაში, ახლის სწავლაში, მაღვიძარების დაყენებაში, ზარების განხორციელებაში და სხვა მოქმედებებში.
+
+თქვენი ტელეფონის დაყენების შემდეგ Gemini-ს მუშაობის დასაწყებად უბრალოდ ხანგრძლივად დააჭირეთ ჩართვის ღილაკს."</string>
+    <string name="assistant_title">Gemini, თქვენი ჩაშენებული AI ასისტენტი</string>
+    <string name="moment_activity_item_add_me_summary">დარწმუნდით, რომ ყველა ჩართულია ჯგუფის ფოტოში</string>
+    <string name="moment_activity_item_add_me_title">დამამატე</string>
+    <string name="moment_activity_item_chat_summary">თქვენი ჩაშენებული AI ასისტენტი</string>
+    <string name="moment_activity_item_circle_summary">თქვენს ეკრანზე არსებული კონტენტის ძიება</string>
+    <string name="moment_activity_item_circle_title">ძიება წრის მოხაზვით</string>
+    <string name="moment_activity_item_imagine_summary">თქვენ წარმოიდგენთ. Pixel კი შექმნის.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">იპოვეთ საჭირო ინფორმაცია თქვენი ეკრანის ანაბეჭდებიდან</string>
+    <string name="moment_description">მოიძიეთ, დაიმახსოვრეთ და დააორგანიზეთ ინფორმაცია, მოაგვარეთ საქმეები და საფუძველი ჩაუყარეთ შემოქმედებითობას</string>
+    <string name="moment_title">აღმოაჩინეთ Google-ის ხელოვნური ინტელექტი მისი მაქსიმალური შესაძლებლობებით</string>
+</resources>

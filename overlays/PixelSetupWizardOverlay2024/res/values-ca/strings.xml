@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Com a assistent al telèfon, Gemini et pot ajudar a escriure notes d'agraïment, planificar esdeveniments, aprendre coses noves, configurar alarmes, fer trucades i més.
+
+Després de configurar el telèfon, mantén premut el botó d'engegada per començar a fer servir Gemini."</string>
+    <string name="assistant_title">"Gemini, el teu assistent d'IA integrat"</string>
+    <string name="moment_activity_item_add_me_summary">"Assegura't que tothom surti en una foto de grup"</string>
+    <string name="moment_activity_item_add_me_title">Afegeix-me</string>
+    <string name="moment_activity_item_chat_summary">"El teu assistent d'IA integrat"</string>
+    <string name="moment_activity_item_circle_summary">Cerca el que es mostra a la pantalla</string>
+    <string name="moment_activity_item_circle_title">Encercla per cercar</string>
+    <string name="moment_activity_item_imagine_summary">Tu poses la idea. Pixel la crea.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Troba la informació que necessites a partir de les captures de pantalla</string>
+    <string name="moment_description">Cerca, desa i organitza informació, enllesteix tasques i dona curs a la creativitat</string>
+    <string name="moment_title">Descobreix el millor de la IA de Google</string>
+</resources>

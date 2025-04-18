@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Динамично адаптира екрана към по-топли или по-студени цветови тонове въз основа на околното осветление</string>
+    <string name="display_white_balance_title">Адаптивен тон</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + парола</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + фигура</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + ПИН код</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Продължаване без Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">С Pixel Imprint можете да отключвате телефона си посредством отпечатъка си. От съображения за сигурност трябва да зададете резервна опция за заключване на екрана.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Разрешаване на Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"С Pixel Imprint можете да използвате отпечатъка си, за да оторизирате покупки или да влизате в приложения.
+
+Внимавайте чии отпечатъци добавяте, тъй като с тях ще могат да се извършват изброените неща.
+
+Забележка: Не можете да отключвате това устройство с отпечатъка си. За повече информация се свържете с администратора на организацията си."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Настройване на Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Използвайте Pixel Imprint, за да отключите телефона си</string>
+</resources>

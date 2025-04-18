@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"ଆପଣଙ୍କ ଫୋନରେ ସହାୟକ ଭାବରେ Gemini ଧନ୍ୟବାଦ ନୋଟ ଲେଖିବା, ଇଭେଣ୍ଟଗୁଡ଼ିକୁ ପ୍ଲାନ କରିବା, ନୂଆ ବିଷୟଗୁଡ଼ିକ ଜାଣିବା, ଆଲାରାମ ସେଟ କରିବା, କଲ କରିବା ଏବଂ ଆହୁରି ଅନେକ କିଛି ପାଇଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବ।
+
+ଆପଣଙ୍କ ଫୋନ ସେଟ ଅପ କରିବା ପରେ, Gemini ସହ ଆରମ୍ଭ କରିବା ପାଇଁ କେବଳ ପାୱାର ବଟନକୁ ଦବାଇ ଧରି ରଖନ୍ତୁ।"</string>
+    <string name="assistant_title">Gemini, ଆପଣଙ୍କ AI ସହାୟତା ବିଲ୍ଟ-ଇନ</string>
+    <string name="moment_activity_item_add_me_summary">ଏକ ଗ୍ରୁପ ଫଟୋରେ ସମସ୍ତେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିବା ସୁନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="moment_activity_item_add_me_title">ମୋତେ</string>
+    <string name="moment_activity_item_chat_summary">ଆପଣଙ୍କ AI ଆସିଷ୍ଟାଣ୍ଟ ବିଲ୍ଟ-ଇନ</string>
+    <string name="moment_activity_item_circle_summary">ଆପଣଙ୍କ ସ୍କ୍ରିନରେ କଣ ଅଛି ତାହା ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="moment_activity_item_circle_title">ସର୍ଚ୍ଚ କରିବାକୁ ସର୍କଲ କରନ୍ତୁ</string>
+    <string name="moment_activity_item_imagine_summary">ଆପଣ ଏହାକୁ କଳ୍ପନା କରନ୍ତୁ। Pixel ଏହାକୁ ତିଆରି କରେ।</string>
+    <string name="moment_activity_item_imagine_title">ଷ୍ଟୁଡିଓ</string>
+    <string name="moment_activity_item_memory_summary">ଆପଣଙ୍କ ସ୍କ୍ରିନସଟଗୁଡ଼ିକରୁ ଆପଣ ଆବଶ୍ୟକ କରୁଥିବା ସୂଚନା ପାଆନ୍ତୁ</string>
+    <string name="moment_description">ସର୍ଚ୍ଚ କରନ୍ତୁ, ସେଭ କରନ୍ତୁ ଏବଂ ସୂଚନାକୁ ବ୍ୟବସ୍ଥିତ କରନ୍ତୁ, କାର୍ଯ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ ଓ କ୍ରିଏଟିଭିଟି ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="moment_title">ସର୍ବୋତ୍ତମ Google AI ଡିସ୍କଭର କରନ୍ତୁ</string>
+</resources>

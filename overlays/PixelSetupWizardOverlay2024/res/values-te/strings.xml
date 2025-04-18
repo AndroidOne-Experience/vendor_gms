@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"మీ ఫోన్‌లో అసిస్టెంట్‌గా, థ్యాంక్ యూ నోట్స్ రాయడం, ఈవెంట్‌లను ప్లాన్ చేయడం, కొత్త విషయాలను నేర్చుకోవడం, అలారంలను సెట్ చేయడం, కాల్స్ చేయడం లాంటి మరెన్నో చేయడంలో Gemini మీకు సహాయం చేయగలదు.
+
+మీ ఫోన్‌ను సెటప్ చేసిన తర్వాత, Geminiని ఉపయోగించటం మొదలుపెట్టడానికి కేవలం పవర్ బటన్‌ను నొక్కి, పట్టుకుంటే సరిపోతుంది."</string>
+    <string name="assistant_title">Gemini, మీ AI అసిస్టెంట్ బిల్ట్-ఇన్</string>
+    <string name="moment_activity_item_add_me_summary">గ్రూప్ ఫోటోలో అందరూ ఉన్నారని నిర్ధారించుకోండి</string>
+    <string name="moment_activity_item_add_me_title">కలిసి ఫోటో దిగండి</string>
+    <string name="moment_activity_item_chat_summary">మీ AI అసిస్టెంట్ బిల్ట్-ఇన్</string>
+    <string name="moment_activity_item_circle_summary">మీ స్క్రీన్‌పై ఉన్న వాటిని సెర్చ్ చేయండి</string>
+    <string name="moment_activity_item_circle_title">సెర్చ్ చేయడానికి సర్కిల్ గీయండి</string>
+    <string name="moment_activity_item_imagine_summary">మీరు దేనైనా ఊహించుకోండి. Pixel దీనిని క్రియేట్ చేస్తుంది.</string>
+    <string name="moment_activity_item_imagine_title">స్టూడియో</string>
+    <string name="moment_activity_item_memory_summary">మీకు అవసరమైన సమాచారాన్ని మీ స్క్రీన్‌షాట్‌లలో కనుగొనండి</string>
+    <string name="moment_description">సమాచారాన్ని సెర్చ్ చేయండి, సేవ్ చేయండి, అలాగే మేనేజ్ చేయండి, పనులను పూర్తి చేయండి, క్రియేటివిటీని కొనసాగించండి</string>
+    <string name="moment_title">Googleకు చెందిన AI టెక్నాలజీల నుండి అత్యుత్తమమైన ప్రయోజనాన్ని పొందండి</string>
+</resources>

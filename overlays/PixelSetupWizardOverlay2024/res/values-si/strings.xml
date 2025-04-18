@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"ඔබේ දුරකථනයෙහි සහායකයා ලෙස, Gemini ඔබට ස්තුති සටහන් ලිවීමට, සිදුවීම් සැලසුම් කිරීමට, අලුත් දේවල් ඉගෙන ගැනීමට, එලාම් සැකසීමට, ඇමතුම් ගැනීමට, සහ තවත් බොහෝ දේ කිරීමට උදවු කළ හැක.
+
+ඔබේ දුරකථනය පිහිටුවීමෙන් පසු, Gemini සමග පටන් ගැනීමට බල බොත්තම ඔබාගෙන සිටින්න."</string>
+    <string name="assistant_title">Gemini, ඔබේ AI සහායක එක්ව තනා</string>
+    <string name="moment_activity_item_add_me_summary">සමූහ ඡායාරූපයකට සියලු දෙනා ඇතුළත් කර ඇති බවට වග බලා ගන්න</string>
+    <string name="moment_activity_item_add_me_title">මා එක් කරන්න</string>
+    <string name="moment_activity_item_chat_summary">ඔබේ AI සහයක තිළැලි</string>
+    <string name="moment_activity_item_circle_summary">ඔබේ තිරය මත ඇති දේ සොයන්න</string>
+    <string name="moment_activity_item_circle_title">සෙවීමට කවය</string>
+    <string name="moment_activity_item_imagine_summary">ඔබ එය කල්පනා කරන්න. Pixel එය සාදයි.</string>
+    <string name="moment_activity_item_imagine_title">ස්ටූඩියෝ</string>
+    <string name="moment_activity_item_memory_summary">ඔබේ තිර රූ වලින් ඔබට අවශ්‍ය තතු සොයා ගන්න</string>
+    <string name="moment_description">තොරතුරු සොයන්න, සුරකින්න, සහ සංවිධාන කරන්න, දේවල් සිදු කර ගන්න, නිර්මාණශීලීත්වය ආරම්භ කරන්න</string>
+    <string name="moment_title">Google AI එහි උපරිමයෙන් සොයා ගන්න</string>
+</resources>

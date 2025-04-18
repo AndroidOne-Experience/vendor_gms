@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Como asistente en tu teléfono, Gemini puede ayudarte a escribir notas de agradecimiento, planificar eventos, aprender cosas nuevas, poner alarmas, hacer llamadas y más.
+
+Después de configurar tu teléfono, solo tienes que mantener pulsado el botón de encendido para empezar a usar Gemini."</string>
+    <string name="assistant_title">Gemini, tu asistente de IA integrado</string>
+    <string name="moment_activity_item_add_me_summary">Asegúrate de que salgan todos en la foto de grupo</string>
+    <string name="moment_activity_item_add_me_title">Inclúyeme</string>
+    <string name="moment_activity_item_chat_summary">Tu asistente de IA integrado</string>
+    <string name="moment_activity_item_circle_summary">Busca lo que hay en tu pantalla</string>
+    <string name="moment_activity_item_circle_title">Rodea para buscar</string>
+    <string name="moment_activity_item_imagine_summary">Tú pones la idea. Pixel la hace realidad.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Encuentra la información que necesitas a partir de tus capturas de pantalla</string>
+    <string name="moment_description">Busca, guarda y organiza información, completa tareas y da rienda suelta a tu creatividad</string>
+    <string name="moment_title">Descubre lo mejor de la IA de Google</string>
+</resources>

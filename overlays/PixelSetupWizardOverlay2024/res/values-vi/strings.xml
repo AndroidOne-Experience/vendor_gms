@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Với vai trò là trợ lý trên điện thoại của bạn, Gemini có thể giúp bạn viết thư cảm ơn, lên kế hoạch sự kiện, học hỏi những điều mới, đặt chuông báo, gọi điện và nhiều việc khác.
+
+Sau khi thiết lập điện thoại, bạn chỉ cần nhấn và giữ nút nguồn để bắt đầu sử dụng Gemini."</string>
+    <string name="assistant_title">Gemini, trợ lý AI tích hợp sẵn</string>
+    <string name="moment_activity_item_add_me_summary">Đảm bảo ảnh nhóm bạn chụp có mặt mọi người</string>
+    <string name="moment_activity_item_add_me_title">Thêm tôi vào ảnh</string>
+    <string name="moment_activity_item_chat_summary">Trợ lý AI tích hợp sẵn</string>
+    <string name="moment_activity_item_circle_summary">Tìm kiếm nội dung trên màn hình</string>
+    <string name="moment_activity_item_circle_title">Khoanh tròn để tìm kiếm</string>
+    <string name="moment_activity_item_imagine_summary">Pixel biến ý tưởng của bạn thành hiện thực.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Tìm thông tin bạn cần từ ảnh chụp màn hình</string>
+    <string name="moment_description">Tìm kiếm, lưu và sắp xếp thông tin, hoàn thành các việc và khơi dậy sự sáng tạo</string>
+    <string name="moment_title">Khám phá sức mạnh AI của Google</string>
+</resources>

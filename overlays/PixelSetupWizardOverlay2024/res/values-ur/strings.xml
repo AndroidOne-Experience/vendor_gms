@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"‏آپ کے فون پر اسسٹنٹ کے طور پر، Gemini شکریہ کے نوٹ لکھنے، ایونٹس کی منصوبہ بندی کرنے، نئی چیزیں سیکھنے، الارم سیٹ کرنے، کال کرنے اور مزید بہت کچھ کرنے میں آپ کی مدد کر سکتا ہے۔
+
+Gemini کے ساتھ شروع کرنے کے لیے، اپنا فون سیٹ اپ کرنے کے بعد بس پاور بٹن کو چھوئیں اور دبائے رکھیں۔"</string>
+    <string name="assistant_title">‏Gemini آپ کے آلہ میں پہلے سے شامل AI اسسٹنٹ ہے</string>
+    <string name="moment_activity_item_add_me_summary">یقینی بنائیں کہ ہر کوئی گروپ تصویر میں شامل ہے</string>
+    <string name="moment_activity_item_add_me_title">مجھے شامل کریں</string>
+    <string name="moment_activity_item_chat_summary">‏آپ کے آلہ میں پہلے سے شامل AI اسسٹنٹ</string>
+    <string name="moment_activity_item_circle_summary">آپ کی اسکرین پر جو کچھ ہے اسے تلاش کریں</string>
+    <string name="moment_activity_item_circle_title">تلاش کرنے کیلئے دائرہ بنائیں</string>
+    <string name="moment_activity_item_imagine_summary">‏آپ بس تصور کریں۔ ‫Pixel اسے تخلیق کرتا ہے۔</string>
+    <string name="moment_activity_item_imagine_title">اسٹوڈیو</string>
+    <string name="moment_activity_item_memory_summary">اپنی اسکرین شاٹس سے اپنی ضرورت کی معلومات تلاش کریں</string>
+    <string name="moment_description">تلاش کریں، محفوظ کریں، اور معلومات کو منظم کریں، کام مکمل کریں، اور تخلیقی کام شروع کریں</string>
+    <string name="moment_title">‏بہترین Google AI کو دریافت کریں</string>
+</resources>

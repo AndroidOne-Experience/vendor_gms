@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometric_app_setting_name">使用人臉或指紋解鎖</string>
+    <string name="biometric_dialog_default_subtitle">請使用人臉或指紋解鎖功能驗證身分，才能繼續操作</string>
+    <string name="biometric_or_screen_lock_app_setting_name">使用人臉或指紋解鎖或者螢幕鎖定功能</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">請使用人臉或指紋解鎖或者螢幕鎖定功能驗證身分，才能繼續操作</string>
+    <string name="harmful_app_warning_title">Play 安全防護警告</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans\"&gt;受 &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Android&lt;/font&gt;&lt;font face=\"google-sans\"&gt; 保護&lt;/font&gt;</string>
+</resources>

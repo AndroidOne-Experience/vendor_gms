@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Ως βοηθός στο τηλέφωνό σας, το Gemini μπορεί να σας βοηθήσει να γράψετε ευχαριστήρια σημειώματα, να προγραμματίσετε συμβάντα, να μάθετε νέα πράγματα, να ρυθμίσετε ξυπνητήρια, να κάνετε κλήσεις και πολλά άλλα.
+
+Αφού ρυθμίσετε το τηλέφωνό σας, απλώς πατήστε παρατεταμένα το κουμπί λειτουργίας για να ξεκινήσετε τη χρήση του Gemini."</string>
+    <string name="assistant_title">Gemini, ο ενσωματωμένος βοηθός σας AI</string>
+    <string name="moment_activity_item_add_me_summary">Βεβαιωθείτε πως όλοι έχουν συμπεριληφθεί στην ομαδική φωτογραφία</string>
+    <string name="moment_activity_item_add_me_title">Πρόσθεσέ με</string>
+    <string name="moment_activity_item_chat_summary">Ο ενσωματωμένος βοηθός σας AI</string>
+    <string name="moment_activity_item_circle_summary">Αναζητήστε το περιεχόμενο στην οθόνη σας</string>
+    <string name="moment_activity_item_circle_title">Κυκλώστε για αναζήτηση</string>
+    <string name="moment_activity_item_imagine_summary">Εσείς το φαντάζεστε. Το Pixel το δημιουργεί.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Βρείτε τις πληροφορίες που χρειάζεστε από τα στιγμιότυπα οθόνης σας</string>
+    <string name="moment_description">Αναζητήστε, αποθηκεύστε και οργανώστε πληροφορίες, ολοκληρώστε εργασίες και δώστε ώθηση στη δημιουργικότητα</string>
+    <string name="moment_title">Ανακαλύψτε το Google AI στα καλύτερά του</string>
+</resources>

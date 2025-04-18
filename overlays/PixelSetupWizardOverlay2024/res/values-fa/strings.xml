@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"‏‫Gemini به‌عنوان دستیار در تلفن شما می‌تواند برای نوشتن یادداشت تشکر، ترتیب دادن رویداد، یادگیری چیزهای جدید، تنظیم زنگ ساعت، برقراری تماس، و کارهای دیگر به شما کمک کند.
+
+پس‌از راه‌اندازی تلفن، کافی است برای اجرای Gemini دکمه روشن/خاموش را فشار دهید و نگه دارید."</string>
+    <string name="assistant_title">‏Gemini، دستیار هوش مصنوعی تعبیه‌شده در دستگاه شما</string>
+    <string name="moment_activity_item_add_me_summary">مطمئن شوید همه در عکس گروهی هستند</string>
+    <string name="moment_activity_item_add_me_title">افزودن عکاس</string>
+    <string name="moment_activity_item_chat_summary">دستیار هوش مصنوعی تعبیه‌شده در دستگاه شما</string>
+    <string name="moment_activity_item_circle_summary">محتوای صفحه‌نمایش را جستجو کنید</string>
+    <string name="moment_activity_item_circle_title">حلقه جستجو</string>
+    <string name="moment_activity_item_imagine_summary">‏تصورش کنید. ‫Pixel آن را می‌سازد.</string>
+    <string name="moment_activity_item_imagine_title">استودیو</string>
+    <string name="moment_activity_item_memory_summary">اطلاعات موردنیازتان را در نماگرفت‌ها پیدا کنید</string>
+    <string name="moment_description">اطلاعات را جستجو، ذخیره، و سازمان‌دهی کنید، کارهایتان را انجام دهید، و خلاقیت خود را به‌جریان بیندازید</string>
+    <string name="moment_title">‏هوش مصنوعی Google را در بهترین حالت خود کاوش کنید</string>
+</resources>

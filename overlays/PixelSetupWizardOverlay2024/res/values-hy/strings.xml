@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Որպես ձեր հեռախոսի օգնական՝ Gemini-ը կօգնի ձեզ գրել շնորհակալական նամակներ, պլանավորել միջոցառումներ, սովորել նոր բաներ, դնել զարթուցիչներ, կատարել զանգեր և այլ գործողություններ։
+
+Հեռախոսը կարգավորելուց հետո պարզապես սեղմեք և պահեք սնուցման կոճակը և սկսեք շփվել Gemini-ի հետ։"</string>
+    <string name="assistant_title">Gemini. ձեր ներկառուցված ԱԲ օգնականը</string>
+    <string name="moment_activity_item_add_me_summary">Համոզվեք, որ բոլորը ներառված են խմբային լուսանկարում</string>
+    <string name="moment_activity_item_add_me_title">Ավելացրու ինձ</string>
+    <string name="moment_activity_item_chat_summary">Ձեր ներկառուցված ԱԲ օգնականը</string>
+    <string name="moment_activity_item_circle_summary">Որոնեք այն, ինչ ձեր էկրանին է</string>
+    <string name="moment_activity_item_circle_title">Շրջագծել որոնելու համար</string>
+    <string name="moment_activity_item_imagine_summary">Առաջ քաշեք գաղափարներ, և Pixel-ը կօգնի կյանքի կոչել դրանք։</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Գտեք ձեզ անհրաժեշտ տեղեկությունները ձեր սքրինշոթներից</string>
+    <string name="moment_description">Որոնեք, պահեք և դասավորեք տեղեկությունները, կատարեք առաջադրանքներ և զարգացրեք ստեղծարարությունը</string>
+    <string name="moment_title">Բացահայտեք Google AI-ի լավագույն կողմերը</string>
+</resources>

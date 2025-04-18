@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Ставши помічником на вашому телефоні, Gemini може допомогти вам писати листи, планувати події, дізнаватися щось нове, налаштовувати будильники, здійснювати дзвінки тощо.
+
+Щоб почати спілкуватися з Gemini, просто утримуйте кнопку живлення після налаштування телефона."</string>
+    <string name="assistant_title">Gemini – ваш вбудований помічник на основі ШІ</string>
+    <string name="moment_activity_item_add_me_summary">Будьте певні, що на групову фотографію потраплять усі</string>
+    <string name="moment_activity_item_add_me_title">Додати мене</string>
+    <string name="moment_activity_item_chat_summary">Ваш вбудований помічник на основі ШІ</string>
+    <string name="moment_activity_item_circle_summary">Шукайте контент, який ви бачите на екрані</string>
+    <string name="moment_activity_item_circle_title">Обвести й знайти</string>
+    <string name="moment_activity_item_imagine_summary">Ви уявляєте – Pixel створює.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Знаходьте потрібну інформацію на знімках екрана</string>
+    <string name="moment_description">Шукайте, зберігайте й упорядковуйте інформацію, виконуйте завдання та дайте волю творчості.</string>
+    <string name="moment_title">Огляд найкращих можливостей ШІ від Google</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"আপোনাৰ ফ’নত সহায়ক হিচাপে Geminiএ আপোনাক ধন্যবাদ জ্ঞাপন কৰিবলৈ টোকা লিখা, অনুষ্ঠান পৰিকল্পনা কৰা, নতুন কথা শিকা, এলাৰ্ম ছেট কৰা, কল কৰাত আৰু আন বহুতো কাৰ্যত সহায় কৰিব পাৰে।
+
+আপোনাৰ ফ’নটো ছেট আপ কৰাৰ পাছত, Geminiৰ জৰিয়তে আৰম্ভ কৰিবলৈ মাত্ৰ পাৱাৰ বুটাম টিপি হেঁচি ৰাখক।"</string>
+    <string name="assistant_title">Gemini, আপোনাৰ AI সহযোগী বিল্ট ইন</string>
+    <string name="moment_activity_item_add_me_summary">সমূহীয়া ফট’ত সকলোকে অন্তৰ্ভুক্ত কৰাটো নিশ্চিত কৰক</string>
+    <string name="moment_activity_item_add_me_title">মোক যোগ কৰক</string>
+    <string name="moment_activity_item_chat_summary">আপোনাৰ AI সহযোগী বিল্ট ইন</string>
+    <string name="moment_activity_item_circle_summary">আপোনাৰ স্ক্ৰীনত থকা সমলৰ সন্ধান কৰক</string>
+    <string name="moment_activity_item_circle_title">সন্ধান কৰিবৰ বাবে বৃত্ত</string>
+    <string name="moment_activity_item_imagine_summary">আপুনি এইটো কল্পনা কৰক। Pixelএ এইটো সৃষ্টি কৰিব।</string>
+    <string name="moment_activity_item_imagine_title">ষ্টুডিঅ’</string>
+    <string name="moment_activity_item_memory_summary">আপোনাৰ স্ক্ৰীনশ্বটৰ পৰা আপোনাক প্ৰয়োজন হোৱা তথ্য বিচাৰি পাওক</string>
+    <string name="moment_description">তথ্য সন্ধান কৰক, ছেভ কৰক আৰু শৃংখলাবদ্ধ কৰক, কামবোৰ সম্পন্ন কৰক আৰু সৃষ্টিশীলতা তাৎক্ষণিকভাৱে আৰম্ভ কৰক</string>
+    <string name="moment_title">Google AIক সৰ্বোত্তম ৰূপত বিচাৰি পাওক</string>
+</resources>

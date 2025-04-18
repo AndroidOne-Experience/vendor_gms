@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_batteryPackageTypeService">
+        <item>com.google.android.gms</item>
+    </string-array>
+    <string-array name="config_defaultCloudSearchServices">
+        <item>com.android.vending/com.google.android.finsky.cloudsearch.PlayCloudSearchService</item>
+        <item>com.android.chrome/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
+        <item>com.chrome.canary/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
+        <item>com.chrome.dev/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
+        <item>com.chrome.beta/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
+    </string-array>
+    <string-array name="config_packagesExemptFromSuspension">
+        <item>com.google.android.apps.wellbeing</item>
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.android.systemui</item>
+        <item>com.android.settings</item>
+        <item>com.google.android.apps.pixelmigrate</item>
+        <item>com.google.android.apps.restore</item>
+    </string-array>
+    <string-array name="config_priorityOnlyDndExemptPackages">
+        <item>com.google.android.dialer</item>
+        <item>com.android.server.telecom</item>
+        <item>android</item>
+        <item>com.android.systemui</item>
+    </string-array>
+    <string-array name="config_profcollectOnCameraOpenedSkipPackages">
+        <item>com.google.android.as</item>
+    </string-array>
+    <string-array name="config_rawContactsEligibleDefaultAccountTypes">
+        <item>com.google</item>
+    </string-array>
+    <string-array name="config_setRawContactsDefaultAccountKnownSigners">
+        <item>F0FD6C5B410F25CB25C3B53346C8972FAE30F8EE7411DF910480AD6B2D60DB83</item>
+    </string-array>
+</resources>

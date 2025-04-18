@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini 作為你的手機小幫手，可協助你撰寫感謝字條、規劃活動、學習新知識、設定鬧鐘、打電話等。
+
+設定手機後，按住開關按鈕即可開始使用 Gemini。"</string>
+    <string name="assistant_title">內置 AI 數碼助理 Gemini</string>
+    <string name="moment_activity_item_add_me_summary">確保團體照拍到所有人</string>
+    <string name="moment_activity_item_add_me_title">加上攝影師</string>
+    <string name="moment_activity_item_chat_summary">內置 AI 數碼助理</string>
+    <string name="moment_activity_item_circle_summary">搜尋畫面上的內容</string>
+    <string name="moment_activity_item_circle_title">一圈即搜</string>
+    <string name="moment_activity_item_imagine_summary">你想得出，Pixel 做得到。</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">在螢幕截圖中尋找所需資訊</string>
+    <string name="moment_description">搜尋、儲存、整理資料，處理生活大小事，同時激發創意</string>
+    <string name="moment_title">探索 Google AI 的強大功能</string>
+</resources>

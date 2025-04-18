@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Als digitaler Assistent auf deinem Smartphone kann Gemini dir beispielsweise dabei helfen, Dankesschreiben zu verfassen, Events zu planen, neue Dinge zu lernen, Wecker zu stellen oder jemanden anzurufen.
+
+Wenn du mit der Einrichtung deines Smartphones fertig bist, kannst du Gemini starten, indem du die Ein/Aus-Taste gedrückt hältst."</string>
+    <string name="assistant_title">Gemini, dein integrierter KI-Assistent</string>
+    <string name="moment_activity_item_add_me_summary">Niemand fehlt mehr auf dem Gruppenfoto</string>
+    <string name="moment_activity_item_add_me_title">Mich hinzufügen</string>
+    <string name="moment_activity_item_chat_summary">Dein integrierter KI-Assistent</string>
+    <string name="moment_activity_item_circle_summary">Einfach nach Dingen suchen, die du auf deinem Display siehst</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Du hast Ideen – Pixel setzt sie um</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Relevante Informationen auf Screenshots finden</string>
+    <string name="moment_description">Pixel hilft dir, Informationen zu suchen, zu speichern und zu organisieren, Dinge zu erledigen und deine Kreativität in Schwung zu bringen</string>
+    <string name="moment_title">Entdecke das Beste von Google AI</string>
+</resources>

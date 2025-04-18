@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"A telefonján működő asszisztensként a Gemini segíthet köszönőüzenetek megírásában, események megtervezésében, új dolgok megtanulásában, ébresztők beállításában, hívások indításában és még sok minden másban.
+
+A telefon beállítása után a bekapcsológombot nyomva tartva kezdheti el használni a Geminit."</string>
+    <string name="assistant_title">Gemini, az Ön beépített AI-asszisztense</string>
+    <string name="moment_activity_item_add_me_summary">Ezzel a funkcióval senki sem marad le a csoportképekről</string>
+    <string name="moment_activity_item_add_me_title">Közös fotó</string>
+    <string name="moment_activity_item_chat_summary">Az Ön beépített AI-asszisztense</string>
+    <string name="moment_activity_item_circle_summary">Rákereshet a képernyőjén látható tartalmakra</string>
+    <string name="moment_activity_item_circle_title">Bekarikázással keresés</string>
+    <string name="moment_activity_item_imagine_summary">Ön elképzeli. A Pixel megvalósítja.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Megkeresheti a szükséges információkat a képernyőképeken</string>
+    <string name="moment_description">Keressen, mentse és rendszerezze az információkat, intézzen ügyeket és fokozza kreativitását</string>
+    <string name="moment_title">Fedezze fel a Google AI legjavát</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Als de assistent op je telefoon kan Gemini je helpen om onder andere bedankbriefjes te schrijven, evenementen te plannen, iets nieuws te leren, wekkers te zetten en te bellen.
+
+Nadat je je telefoon hebt ingesteld, houd je gewoon de aan/uit-knop ingedrukt om aan de slag te gaan met Gemini."</string>
+    <string name="assistant_title">Gemini, je ingebouwde AI-assistent</string>
+    <string name="moment_activity_item_add_me_summary">Zorg dat iedereen op een groepsfoto staat</string>
+    <string name="moment_activity_item_add_me_title">Voeg mij toe</string>
+    <string name="moment_activity_item_chat_summary">Je ingebouwde AI-assistent</string>
+    <string name="moment_activity_item_circle_summary">Zoek naar wat er op je scherm staat</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Jij bedenkt het, de Pixel maakt het</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Vind de informatie die je nodig hebt in je screenshots</string>
+    <string name="moment_description">Zoek, bewaar en organiseer informatie, krijg werk gedaan en geef je creativiteit een boost</string>
+    <string name="moment_title">Ontdek het beste van de AI van Google</string>
+</resources>

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "Pixelframework-res",
+    product_specific: true,
+}

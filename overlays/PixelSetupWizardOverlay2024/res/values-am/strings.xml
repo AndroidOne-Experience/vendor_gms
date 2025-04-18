@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"በስልክዎ ላይ እንዳለው ረዳት Gemini የአመሰግናለሁ ማስታወሻዎችን እንዲጽፉ፣ ክስተቶችን እንዲያቅዱ፣ አዲስ ነገሮችን እንዲማሩ፣ ማንቂያዎችን እንዲያቀናብሩ፣ ጥሪዎች እንዲያደርጉ እና ለሌሎችም ሊያግዝዎ ይችላል።
+
+ስልክዎን ካዋቀሩ በኋላ Gemini ለመጀመር የማብሪያ/ማጥፊያ ቁልፍን ተጭነው ይያዙ።"</string>
+    <string name="assistant_title">Gemini፣ የእርስዎ ሰው ሠራሽ አስተውሎት ረዳት አብሮ ገነብ</string>
+    <string name="moment_activity_item_add_me_summary">ሁሉም ሰው በቡድን ፎቶ ውስጥ እንደተካተተ ያረጋግጡ</string>
+    <string name="moment_activity_item_add_me_title">እኔን አክል</string>
+    <string name="moment_activity_item_chat_summary">የእርስዎ አብሮ ገነብ ሰው ሠራሽ አስተውሎት ረዳት</string>
+    <string name="moment_activity_item_circle_summary">በማያ ገፅዎ ላይ ያለውን ይፈልጉ</string>
+    <string name="moment_activity_item_circle_title">ለመፈለግ ያክብቡ</string>
+    <string name="moment_activity_item_imagine_summary">ያስቡት። Pixel ይፈጥረዋል።</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">ከቅጽበታዊ ገፅ ዕይታዎችዎ የሚያስፈልግዎትን መረጃ ያግኙ</string>
+    <string name="moment_description">መረጃን ይፈልጉ፣ ያስቀምጡ እና ያደራጁ፣ ነገሮችን ያከናውኑ እና ፈጠራን ይጀምሩ</string>
+    <string name="moment_title">በምርጥ ሁኔታው Google ሰው ሠራሽ አስተውሎት ያግኙ</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Телефоныңыздағы көмекші ретінде Gemini алғыс жазбаларын жазуға, іс-шараларды жоспарлауға, жаңа нәрселер үйренуге, оятқыштарды орнатуға, қоңырау шалуға және т.б. әрекеттерді орындауға көмектеседі.
+
+Телефонды реттегеннен кейін, Gemini-мен жұмысты бастау үшін қуат түймесін басып тұрыңыз."</string>
+    <string name="assistant_title">Gemini, ендірілген жасанды интеллектілі көмекшіңіз</string>
+    <string name="moment_activity_item_add_me_summary">Топтық фотосуретке бәрі қосылып тұрсын.</string>
+    <string name="moment_activity_item_add_me_title">Мені де қос</string>
+    <string name="moment_activity_item_chat_summary">Ендірілген жасанды интеллектілі көмекшіңіз</string>
+    <string name="moment_activity_item_circle_summary">Экрандағы элементті іздей аласыз.</string>
+    <string name="moment_activity_item_circle_title">Қоршау арқылы іздеу</string>
+    <string name="moment_activity_item_imagine_summary">Сіз бір нәрсені елестетіңіз. Pixel оны жасайды.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Өзіңізге керек ақпаратты скриншоттардан алыңыз.</string>
+    <string name="moment_description">Ақпаратты іздеңіз, сақтаңыз және ретке келтіріңіз. Тапсырмаларды орындап, шығармашылыққа серпін беріңіз.</string>
+    <string name="moment_title">Google AI технологиясының ең озық мүмкіндіктері</string>
+</resources>

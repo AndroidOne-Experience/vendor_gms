@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">주변 조명에 따라 디스플레이가 따뜻하거나 차가운 느낌의 톤으로 자동 조절됩니다.</string>
+    <string name="display_white_balance_title">톤 자동 조절</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + 비밀번호</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + 패턴</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint 없이 계속하기</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint를 사용하면 지문을 사용하여 휴대전화를 잠금 해제할 수 있습니다. 이 옵션을 사용하려면 보안을 위해 백업 화면 잠금이 필요합니다.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint 허용</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint를 사용하면 지문으로 구매를 승인하거나 앱에 로그인할 수 있습니다.
+
+지문을 추가할 사용자를 신중하게 결정하세요. 지문이 추가된 사용자라면 누구나 이러한 작업을 실행할 수 있습니다.
+
+참고: 이 기기는 지문으로 잠금 해제할 수 없습니다. 자세한 내용은 조직의 관리자에게 문의하세요."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint 설정</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint를 사용하여 휴대전화 잠금 해제</string>
+</resources>

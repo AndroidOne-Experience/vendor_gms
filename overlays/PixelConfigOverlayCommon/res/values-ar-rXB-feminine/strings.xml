@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_start_title">(F)Pixel ‏‮is‬‏ ‏‮starting‬‏…</string>
+    <string name="android_upgrading_title">(F)Pixel ‏‮is‬‏ ‏‮updating‬‏…</string>
+    <string name="config_emergency_dialer_package">(F)‏‮com.google.android.apps.safetyhub‬‏</string>
+</resources>

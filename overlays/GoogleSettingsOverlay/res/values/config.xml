@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Settings intelligence package name -->
+    <string name="config_settingsintelligence_log_action">com.google.android.settings.intelligence.contextualcards.CARD_INTERACTION_RECEIVER</string>
+    
+    <!-- Settings intelligence interaction log intent action -->
+    <string name="config_settingsintelligence_package_name">com.google.android.settings.intelligence</string>
+
+    <!-- Package name and fully-qualified class name for the wallpaper picker activity. -->
+    <string name="config_wallpaper_picker_class">com.google.android.apps.wallpaper.picker.CategoryPickerActivity</string>
+    <string name="config_wallpaper_picker_package">com.google.android.apps.wallpaper</string>
+
+    <!-- Fully-qualified class name for the styles & wallpaper picker activity. -->
+    <string name="config_styles_and_wallpaper_picker_class">com.android.customization.picker.CustomizationPickerActivity</string>
+
+    <!-- List containing the component names of pre-installed screen reader services [DO NOT TRANSLATE] -->
+    <string-array name="config_preinstalled_screen_reader_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed interaction control services [DO NOT TRANSLATE] -->
+    <string-array name="config_preinstalled_interaction_control_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+    </string-array>
+
+    <!-- Sound picker package name -->
+    <string name="config_sound_picker_package_name" translatable="false">
+        com.google.android.soundpicker
+    </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Sebagai asisten di ponsel Anda, Gemini dapat membantu Anda menulis ucapan terima kasih, merencanakan acara, belajar hal baru, menyetel alarm, melakukan panggilan, dan lainnya.
+
+Setelah menyiapkan ponsel Anda, cukup tekan lama tombol daya untuk mulai menggunakan Gemini."</string>
+    <string name="assistant_title">Gemini, asisten AI bawaan Anda</string>
+    <string name="moment_activity_item_add_me_summary">Pastikan semua orang berada dalam foto grup</string>
+    <string name="moment_activity_item_add_me_title">Ikut Foto</string>
+    <string name="moment_activity_item_chat_summary">Asisten AI bawaan Anda</string>
+    <string name="moment_activity_item_circle_summary">Telusuri apa yang ada di layar Anda</string>
+    <string name="moment_activity_item_circle_title">Lingkari untuk Menelusuri</string>
+    <string name="moment_activity_item_imagine_summary">Cukup pikirkan. Pixel akan menciptakannya.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Temukan info yang Anda perlukan dari screenshot</string>
+    <string name="moment_description">Telusuri, simpan, dan atur info, lakukan berbagai hal, dan mulai berkreasi</string>
+    <string name="moment_title">Coba kapabilitas terbaik AI Google</string>
+</resources>

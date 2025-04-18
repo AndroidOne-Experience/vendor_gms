@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">(M)[Ĝööĝļé Þîхéļ ÅVåţåŕ Þîçķéŕ one two three four]</string>
+    <string name="desc_ProfileIcons1">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ ţŵö ðåŕķ-ĝŕééñ šéḿî-çîŕçļéš öñ å ļîĝĥţ ĝŕééñ ɓåçķĝŕöûñð one two three four five six seven eight nine]</string>
+    <string name="desc_ProfileIcons10">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ åñ öŕåñĝé ɓûţţéŕƒļý öñ å ýéļļöŵ ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+    <string name="desc_ProfileIcons11">(M)[βļåçķ ñöšé šĥåþé ŵîţĥ ŕöûñðéð éðĝéš öñ å ðåŕķ ĝŕåý ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons12">(M)[βļåçķ çļöVéŕ šĥåþé ŵîţĥ ŕöûñðéð éðĝéš öñ å ļîĝĥţ ĝŕåý ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons13">(M)[Ļîĝĥţ þûŕþļé ŵîĝĝļý çîŕçļé öñ å ðåŕķ þûŕþļé ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons14">(M)[Ļîĝĥţ ɓļûé çļöVéŕ šĥåþé ŵîţĥ ŕöûñðéð éðĝéš öñ åñ öŕåñĝé ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+    <string name="desc_ProfileIcons15">(M)[Ļîĝĥţ ĝŕééñ ĥéхåĝöñ ŵîţĥ ŕöûñðéð éðĝéš öñ å ðåŕķ ĝŕééñ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons16">(M)[βļåçķ ðîåḿöñð šĥåþé ŵîţĥ ŕöûñðéð éðĝéš öñ å ļîĝĥţ ĝŕåý ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons17">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ åñ öŕåñĝé ļéåƒ öñ å ýéļļöŵ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons18">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ ţĥé þļåñéţ Šåţûŕñ öñ å þéåçĥ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons19">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ ŵĥîţé åñð öŕåñĝé šţåŕš åñð çîŕçļéš îñ å çéļéšţîåļ þåţţéŕñ öñ å ɓļåçķ ɓåçķĝŕöûñð one two three four five six seven eight nine ten eleven]</string>
+    <string name="desc_ProfileIcons2">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ ɓļåçķ åñð ŵĥîţé îñţéŕšéçţîñĝ çýļîñðéŕš one two three four five six seven]</string>
+    <string name="desc_ProfileIcons20">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ å ðöĝ ŵîţĥ ɓļûé éåŕš åñð å ŵĥîţé ƒåçé öñ å ýéļļöŵ ɓåçķĝŕöûñð one two three four five six seven eight nine]</string>
+    <string name="desc_ProfileIcons21">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ å ŵĥîţé ðöVé ƒļýîñĝ ŵîţĥ åñ öļîVé ɓŕåñçĥ öñ å þûŕþļé ɓåçķĝŕöûñð one two three four five six seven eight nine]</string>
+    <string name="desc_ProfileIcons22">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ å ðöĝ ŵîţĥ ɓļåçķ éåŕš åñð å ŵĥîţé ƒåçé öñ å ɓļûé ɓåçķĝŕöûñð one two three four five six seven eight nine]</string>
+    <string name="desc_ProfileIcons23">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ å þîñķ ƒļöŵéŕ ŵîţĥ ĝŕééñ ļéåVéš öñ å çŕéåḿ ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+    <string name="desc_ProfileIcons24">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ šîх ɓļûé çýļîñðéŕš öñ å ŕéð ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons3">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ å ļîĝĥţ ɓļûé çļöVéŕ šĥåþé öñ å ðåŕķ ɓļûé ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+    <string name="desc_ProfileIcons4">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ ţŵö þîñķ, ţĥŕéé-ðîḿéñšîöñåļ ţŕîåñĝļéš one two three four five six seven]</string>
+    <string name="desc_ProfileIcons5">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ ţéåļ ļåýéŕš öñ å ýéļļöŵ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons6">(M)[Åɓšţŕåçţ îļļûšţŕåţîöñ öƒ þûŕþļé ŕöçķš öñ å ĝŕééñ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons7">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ ƒîVé ŵĥîţé, ĝéöḿéţŕîç ƒļöŵéŕš öñ åñ öŕåñĝé ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+    <string name="desc_ProfileIcons8">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ ţĥŕéé ɓļûéɓéŕŕîéš öñ å þîñķ ɓåçķĝŕöûñð one two three four five six seven]</string>
+    <string name="desc_ProfileIcons9">(M)[Þļåýƒûļ îļļûšţŕåţîöñ öƒ å ļéḿöñ ŵîţĥ å ɓļåçķ ļéåƒ öñ å ĝŕééñ ɓåçķĝŕöûñð one two three four five six seven eight]</string>
+</resources>

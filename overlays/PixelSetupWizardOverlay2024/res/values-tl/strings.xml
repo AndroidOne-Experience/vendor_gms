@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Bilang assistant sa iyong telepono, matutulungan ka ng Gemini na magsulat ng mga tala ng pasasalamat, magplano ng mga event, matuto ng mga bagong bagay, magtakda ng mga alarm, tumawag, at higit pa.
+
+Pagkatapos i-set up ang iyong telepono, pindutin lang nang matagal ang power button para makapagsimula sa Gemini."</string>
+    <string name="assistant_title">Gemini, ang built-in na AI assistant mo</string>
+    <string name="moment_activity_item_add_me_summary">Siguruhing kasama ang lahat sa larawan ng grupo</string>
+    <string name="moment_activity_item_add_me_title">Idagdag Ako</string>
+    <string name="moment_activity_item_chat_summary">Ang built-in na AI assistant mo</string>
+    <string name="moment_activity_item_circle_summary">Hanapin kung ano ang nasa iyong screen</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Ang naiisip mo. Gagawin ng Pixel.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Hanapin ang impormasyong kailangan mo mula sa iyong mga screenshot</string>
+    <string name="moment_description">Maghanap, mag-save, at magsaayos ng impormasyon, tumapos ng mga gawain, at linangin ang pagkamalikhain</string>
+    <string name="moment_title">Tuklasin ang pinakamahusay ng Google AI</string>
+</resources>

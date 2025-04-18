@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Precis som assistenten på telefonen kan Gemini hjälpa dig att skriva tackkort, planera evenemang, lära dig nya saker, ställa in alarm, ringa samtal med mera.
+
+När du har ställt in telefonen kommer du igång med Gemini genom att hålla av/på-knappen nedtryckt."</string>
+    <string name="assistant_title">Gemini – din inbyggda AI-assistent</string>
+    <string name="moment_activity_item_add_me_summary">Se till att alla kommer med i gruppfotot</string>
+    <string name="moment_activity_item_add_me_title">Lägg till mig</string>
+    <string name="moment_activity_item_chat_summary">Din inbyggda AI-assistent</string>
+    <string name="moment_activity_item_circle_summary">Sök efter saker på skärmen</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Du får idén. Pixel skapar den.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Hitta informationen du behöver i dina skärmbilder</string>
+    <string name="moment_description">Sök, spara och ordna information, få saker gjorda och sätt fart på kreativiteten</string>
+    <string name="moment_title">Upptäck det bästa från Google AI</string>
+</resources>

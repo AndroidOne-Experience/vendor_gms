@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Telefonunuzdaki asistanınız Gemini; teşekkür notu yazma, etkinlik planlama, yeni şeyler öğrenme, alarm kurma, telefon etme gibi pek çok işlemi yapmanıza yardımcı olur.
+
+Telefonunuzu kurduktan sonra Gemini'ı kullanmaya başlamak için güç düğmesini basılı tutmanız yeterli."</string>
+    <string name="assistant_title">Yerleşik asistan yapay zekanız Gemini</string>
+    <string name="moment_activity_item_add_me_summary">Grup fotoğrafında herkesin olmasını sağlayın</string>
+    <string name="moment_activity_item_add_me_title">Beni Ekle</string>
+    <string name="moment_activity_item_chat_summary">Yerleşik asistan yapay zekanız</string>
+    <string name="moment_activity_item_circle_summary">Ekranınızdakilerle ilgili arama yapın</string>
+    <string name="moment_activity_item_circle_title">Seçerek Arat</string>
+    <string name="moment_activity_item_imagine_summary">Siz hayal edin. Pixel oluştursun.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Ekran görüntülerinizden aradığınız bilgileri bulun</string>
+    <string name="moment_description">Bilgileri arayın, kaydedin ve düzenleyin, işlerinizi halledin, yaratıcılığınızı harekete geçirin</string>
+    <string name="moment_title">"Google Yapay Zeka'nın en iyi özelliklerini tanıyın"</string>
+</resources>

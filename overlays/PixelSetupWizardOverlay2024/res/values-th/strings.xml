@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini จะเป็นผู้ช่วยในโทรศัพท์ที่สามารถช่วยคุณเขียนโน้ต วางแผนกิจกรรม เรียนรู้สิ่งใหม่ๆ ตั้งปลุก โทรออก และอีกมากมาย
+
+หลังจากตั้งค่าโทรศัพท์แล้ว ก็กดค้างที่ปุ่มเปิด/ปิดเพื่อเริ่มต้นใช้งาน Gemini ได้เลย"</string>
+    <string name="assistant_title">Gemini ผู้ช่วย AI ที่มาพร้อมกับเครื่อง</string>
+    <string name="moment_activity_item_add_me_summary">ทำให้ทุกคนได้อยู่ในภาพหมู่</string>
+    <string name="moment_activity_item_add_me_title">เพิ่มฉันในภาพ</string>
+    <string name="moment_activity_item_chat_summary">ผู้ช่วย AI ที่มาพร้อมกับเครื่อง</string>
+    <string name="moment_activity_item_circle_summary">ค้นหาสิ่งที่อยู่บนหน้าจอของคุณ</string>
+    <string name="moment_activity_item_circle_title">วงเพื่อค้นหา</string>
+    <string name="moment_activity_item_imagine_summary">เพียงจินตนาการ Pixel จะทำให้เป็นจริง</string>
+    <string name="moment_activity_item_imagine_title">สตูดิโอ</string>
+    <string name="moment_activity_item_memory_summary">ดูข้อมูลที่คุณต้องการได้จากภาพหน้าจอ</string>
+    <string name="moment_description">ค้นหา บันทึก และจัดระเบียบข้อมูล ทำสิ่งต่างๆ ให้เสร็จสิ้น รวมทั้งปลุกความคิดริเริ่มสร้างสรรค์ในตัวคุณ</string>
+    <string name="moment_title">พบกับ AI ที่ดีที่สุดของ Google</string>
+</resources>

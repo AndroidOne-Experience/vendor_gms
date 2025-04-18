@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.systemui.gxoverlay_gms">
+    <overlay android:targetPackage="com.android.systemui"
+                   android:targetName="SystemUI"
+                   android:isStatic="false"/>
+</manifest>

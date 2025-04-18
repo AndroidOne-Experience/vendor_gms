@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Telefondagi yordamchi sifatida Gemini minnatdorchilik eslatmalarini yozish, tadbir rejalashtirish, yangi narsa oʻrganish, signal oʻrnatish, telefon qilish va hokazolarda yordam berishi mumkin.
+
+Telefonni sozlagach, Gemini bilan ish boshlash uchun quvvat tugmasini bosib turing."</string>
+    <string name="assistant_title">Gemini, AI yordamchingiz</string>
+    <string name="moment_activity_item_add_me_summary">Ommaviy suratga hamma tushsin</string>
+    <string name="moment_activity_item_add_me_title">Meni qoʻsh</string>
+    <string name="moment_activity_item_chat_summary">AI yordamchingiz</string>
+    <string name="moment_activity_item_circle_summary">Ekran kontentidan qidirish</string>
+    <string name="moment_activity_item_circle_title">Chizib qidirish</string>
+    <string name="moment_activity_item_imagine_summary">Tasavvur qiling. Pixel uni yaratadi.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Kerakli axborotni skrinshotlardan toping</string>
+    <string name="moment_description">Axborotni qidirish, saqlash hamda tartiblash, ishlarni bajarish va ijodkorlikni boshlash</string>
+    <string name="moment_title">Google AI imkoniyatlarini kashf eting</string>
+</resources>

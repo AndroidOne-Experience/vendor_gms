@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.managedprovisioning.overlay_gms">
+    <overlay android:targetPackage="com.android.managedprovisioning"
+                   android:targetName="ManagedProvisioning"
+                   android:isStatic="true"
+                   android:priority="210"/>
+</manifest>

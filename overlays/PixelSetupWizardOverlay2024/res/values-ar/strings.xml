@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"‏بإمكان Gemini، بصفته المساعِد على هاتفك، مساعدتك في كتابة رسائل شكر والتخطيط للفعاليات وتعلُّم أمور جديدة وضبط المنبّهات وإجراء المكالمات وغير ذلك.
+
+بعد إعداد هاتفك، ما عليك سوى الضغط مع الاستمرار على زر التشغيل لبدء استخدام Gemini."</string>
+    <string name="assistant_title">‏‫Gemini، مساعدك المستنِد إلى الذكاء الاصطناعي المضمَّن في جهازك</string>
+    <string name="moment_activity_item_add_me_summary">تأكَّد من ظهور الجميع في صورة جماعية</string>
+    <string name="moment_activity_item_add_me_title">ضعوني في الصورة</string>
+    <string name="moment_activity_item_chat_summary">مساعدك المستنِد إلى الذكاء الاصطناعي على جهازك</string>
+    <string name="moment_activity_item_circle_summary">ابحث عن المحتوى الذي يظهر على شاشتك</string>
+    <string name="moment_activity_item_circle_title">دائرة البحث</string>
+    <string name="moment_activity_item_imagine_summary">‏ما عليك سوى تخيُّل التصميم، وسيحوّله Pixel إلى واقع</string>
+    <string name="moment_activity_item_imagine_title">استوديو</string>
+    <string name="moment_activity_item_memory_summary">اعثر على المعلومات التي تحتاج إليها من لقطات الشاشة</string>
+    <string name="moment_description">ابحث عن المعلومات واحفظها ونظِّمها لإنجاز مهامك وإطلاق العنان للإبداع</string>
+    <string name="moment_title">‏الذكاء الاصطناعي من Google في أبهى صوره</string>
+</resources>

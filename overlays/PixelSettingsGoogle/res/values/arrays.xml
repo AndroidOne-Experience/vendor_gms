@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_carrier_use_rac">
+        <item>2397</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="config_psim_conversion_menu_enabled_carrier">
+        <item>1</item>
+        <item>3</item>
+        <item>16</item>
+        <item>576</item>
+        <item>1404</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2122</item>
+    </integer-array>
+    <string-array name="config_settings_slices_accessibility_components">
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+    </string-array>
+    <integer-array name="datausage_hiding_carrier_service_carrier_id">
+        <item>1802</item>
+        <item>2032</item>
+        <item>2126</item>
+        <item>2146</item>
+        <item>10008</item>
+    </integer-array>
+    <string-array name="datausage_hiding_carrier_service_package_names">
+        <item>com.verizon.mips.services</item>
+        <item>com.verizon.llkagent</item>
+        <item>com.verizon.obdm</item>
+        <item>com.verizon.obdm_permissions</item>
+        <item>com.verizon.services</item>
+        <item>com.vzw.apnlib</item>
+    </string-array>
+    <string-array name="slice_allowlist_package_names">
+        <item>com.google.android.gms</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.apps.search.assistant.surfaces.voice.devapp</item>
+    </string-array>
+</resources>

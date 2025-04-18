@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini 是您手机上的智能助理，可帮助您撰写感谢信、制定活动计划、学习新知识、设置闹钟、打电话等等。
+
+将手机设置妥当后，只需按住电源按钮即可开始使用 Gemini。"</string>
+    <string name="assistant_title">Gemini - 您设备上的内置 AI 助理</string>
+    <string name="moment_activity_item_add_me_summary">合照不再有人缺席</string>
+    <string name="moment_activity_item_add_me_title">智能合照</string>
+    <string name="moment_activity_item_chat_summary">系统内置的 AI 助理</string>
+    <string name="moment_activity_item_circle_summary">搜索您的屏幕上的内容</string>
+    <string name="moment_activity_item_circle_title">圈定即搜</string>
+    <string name="moment_activity_item_imagine_summary">您的创意，Pixel 来实现。</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">从屏幕截图中查找所需信息</string>
+    <string name="moment_description">搜索/保存/整理信息、处理事务，以及激发创意</string>
+    <string name="moment_title">探索 Google AI 的极致威力</string>
+</resources>

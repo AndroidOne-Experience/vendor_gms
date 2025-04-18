@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini telefonunuzda assistent kimi təşəkkür qeydləri yazmaq, tədbirlər planlaşdırmaq, yeni şeylər öyrənmək, zəngli saat ayarlamaq, zənglər etmək və daha çox əməliyyatları yerinə yetirməkdə sizə kömək edə bilər.
+
+Telefonunuzu quraşdırdıqdan sonra Gemini ilə işə başlamaq üçün enerji düyməsinə basıb saxlayın."</string>
+    <string name="assistant_title">Gemini, daxili Sİ assistentiniz.</string>
+    <string name="moment_activity_item_add_me_summary">Hər kəsin qrup fotosunda olduğuna əmin olun</string>
+    <string name="moment_activity_item_add_me_title">Mənimlə Çəkdir</string>
+    <string name="moment_activity_item_chat_summary">Daxili Sİ assistentiniz</string>
+    <string name="moment_activity_item_circle_summary">Ekrandakıları axtarın</string>
+    <string name="moment_activity_item_circle_title">Dairəyə alaraq axtarın</string>
+    <string name="moment_activity_item_imagine_summary">Siz təsəvvür edin. Pixel yaratsın.</string>
+    <string name="moment_activity_item_imagine_title">Studiya</string>
+    <string name="moment_activity_item_memory_summary">Skrinşotdan lazımi məlumatı tapın</string>
+    <string name="moment_description">Məlumatları axtarın, yadda saxlayın və nizamlayın, işləri tamamlayın və yaradıcılığa başlayın</string>
+    <string name="moment_title">Google Sİ-ni ən yaxşı şəkildə kəşf edin</string>
+</resources>

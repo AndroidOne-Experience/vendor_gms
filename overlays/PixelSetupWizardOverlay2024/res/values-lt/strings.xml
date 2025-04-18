@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Kaip padėjėjas jūsų telefone, „Gemini“ gali padėti jums rašyti padėkas, planuoti įvykius, mokytis naujų dalykų, nustatyti signalus, skambinti ir kt.
+
+Nustatę telefoną tiesiog paspauskite ir palaikykite maitinimo mygtuką, kad pradėtumėte naudoti „Gemini“."</string>
+    <string name="assistant_title">„Gemini“ – integruotas jūsų DI padėjėjas</string>
+    <string name="moment_activity_item_add_me_summary">Pasirūpinkite, kad visi būtų grupės nuotraukoje</string>
+    <string name="moment_activity_item_add_me_title">Pridėti mane</string>
+    <string name="moment_activity_item_chat_summary">Integruotas jūsų DI padėjėjas</string>
+    <string name="moment_activity_item_circle_summary">Ieškokite to, kas parodyta ekrane</string>
+    <string name="moment_activity_item_circle_title">Paieška apibrėžiant</string>
+    <string name="moment_activity_item_imagine_summary">Jūs įsivaizduokite. „Pixel“ sukurs.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Raskite reikiamą informaciją naudodami ekrano kopijas</string>
+    <string name="moment_description">Ieškokite, išsaugokite ir tvarkykite informaciją, atlikite užduotis ir skatinkite kūrybiškumą</string>
+    <string name="moment_title">Atraskite geriausias „Google“ DI funkcijas</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">(N)[Ðýñåḿîçåļļý åðĵûšţš ţĥé ðîšþļåý ɓåšéð öñ šûŕŕöûñðîñĝ ļîĝĥţ ļéVéļš one two three four five six seven]</string>
+    <string name="display_white_balance_title">(N)[Åḿɓîéñţ Éq one two]</string>
+    <string name="fingerprint_unlock_set_unlock_password">(N)[Þîхéļ Îḿþŕîñţ + Þåššŵöŕð one two three]</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">(N)[Þîхéļ Îḿþŕîñţ + Þåţţéŕñ one two three]</string>
+    <string name="fingerprint_unlock_set_unlock_pin">(N)[Þîхéļ Îḿþŕîñţ + ÞÎÑ one two three]</string>
+    <string name="fingerprint_unlock_skip_fingerprint">(N)[Çöñţîñûé ŵîţĥöûţ Þîхéļ Îḿþŕîñţ one two three four]</string>
+    <string name="fingerprint_unlock_title">(N)[Ŵîţĥ Þîхéļ Îḿþŕîñţ, ýöû çåñ ûñļöçķ ýöûŕ þĥöñé ûšîñĝ ýöûŕ ƒîñĝéŕþŕîñţ. Föŕ šéçûŕîţý, ţĥîš öþţîöñ ŕéQûîŕéš å ɓåçķûþ šçŕééñ ļöçķ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one]</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">(N)[Åļļöŵ Þîхéļ Îḿþŕîñţ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"(N)[Ŵîţĥ Þîхéļ Îḿþŕîñţ, ýöû çåñ ûšé ýöûŕ ƒîñĝéŕþŕîñţ ţö åûţĥöŕîžé þûŕçĥåšéš öŕ šîĝñ îñ ţö åþþš.
+
+βé çåŕéƒûļ ŵĥöšé ƒîñĝéŕþŕîñţš ýöû åðð. Åñý ƒîñĝéŕþŕîñţš åððéð ŵîļļ ɓé åɓļé ţö ðö ţĥéšé ţĥîñĝš.
+
+Ñöţé: Ýöû çåñ’ţ ûšé ýöûŕ ƒîñĝéŕþŕîñţ ţö ûñļöçķ ţĥîš ðéVîçé. Föŕ ḿöŕé îñƒöŕḿåţîöñ, çöñţåçţ ýöûŕ öŕĝåñîžåţîöñ’š åðḿîñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">(N)[Šéţ ûþ Þîхéļ Îḿþŕîñţ one two three]</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">(N)[Þîхéļ Îḿþŕîñţ one two]</string>
+    <string name="security_settings_fingerprint_preference_title">(N)[Þîхéļ Îḿþŕîñţ one two]</string>
+    <string name="suggested_fingerprint_lock_settings_summary">(N)[Ûšé Þîхéļ Îḿþŕîñţ ţö ûñļöçķ ýöûŕ þĥöñé one two three four five]</string>
+</resources>

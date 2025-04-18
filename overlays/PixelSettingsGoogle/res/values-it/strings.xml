@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">"Adatta dinamicamente il display su tonalità più calde o fredde in base all'illuminazione dell'ambiente"</string>
+    <string name="display_white_balance_title">Tonalità adattiva</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + password</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + sequenza</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continua senza Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Con Pixel Imprint puoi sbloccare il telefono usando la tua impronta. Per motivi di sicurezza, questa opzione richiede un blocco schermo alternativo.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Consenti Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Con Pixel Imprint puoi usare la tua impronta per autorizzare gli acquisti o accedere alle app.
+
+Scegli con attenzione chi aggiungere: le operazioni sopra elencate possono essere svolte con qualsiasi impronta aggiunta.
+
+Nota: non puoi usare la tua impronta per sbloccare questo dispositivo. Per ulteriori informazioni, contatta l'amministratore dell'organizzazione."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Configura Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Usa Pixel Imprint per sbloccare il telefono</string>
+</resources>

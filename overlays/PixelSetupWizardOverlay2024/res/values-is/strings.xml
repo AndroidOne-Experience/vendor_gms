@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Sem hjálparinn þinn í símanum getur Gemini aðstoðað þig við að skrifa þakkarbréf, skipuleggja viðburði, læra nýja hluti, stilla vekjara, hringja símtöl og fleira.
+
+Haltu einfaldlega aflrofanum inni til að byrja að nota Gemini þegar þú hefur lokið við uppsetningu símans."</string>
+    <string name="assistant_title">Gemini: innbyggði gervigreindarhjálparinn þinn</string>
+    <string name="moment_activity_item_add_me_summary">Gakktu úr skugga um að allir séu með á hópmynd</string>
+    <string name="moment_activity_item_add_me_title">Bættu mér við</string>
+    <string name="moment_activity_item_chat_summary">Innbyggði gervigreindarhjálparinn þinn</string>
+    <string name="moment_activity_item_circle_summary">Leitaðu að því sem birtist á skjánum þínum</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Þú ímyndar þér það. Pixel býr það til.</string>
+    <string name="moment_activity_item_imagine_title">Stúdíó</string>
+    <string name="moment_activity_item_memory_summary">Finndu upplýsingarnar sem þig vantar á skjámyndunum þínum</string>
+    <string name="moment_description">Leitaðu, vistaðu og flokkaðu upplýsingar, komdu hlutunum í verk og hefðu sköpunarferlið</string>
+    <string name="moment_title">Uppgötvaðu allt það besta við gervigreind Google</string>
+</resources>

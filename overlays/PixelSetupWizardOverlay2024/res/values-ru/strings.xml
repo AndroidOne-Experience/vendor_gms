@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Помощник на вашем телефоне – Gemini. С ним удобнее создавать заметки, устанавливать будильники, совершать звонки, планировать мероприятия, учиться и не только.
+
+Чтобы начать общаться с Gemini, после настройки телефона нажмите и удерживайте кнопку питания."</string>
+    <string name="assistant_title">Gemini, встроенный ИИ-помощник</string>
+    <string name="moment_activity_item_add_me_summary">Делайте групповые снимки, на которых будут все</string>
+    <string name="moment_activity_item_add_me_title">Добавь меня</string>
+    <string name="moment_activity_item_chat_summary">Ваш встроенный ИИ-помощник</string>
+    <string name="moment_activity_item_circle_summary">Ищите информацию о контенте на экране</string>
+    <string name="moment_activity_item_circle_title">Обвести и найти</string>
+    <string name="moment_activity_item_imagine_summary">Придумайте идею, а Pixel ее воплотит</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Находите нужную информацию со скриншотов</string>
+    <string name="moment_description">Находите, сохраняйте и упорядочивайте информацию, выполняйте задачи и развивайте креативность.</string>
+    <string name="moment_title">Лучшие возможности ИИ от Google</string>
+</resources>

@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.overlay.pixelconfig2019midyear_gms">
+    <overlay android:targetPackage="android"
+                   android:isStatic="true"
+                   android:priority="5"/>
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">დინამიურად ახდენს ეკრანის ადაპტირებას თბილი ან ცივი ტონებისადმი გარემომცველი განათების საფუძველზე</string>
+    <string name="display_white_balance_title">ადაპტირებადი ტონი</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + პაროლი</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ნიმუში</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-კოდი</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint-ის გარეშე გაგრძელება</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint-ის მეშვეობით შეგეძლებათ ტელეფონის განბლოკვა თითის ანაბეჭდით. უსაფრთხოების მოსაზრებებიდან გამომდინარე, ეს ვარიანტი საჭიროებს ეკრანის დაბლოკვის სარეზერვო მეთოდსაც.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint-ის დაშვება</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint-ის მეშვეობით შეგეძლებათ შენაძენების ავტორიზაცია ან აპებში შესვლა თითის ანაბეჭდით.
+
+ყურადღება მიაქციეთ იმას, თუ ვის თითის ანაბეჭდებს დაამატებთ, ვინაიდან ზემოაღნიშნული ქმედებების შესრულება შეუძლია ერთ დამატებულ ანაბეჭდსაც.
+
+გაითვალისწინეთ, რომ ამ მოწყობილობის განსაბლოკად თითის ანაბეჭდს ვერ გამოიყენებთ. დამატებითი ინფორმაციისთვის დაუკავშირდით თქვენი ორგანიზაციის ადმინისტრატორს."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint-ის დაყენება</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">გამოიყენეთ Pixel Imprint თქვენი ტელეფონის განსაბლოკად</string>
+</resources>

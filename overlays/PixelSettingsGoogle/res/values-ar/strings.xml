@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">تعديل درجات ألوان الشاشة ديناميكيًا لتصبح أكثر دفئًا أو برودةً بناءً على الإضاءة المحيطة</string>
+    <string name="display_white_balance_title">درجة اللون التكيُّفية</string>
+    <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint + كلمة مرور</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint + نقش</string>
+    <string name="fingerprint_unlock_set_unlock_pin">‏Pixel Imprint + رقم تعريف شخصي</string>
+    <string name="fingerprint_unlock_skip_fingerprint">‏المتابعة بدون استخدام Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">‏من خلال Pixel Imprint، يمكنك فتح قفل هاتفك باستخدام بصمة إصبعك. ولأغراض تتعلق بالأمان، يتطلب هذا الخيار قفل شاشة احتياطيًا.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">‏السماح باستخدام ميزة Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏من خلال ميزة Pixel Imprint، يمكنك استخدام بصمة إصبعك لمنح إذن بعمليات الشراء أو تسجيل الدخول إلى التطبيقات.
+
+ويرجى توخي الحذر بخصوص بصمات الإصبع التي تضيفها. أي بصمات إصبع تتم إضافتها ستتيح لصاحبها تنفيذ الإجراءات السابق ذكرها.
+
+ملاحظة: لا يمكنك استخدام بصمة الإصبع لفتح قفل هذا الجهاز. للحصول على مزيد من المعلومات، يمكنك التواصل مع مشرف مؤسستك."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">‏إعداد Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏يمكنك استخدام Pixel Imprint لفتح قفل هاتفك.</string>
+</resources>

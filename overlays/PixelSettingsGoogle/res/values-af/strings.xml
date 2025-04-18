@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Pas die skerm dinamies op grond van omgewingsbeligting met warmer of koeler kleurtone aan</string>
+    <string name="display_white_balance_title">Aanpasbare kleurtoon</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint en wagwoord</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint en patroon</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint en PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Gaan voort sonder Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">"Met Pixel Imprint kan jy jou foon met jou vingerafdruk ontsluit. Om veiligheidsredes vereis hierdie opsie 'n rugsteunskermslot."</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Laat Pixel Imprint toe</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Met Pixel Imprint kan jy jou vingerafdruk gebruik om aankope te magtig of by programme aan te meld.
+
+Wees versigtig wie se vingerafdrukke jy byvoeg. Enige vingerafdrukke wat bygevoeg word, sal hierdie dinge kan doen.
+
+Let wel: Jy kan nie jou vingerafdruk gebruik om hierdie toestel te ontsluit nie. Kontak jou organisasie se admin vir meer inligting."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Stel Pixel Imprint op</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gebruik Pixel Imprint om jou foon te ontsluit</string>
+</resources>

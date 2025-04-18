@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"သင့်ဖုန်းရှိ အထောက်အကူအနေဖြင့် Gemini သည် ကျေးဇူးတင်ကြောင်း မှတ်စုများရေးရန်၊ အစီအစဉ်ဆွဲရန်၊ အသစ်အဆန်းများ လေ့လာရန်၊ နှိုးစက်သတ်မှတ်ရန်၊ ဖုန်းခေါ်ရန် စသည်တို့အတွက် ကူညီပေးနိုင်သည်။
+
+သင့်ဖုန်းကို စနစ်ထည့်သွင်းပြီးနောက် Gemini စသုံးရန် ဖွင့်ပိတ်ခလုတ်ကို နှိပ်ထားပါ။"</string>
+    <string name="assistant_title">သင်၏ အသင့်ပါပြီး AI အကူအညီ Gemini</string>
+    <string name="moment_activity_item_add_me_summary">အဖွဲ့လိုက်ဓာတ်ပုံတွင် လူတိုင်းပါဝင်ကြောင်း သေချာပါစေ</string>
+    <string name="moment_activity_item_add_me_title">မိမိပုံ ပေါင်းထည့်ခြင်း</string>
+    <string name="moment_activity_item_chat_summary">သင်၏ အသင့်ပါပြီး AI အကူအညီ</string>
+    <string name="moment_activity_item_circle_summary">စခရင်ပေါ်ရှိ အရာများကို ရှာပါ</string>
+    <string name="moment_activity_item_circle_title">ရှာရန် ကွက်၍ဝိုင်းလိုက်ပါ</string>
+    <string name="moment_activity_item_imagine_summary">စိတ်ကူးကြည့်ပါ။ Pixel က ဖန်တီးပေးပါသည်။</string>
+    <string name="moment_activity_item_imagine_title">စတူဒီယို</string>
+    <string name="moment_activity_item_memory_summary">ဖန်သားပြင်ဓာတ်ပုံများမှ သင်လိုအပ်သော အချက်အလက်ကို ရှာနိုင်သည်</string>
+    <string name="moment_description">အချက်အလက်များကို ရှာဖွေ၊ သိမ်းဆည်းပြီး စီစဉ်နိုင်သည်။ အလုပ်ပြီးမြောက်အောင် လုပ်နိုင်သည်။ တီထွင်ဖန်တီးမှု မြှင့်တင်နိုင်သည်</string>
+    <string name="moment_title">Google AI ၏ အကောင်းဆုံးပုံစံကို လေ့လာခြင်း</string>
+</resources>

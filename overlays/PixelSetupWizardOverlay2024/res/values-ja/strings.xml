@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"スマートフォンでのアシスタントとして、Gemini がお礼のメッセージの作成、イベントの計画、新しい知識の習得、アラームの設定、通話の発信などをサポートします。
+
+スマートフォンのセットアップが完了したら、電源ボタンを長押しするだけで Gemini の利用を開始できます。"</string>
+    <string name="assistant_title">あなた専用の組み込み AI アシスタント、Gemini</string>
+    <string name="moment_activity_item_add_me_summary">集合写真に撮影者も収めることができます</string>
+    <string name="moment_activity_item_add_me_title">一緒に写る</string>
+    <string name="moment_activity_item_chat_summary">AI アシスタントを内蔵</string>
+    <string name="moment_activity_item_circle_summary">画面に映っているものを検索できます</string>
+    <string name="moment_activity_item_circle_title">かこって検索</string>
+    <string name="moment_activity_item_imagine_summary">あなたのアイデアを Google Pixel が形にします</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">スクリーンショットの中から知りたい情報を探せます</string>
+    <string name="moment_description">検索、情報の整理、生産性や創造性の向上をサポートします</string>
+    <string name="moment_title">Google AI を活用してみましょう</string>
+</resources>

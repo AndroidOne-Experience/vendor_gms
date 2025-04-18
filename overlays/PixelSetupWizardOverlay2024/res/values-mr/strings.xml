@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"तुमच्या फोनवरील असिस्टंट म्हणून, Gemini हे तुम्हाला आभारपत्रे लिहिण्यात, इव्हेंटचा बेत आखण्यात, नवीन गोष्टी शिकण्यात, अलार्म सेट करण्यात, कॉल करण्यात आणि आणखी बऱ्याच गोष्टी करण्यात मदत करू शकते.
+
+ तुमचा फोन सेट केल्यानंतर, Gemini सोबत सुरुवात करण्यासाठी फक्त पॉवर बटण प्रेस करून धरून ठेवा."</string>
+    <string name="assistant_title">Gemini, तुमचा बिल्ट-इन असलेला AI असिस्टंट</string>
+    <string name="moment_activity_item_add_me_summary">ग्रुप फोटोमध्ये प्रत्येकजण सामील झाल्याची खात्री करा</string>
+    <string name="moment_activity_item_add_me_title">मला जोडा</string>
+    <string name="moment_activity_item_chat_summary">तुमचा बिल्ट-इन AI असिस्टंट</string>
+    <string name="moment_activity_item_circle_summary">तुमच्या स्क्रीनवर असलेल्या गोष्टी शोधा</string>
+    <string name="moment_activity_item_circle_title">शोधण्यासाठी वर्तुळ करा</string>
+    <string name="moment_activity_item_imagine_summary">तुम्ही कल्पना करा. Pixel ते तयार करेल.</string>
+    <string name="moment_activity_item_imagine_title">स्टुडिओ</string>
+    <string name="moment_activity_item_memory_summary">तुमच्या स्क्रीनशॉटमधून तुम्हाला आवश्यक असलेली माहिती शोधा</string>
+    <string name="moment_description">माहिती शोधा, सेव्ह करा आणि संगतवार लावा, कामे पूर्ण करून घ्या व सर्जनशीलतेला चालना द्या</string>
+    <string name="moment_title">Google AI ची सर्वोत्तम आवृत्ती डिस्कव्हर करा</string>
+</resources>

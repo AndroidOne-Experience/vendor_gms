@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GooglePermissionControllerOverlay",
+    product_specific: true,
+}

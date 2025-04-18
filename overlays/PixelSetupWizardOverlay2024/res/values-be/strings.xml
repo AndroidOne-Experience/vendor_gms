@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini як памочнік на тэлефоне можа дапамагчы вам пісаць нататкі, планаваць падзеі, даведвацца пра новае, задаваць час будзільнікаў, званіць і выконваць іншыя дзеянні.
+
+Пасля наладжвання тэлефона націсніце і ўтрымлівайце кнопку сілкавання, каб пачаць выкарыстоўваць Gemini."</string>
+    <string name="assistant_title">Gemini – ваш убудаваны памочнік на аснове штучнага інтэлекту</string>
+    <string name="moment_activity_item_add_me_summary">Не забывайце ні пра каго на групавых фота</string>
+    <string name="moment_activity_item_add_me_title">Дадай мяне</string>
+    <string name="moment_activity_item_chat_summary">Ваш убудаваны памочнік на аснове AI</string>
+    <string name="moment_activity_item_circle_summary">Пошук па змесціве на экране</string>
+    <string name="moment_activity_item_circle_title">Абвесці для пошуку</string>
+    <string name="moment_activity_item_imagine_summary">Вы прыдумваеце – Pixel стварае.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Знаходзьце неабходную інфармацыю на здымках экрана</string>
+    <string name="moment_description">Пошук, захаванне і ўпарадкаванне інфармацыі, выкананне паўсядзённых задач і натхненне да творчасці</string>
+    <string name="moment_title">Лепшыя магчымасці AI ад Google</string>
+</resources>

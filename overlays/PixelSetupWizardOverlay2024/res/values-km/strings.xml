@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"ក្នុងនាមជាជំនួយការនៅលើទូរសព្ទរបស់អ្នក Gemini អាចជួយអ្នកក្នុងការសរសេរសារថ្លែងអំណរគុណ រៀបចំផែនការព្រឹត្តិការណ៍ ស្វែងយល់អំពីអ្វីៗដែលថ្មី កំណត់ម៉ោងរោទ៍ ហៅទូរសព្ទ និងធ្វើអ្វីៗជាច្រើនទៀត។
+
+បន្ទាប់ពីរៀបចំទូរសព្ទរបស់អ្នក គ្រាន់តែចុចឱ្យជាប់លើប៊ូតុងថាមពល ដើម្បីចាប់ផ្ដើមប្រើ Gemini។"</string>
+    <string name="assistant_title">Gemini ដែលជាជំនួយការ AI របស់អ្នកដែលមានភ្ជាប់មកជាមួយស្រាប់</string>
+    <string name="moment_activity_item_add_me_summary">ត្រូវប្រាកដថា រួមបញ្ចូលអ្នកគ្រប់គ្នានៅក្នុងរូបថតក្រុម</string>
+    <string name="moment_activity_item_add_me_title">បញ្ចូលខ្ញុំ</string>
+    <string name="moment_activity_item_chat_summary">ជំនួយការ AI របស់អ្នកដែលមានភ្ជាប់មកជាមួយស្រាប់</string>
+    <string name="moment_activity_item_circle_summary">ស្វែងរកអ្វីដែលមាននៅលើអេក្រង់របស់អ្នក</string>
+    <string name="moment_activity_item_circle_title">គូររង្វង់ដើម្បីស្វែងរក</string>
+    <string name="moment_activity_item_imagine_summary">អ្នកស្រមៃពីវា។ Pixel បង្កើតវា។</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">ស្វែងរកព័ត៌មានដែលអ្នកត្រូវការពីរូបថត​អេក្រង់របស់អ្នក</string>
+    <string name="moment_description">ស្វែងរក រក្សាទុក និងរៀបចំព័ត៌មាន បំពេញ​កិច្ចការ​នានា និងចាប់ផ្ដើមភាពច្នៃប្រឌិត</string>
+    <string name="moment_title">រកឃើញ Google AI ដ៏ល្អបំផុត</string>
+</resources>

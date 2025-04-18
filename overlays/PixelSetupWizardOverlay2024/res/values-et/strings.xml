@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Assistendina teie telefonis saab Gemini aidata teil kirjutada tänukirju, kavandada sündmusi, õppida uusi asju, seada äratusi, helistada ja teha palju muud.
+
+ Pärast telefoni seadistamist vajutage Gemini kasutamise alustamiseks pikalt toitenuppu."</string>
+    <string name="assistant_title">Gemini, teie sisseehitatud AI-assistent</string>
+    <string name="moment_activity_item_add_me_summary">Veenduge, et kõik oleksid grupifotol näha</string>
+    <string name="moment_activity_item_add_me_title">Lisa mind</string>
+    <string name="moment_activity_item_chat_summary">Teie sisseehitatud AI-assistent</string>
+    <string name="moment_activity_item_circle_summary">Otsige ekraanil kuvatavat sisu</string>
+    <string name="moment_activity_item_circle_title">Ring otsimiseks</string>
+    <string name="moment_activity_item_imagine_summary">Teie kujutlete. Pixel loob.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Otsige ekraanipiltidelt vajalikku teavet</string>
+    <string name="moment_description">Otsige, salvestage ja korrastage teavet, täitke eesmärke ning andke oma loovusele hoogu</string>
+    <string name="moment_title">"Tutvuge Google'i AI parimate võimalustega"</string>
+</resources>

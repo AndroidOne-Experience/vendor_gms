@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Njengomsizi efonini yakho, iGemini ingakusiza ukuthi ubhale amanothi okubonga, uhlele imicimbi, ufunde izinto ezintsha, usethe ama-alamu, wenze amakholi, nokuningi.
+
+Ngemva kokusetha ifoni yakho, mane ucindezele futhi ubambe inkinobho yamandla ukuze uqalise ngeGemini."</string>
+    <string name="assistant_title">IGemini, ingokusiza i-AI yakho okwakhelwe ngaphakathi</string>
+    <string name="moment_activity_item_add_me_summary">Qinisekisa ukuthi wonke umuntu ufakiwe esithombeni seqembu</string>
+    <string name="moment_activity_item_add_me_title">Ngifake</string>
+    <string name="moment_activity_item_chat_summary">Okusiza i-AI yakho okwakhelwe ngaphakathi</string>
+    <string name="moment_activity_item_circle_summary">Sesha okusesikrinini sakho</string>
+    <string name="moment_activity_item_circle_title">Khethela ukuSesha</string>
+    <string name="moment_activity_item_imagine_summary">Uyakucabanga. I-Pixel iyakwenza.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Thola ulwazi oludingayo ezithombeni-skrini zakho</string>
+    <string name="moment_description">Sesha, londoloza, futhi uhlele ulwazi, wenze izinto zenzeke, futhi uqale ngobuciko</string>
+    <string name="moment_title">Thola iGoogle AI engcono kakhulu</string>
+</resources>

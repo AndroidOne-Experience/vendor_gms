@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Displejā tiek dinamiski pielāgoti siltāki vai vēsāki toņi, pamatojoties uz apkārtējo apgaismojumu.</string>
+    <string name="display_white_balance_title">Adaptīvs tonis</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint un parole</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint un kombinācija</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint un PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Turpināt bez funkcijas Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Ar Pixel Imprint varat atbloķēt savu tālruni, izmantojot pirksta nospiedumu. Drošības nolūkos šai opcijai nepieciešama rezerves ekrāna bloķēšanas funkcija.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Funkcijas Pixel Imprint atļaušana</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Ar Pixel Imprint varat autorizēt pirkumus vai pierakstīties lietotnēs, izmantojot pirksta nospiedumu.
+
+Pievienojiet tikai uzticamu personu pirkstu nospiedumus. Jebkurš pievienotais pirksta nospiedums ļauj veikt šīs darbības.
+
+Piezīme. Pirksta nospiedumu nevar izmantot šīs ierīces atbloķēšanai. Lai iegūtu plašāku informāciju, sazinieties ar savas organizācijas administratoru."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Funkcijas Pixel Imprint iestatīšana</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Atbloķējiet tālruni, izmantojot Pixel Imprint.</string>
+</resources>

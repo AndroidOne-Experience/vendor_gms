@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"फ़ोन में असिस्टेंट के तौर पर, Gemini आपको कई कामों में मदद कर सकता है. जैसे, किसी को धन्यवाद देने के लिए नोट लिखना, इवेंट प्लान करना, नई चीज़ें सीखना, अलार्म सेट करना, कॉल करना वगैरह.
+
+अपना फ़ोन सेट अप करने के बाद, Gemini का इस्तेमाल शुरू करने के लिए पावर बटन को दबाकर रखें."</string>
+    <string name="assistant_title">Gemini, डिवाइस में पहले से मौजूद आपका एआई असिस्टेंट है</string>
+    <string name="moment_activity_item_add_me_summary">पक्का करें कि ग्रुप फ़ोटो में सभी लोग शामिल हों</string>
+    <string name="moment_activity_item_add_me_title">मुझे फ़ोटो में शामिल करें</string>
+    <string name="moment_activity_item_chat_summary">डिवाइस में पहले से मौजूद आपका एआई असिस्टेंट</string>
+    <string name="moment_activity_item_circle_summary">स्क्रीन पर मौजूद कॉन्टेंट को खोजें</string>
+    <string name="moment_activity_item_circle_title">सर्कल बनाकर ढूंढें</string>
+    <string name="moment_activity_item_imagine_summary">आप बस कल्पना करें. Pixel उसे बनाकर देगा.</string>
+    <string name="moment_activity_item_imagine_title">स्टूडियो</string>
+    <string name="moment_activity_item_memory_summary">अपने स्क्रीनशॉट में मौजूद जानकारी पाएं</string>
+    <string name="moment_description">जानकारी खोजें, सेव करें, और मैनेज करें, अपने काम में मदद पाएं, और क्रिएटिविटी दिखाने के लिए तैयार हो जाएं</string>
+    <string name="moment_title">Google के एआई की बेहतरीन सुविधाएं पाएं</string>
+</resources>

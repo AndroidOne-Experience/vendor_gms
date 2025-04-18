@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Као помоћник на телефону, Gemini може да вам помогне у писању порука захвалности, планирању догађаја, учењу нових ствари, подешавању аларма, упућивању позива и другом.
+
+Када подесите телефон, само притисните и задржите дугме за укључивање да бисте почели да користите Gemini."</string>
+    <string name="assistant_title">Gemini, ваш уграђени Google помоћник</string>
+    <string name="moment_activity_item_add_me_summary">Уверите се да су сви на групној слици</string>
+    <string name="moment_activity_item_add_me_title">Додај ме</string>
+    <string name="moment_activity_item_chat_summary">Ваш уграђени Google помоћник</string>
+    <string name="moment_activity_item_circle_summary">Претражите оно што видите на екрану</string>
+    <string name="moment_activity_item_circle_title">Претрага заокруживањем</string>
+    <string name="moment_activity_item_imagine_summary">Само замислите. Pixel то може да направи.</string>
+    <string name="moment_activity_item_imagine_title">Студио</string>
+    <string name="moment_activity_item_memory_summary">Пронађите потребне информације на снимцима екрана</string>
+    <string name="moment_description">Претражујте, чувајте и организујте информације, обављајте ствари и пробудите креативност</string>
+    <string name="moment_title">Откријте оно најбоље од Google вештачке интелигенције</string>
+</resources>

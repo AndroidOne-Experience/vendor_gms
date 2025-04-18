@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.connectivity.resources.overlay_gms">
+    <overlay android:targetPackage="com.google.android.connectivity.resources"
+                   android:targetName="ServiceConnectivityResourcesConfig"
+                   android:isStatic="true"
+                   android:priority="0"/>
+</manifest>

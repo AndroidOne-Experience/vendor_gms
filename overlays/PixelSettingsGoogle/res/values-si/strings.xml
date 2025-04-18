@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">සංදර්ශකය හාත්පස ආලෝකනය මත පදනම්ව උණුසුම් හෝ සිසිල් වර්ණ ස්වභාවයන්ට ගතිකව අනුවර්තනය කරයි</string>
+    <string name="display_white_balance_title">අනුවර්තන වර්ණ ස්වභාවය</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + මුරපදය</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + රටාව</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN අංකය</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint නොමැතිව ඉදිරියට යන්න</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint මඟින්, ඔබට ඔබගේ ඇඟිලි සලකුණ භාවිතයෙන් ඔබගේ දුරකථනය අගුලු හැරිය හැක. ආරක්‍ෂාව සඳහා, මෙම විකල්පයට උපස්ථ තිර අගුලක් අවශ්‍යයි.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint ඉඩ දෙන්න</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint සමඟ, ඔබට ඔබේ ඇඟිලි සලකුණ මිල දී ගැනීම් අනුමත කිරීමට හෝ යෙදුම් වෙත පිරීමට භාවිත කළ හැක.
+
+ඔබ එක් කරන ඇඟිලි සලකුණු පිළිබඳ සැලකිලිමත් වන්න. එක් කරන ඕනෑම ඇඟිලි සලකුණකට මේ දේවලින් ඕනෑම එකක් කළ හැක.
+
+සටහන: ඔබට ඔබේ ඇඟිලි සලකුණු මෙම උපාංගය අගුලු හැරීමට භාවිත කළ නොහැක. තව තොරතුරු සඳහා, ඔබේ සංවිධානයෙහි පරිපාලක අමතන්න."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint පිහිටුවන්න</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ඔබගේ දුරකථනය අගුලු හැරීමට Pixel Imprint භාවිත කරන්න</string>
+</resources>

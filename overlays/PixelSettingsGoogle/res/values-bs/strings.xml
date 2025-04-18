@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Dinamički prilagođava ekran toplijim ili hladnijim nijansama na osnovu ambijentalnog osvjetljenja</string>
+    <string name="display_white_balance_title">Prilagodljiva nijansa</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + lozinka</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + uzorak</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Nastavi bez postavljanja funkcije Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">S opcijom Pixel Imprint možete otključati telefon pomoću otiska prsta. Iz sigurnosnih razloga ova opcija zahtijeva alternativni način zaključavanja ekrana.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Dozvolite Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"S funkcijom Pixel Imprint možete odobravati kupovine ili se prijavljivati u aplikacije pomoću otiska prsta.
+
+Pazite čije otiske prstiju dodajete. Svaka osoba čiji otisak prsta dodate moći će izvršiti sve navedeno.
+
+Napomena: Otisak prsta ne možete koristiti za otključavanje ovog uređaja. Za više informacija obratite se administratoru svoje organizacije."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Postavite Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Koristite Pixel Imprint za otključavanje telefona</string>
+</resources>

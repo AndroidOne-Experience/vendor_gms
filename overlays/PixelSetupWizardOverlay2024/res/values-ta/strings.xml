@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"மொபைலில் உள்ள அசிஸ்டண்ட்டான Geminiயைப் பயன்படுத்தி நன்றிக் குறிப்புகளை எழுதலாம், நிகழ்வுகளைத் திட்டமிடலாம், புதிய விஷயங்களைக் கற்றுக்கொள்ளலாம், அலாரங்களை அமைக்கலாம், அழைப்புகளை மேற்கொள்ளலாம் மற்றும் பலவற்றைச் செய்யலாம்.
+
+உங்கள் மொபைலை அமைத்த பிறகு, பவர் பட்டனை அழுத்திப் பிடித்து Geminiயைப் பயன்படுத்தத் தொடங்குங்கள்."</string>
+    <string name="assistant_title">Gemini, உள்ளமைக்கப்பட்ட உங்கள் AI அசிஸ்டண்ட்</string>
+    <string name="moment_activity_item_add_me_summary">குழுப் படத்தில் அனைவரும் இருப்பதை உறுதிசெய்துகொள்ளுங்கள்</string>
+    <string name="moment_activity_item_add_me_title">சேர்ந்து ஃபோட்டோ எடுங்கள்</string>
+    <string name="moment_activity_item_chat_summary">உள்ளமைக்கப்பட்ட உங்கள் AI அசிஸ்டண்ட்</string>
+    <string name="moment_activity_item_circle_summary">உங்கள் திரையில் உள்ளவற்றைத் தேடலாம்</string>
+    <string name="moment_activity_item_circle_title">வட்டமிட்டுத் தேடல்</string>
+    <string name="moment_activity_item_imagine_summary">நீங்கள் நினைப்பதை Pixel உருவாக்கும்.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">ஸ்கிரீன்ஷாட்களில் இருந்து உங்களுக்குத் தேவையான தகவல்களைக் கண்டறியுங்கள்</string>
+    <string name="moment_description">தேடலாம், சேமிக்கலாம், தகவல்களை ஒருங்கிணைக்கலாம், வேண்டியதைச் செய்து முடிக்கலாம் மற்றும் உங்கள் படைப்பாற்றலைக் காட்டத் தொடங்கலாம்</string>
+    <string name="moment_title">சிறந்த நிலையிலிருக்கும் Google AIயைப் பாருங்கள்</string>
+</resources>

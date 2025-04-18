@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Passt das Display dynamisch je nach Umgebungslicht an wärmere oder kühlere Farbtöne an</string>
+    <string name="display_white_balance_title">Adaptiver Farbton</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Passwort</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Muster</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Ohne Pixel Imprint fortfahren</string>
+    <string name="fingerprint_unlock_title">Mit Pixel Imprint kannst du dein Smartphone per Fingerabdruck entsperren. Aus Sicherheitsgründen ist bei dieser Option eine alternative Displaysperre erforderlich.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">„Pixel Imprint“ zulassen</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Mit Pixel Imprint kannst du deinen Fingerabdruck verwenden, um Käufe zu autorisieren oder dich in Apps anzumelden.
+
+Überlege genau, wessen Fingerabdrücke du hinzufügst. Jede Person mit einem der hinzugefügten Fingerabdrücke kann mit deinem Smartphone einkaufen oder sich in deinen Apps anmelden.
+
+Hinweis: Dieses Gerät kann nicht per Fingerabdruck entsperrt werden. Weitere Informationen erhältst du vom Administrator deiner Organisation."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint einrichten</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Zum Entsperren des Smartphones Pixel Imprint nutzen</string>
+</resources>

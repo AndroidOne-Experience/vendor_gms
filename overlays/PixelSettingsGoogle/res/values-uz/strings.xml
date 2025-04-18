@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Atrofdagi yorugʻlik asosida displeyni iliq yoki sovuqroq tusga dinamik ravishda moslaydi</string>
+    <string name="display_white_balance_title">Moslashuvchan tus</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + parol</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + grafik kalit</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN kod</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint sensorisiz davom ettirish</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint sensori yordamida telefonni barmoq izi orqali qulfdan chiqarish mumkin. Xavfsizlik maqsadida bu parametr qoʻshimcha ekran qulfi bilan ishlaydi.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Qulfni Pixel Imprint bilan ochish</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint yordamida barmoq izi bilan ilovalarga kirish yoki xaridlarni tasdiqlash mumkin.
+
+Qaysi barmoq izlari qayd qilinishiga diqqat qiling. Qayd qilingan barmoq izlari ushbu amallarni bajara oladi.
+
+Eslatma: Barmoq izi orqali bu qurilmani qulfdan chiqara olmaysiz. Batafsil axborot uchun tashkilot administratoriga murojaat qiling."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprintni sozlash</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint yordamida telefonni qulfdan chiqaring</string>
+</resources>

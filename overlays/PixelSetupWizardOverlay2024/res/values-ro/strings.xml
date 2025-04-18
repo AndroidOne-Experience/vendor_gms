@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Ca asistent de pe telefon, Gemini te poate ajuta să scrii mesaje de mulțumire, să planifici evenimente, să înveți lucruri noi, să setezi alarme, să inițiezi apeluri și multe altele.
+
+După configurarea telefonului, apasă lung butonul de pornire pentru a începe să folosești Gemini."</string>
+    <string name="assistant_title">Gemini, asistentul AI integrat</string>
+    <string name="moment_activity_item_add_me_summary">Include pe toată lumea într-o poză de grup</string>
+    <string name="moment_activity_item_add_me_title">Adaugă-mă</string>
+    <string name="moment_activity_item_chat_summary">Asistentul AI integrat</string>
+    <string name="moment_activity_item_circle_summary">Caută conținutul de pe ecran</string>
+    <string name="moment_activity_item_circle_title">Încercuiește și caută</string>
+    <string name="moment_activity_item_imagine_summary">Tu îți imaginezi. Pixel creează.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Găsește informațiile de care ai nevoie din capturile de ecran</string>
+    <string name="moment_description">Caută, salvează și organizează informații, lucrează productiv și dă frâu liber creativității</string>
+    <string name="moment_title">Descoperă tot ce este mai bun la Google AI</string>
+</resources>

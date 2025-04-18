@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini vám coby asistent v telefonu může pomáhat s psaním poděkování, plánováním událostí, učením nových věcí, nastavováním budíků, voláním a spoustou dalších věcí.
+
+Jakmile službu Gemini v telefonu nastavíte, můžete ji aktivovat pouhým podržením vypínače."</string>
+    <string name="assistant_title">Gemini, váš vestavěný pomocník s umělou inteligencí</string>
+    <string name="moment_activity_item_add_me_summary">Na skupinové fotce už nikdo nemusí chybět</string>
+    <string name="moment_activity_item_add_me_title">Přidej mě</string>
+    <string name="moment_activity_item_chat_summary">Váš vestavěný pomocník s umělou inteligencí</string>
+    <string name="moment_activity_item_circle_summary">Vyhledávejte, co si právě prohlížíte na obrazovce</string>
+    <string name="moment_activity_item_circle_title">Zakroužkuj a hledej</string>
+    <string name="moment_activity_item_imagine_summary">Vy si to představíte. Pixel to vytvoří.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Najděte, co potřebujete, na svých snímcích obrazovky</string>
+    <string name="moment_description">Umělá inteligence od Googlu vám pomůže vyhledávat, ukládat a třídit informace, spoustu toho zvládnout a rozjet vaši kreativitu.</string>
+    <string name="moment_title">Objevte to nejlepší z Google AI</string>
+</resources>

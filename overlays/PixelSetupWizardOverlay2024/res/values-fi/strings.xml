@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini voi puhelimesi avustajana auttaa sinua esimerkiksi kirjoittamaan kiitosviestejä, suunnittelemaan tapahtumia, oppimaan uusia asioita, asettamaan hälytyksiä ja soittamaan puheluita.
+
+Kun olet ottanut puhelimen käyttöön, pääset alkuun Geminin kanssa painamalla virtapainiketta pitkään."</string>
+    <string name="assistant_title">Gemini, sisäänrakennettu tekoälyavustaja</string>
+    <string name="moment_activity_item_add_me_summary">Varmista, että kaikki näkyvät ryhmäkuvassa</string>
+    <string name="moment_activity_item_add_me_title">Lisää minut</string>
+    <string name="moment_activity_item_chat_summary">Sisäänrakennettu tekoälyavustaja</string>
+    <string name="moment_activity_item_circle_summary">Hae näytöllä näkyviä asioita</string>
+    <string name="moment_activity_item_circle_title">Circle to Search</string>
+    <string name="moment_activity_item_imagine_summary">Luovat ideat todeksi Pixelillä.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Löydä haluamasi tiedot kuvakaappauksista</string>
+    <string name="moment_description">Hae, tallenna ja järjestä tietoja, hoida asioita ja tehosta luovuutta</string>
+    <string name="moment_title">Koe Googlen tekoäly parhaimmillaan</string>
+</resources>

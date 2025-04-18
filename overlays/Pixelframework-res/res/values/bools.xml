@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_allowDisablingAssistDisclosure">true</bool>
+    <bool name="config_biometricFrrNotificationEnabled">true</bool>
+    <bool name="config_enableFusedLocationOverlay">true</bool>
+    <bool name="config_enableGeocoderOverlay">true</bool>
+    <bool name="config_enableGeofenceOverlay">true</bool>
+    <bool name="config_enableNetworkLocationOverlay">true</bool>
+    <bool name="config_evenDimmerEnabled">true</bool>
+    <bool name="config_honor_data_retry_timer_for_emergency_network">true</bool>
+    <bool name="config_keyboardVibrationSettingsSupported">true</bool>
+    <bool name="config_refreshRateSynchronizationEnabled">true</bool>
+    <bool name="config_repairModeSupported">true</bool>
+    <bool name="config_ringtoneVibrationSettingsSupported">true</bool>
+    <bool name="config_useRoundIcon">true</bool>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Таны утсан дээрх туслахын хувьд Gemini танд талархлын захидал бичих, арга хэмжээ төлөвлөх, шинэ зүйл сурах, сэрүүлэг тавих, дуудлага хийх болон бусад зүйлд туслах боломжтой.
+
+Утсаа тохируулсны дараа Gemini-г ашиглаж эхлэхийн тулд ердөө асаах/унтраах товчийг удаан дарна уу."</string>
+    <string name="assistant_title">Таны бүрэлдэхүүн ХОУ-ы туслах болох Gemini</string>
+    <string name="moment_activity_item_add_me_summary">Хүн бүрийг бүлгийн зурагт оруулаарай</string>
+    <string name="moment_activity_item_add_me_title">Намайг нэм</string>
+    <string name="moment_activity_item_chat_summary">Таны бүрэлдэхүүн ХОУ-ы туслах</string>
+    <string name="moment_activity_item_circle_summary">Дэлгэц дээрээ байгаа зүйлийг хайгаарай</string>
+    <string name="moment_activity_item_circle_title">Дугуйлаад хай</string>
+    <string name="moment_activity_item_imagine_summary">Та төсөөлөөрэй. Pixel төсөөллийг тань үүсгэнэ.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Дэлгэцийн агшнуудаасаа хэрэгтэй мэдээллээ олоорой</string>
+    <string name="moment_description">Мэдээлэл хайж, хадгалж, цэгцэлж, ажлаа амжуулж мөн бүтээлч байдлыг эхлүүлээрэй</string>
+    <string name="moment_title">Google-н ХОУ-ы шилдэг хэрэглээтэй танилцаарай</string>
+</resources>

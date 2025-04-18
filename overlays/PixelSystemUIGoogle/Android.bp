@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelSystemUIGoogle",
+    product_specific: true,
+}

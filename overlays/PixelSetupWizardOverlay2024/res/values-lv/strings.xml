@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Gemini kā asistents jūsu tālrunī var jums palīdzēt rakstīt pateicības vēstules, plānot pasākumus, apgūt ko jaunu, iestatīt modinātāju, piezvanīt kādam, kā arī veikt citas darbības.
+
+Pēc tālruņa iestatīšanas vienkārši nospiediet un turiet barošanas pogu, lai sāktu darbu ar Gemini."</string>
+    <string name="assistant_title">Gemini — jūsu iebūvētais MI asistents</string>
+    <string name="moment_activity_item_add_me_summary">Gādājiet, lai grupas fotoattēlā būtu iekļauti visi.</string>
+    <string name="moment_activity_item_add_me_title">Pievienot mani</string>
+    <string name="moment_activity_item_chat_summary">Jūsu iebūvētais MI asistents.</string>
+    <string name="moment_activity_item_circle_summary">Meklējiet ekrānā redzamo saturu.</string>
+    <string name="moment_activity_item_circle_title">Apvilkt un meklēt</string>
+    <string name="moment_activity_item_imagine_summary">Jūs iztēlojaties, Pixel rada.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Atrodiet vajadzīgo informāciju ekrānuzņēmumos.</string>
+    <string name="moment_description">Meklējiet, saglabājiet un kārtojiet informāciju, paveiciet darbus un atraisiet radošo domāšanu.</string>
+    <string name="moment_title">Atklājiet Google MI vislabākās iespējas</string>
+</resources>

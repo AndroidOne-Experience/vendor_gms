@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometric_app_setting_name">Via gezicht of vingerafdruk</string>
+    <string name="biometric_dialog_default_subtitle">Gebruik je gezicht of vingerafdruk om door te gaan</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Gezicht, vingerafdruk of schermvergrendeling gebruiken</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Gebruik je gezicht, vingerafdruk of schermvergrendeling om door te gaan</string>
+    <string name="harmful_app_warning_title">Play Protect-waarschuwing</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans\"&gt;Protected by &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Android&lt;/font&gt;</string>
+</resources>

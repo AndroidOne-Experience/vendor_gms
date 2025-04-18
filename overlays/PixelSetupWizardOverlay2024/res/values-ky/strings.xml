@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Телефонуңуздагы жардамчы катары, Gemini эскертмелерди жазып, иш-чараларды пландап, ойготкучтарды коюп, чалып жана башка аракеттерди аткарууга жардам берет.
+
+Телефонуңузду тууралагандан кийин Gemini менен иштеп баштоо үчүн кубат баскычын коё бербей басып туруңуз."</string>
+    <string name="assistant_title">Gemini — алдын ала орнотулган ЖИ жардамчыңыз</string>
+    <string name="moment_activity_item_add_me_summary">Топтук сүрөткө баары батканын караңыз</string>
+    <string name="moment_activity_item_add_me_title">Мени кош</string>
+    <string name="moment_activity_item_chat_summary">Алдын ала орнотулган ЖИ жардамчыңыз</string>
+    <string name="moment_activity_item_circle_summary">Экрандагы нерсени тегеректеп издейсиз</string>
+    <string name="moment_activity_item_circle_title">Тегеректеп издөө функциясы</string>
+    <string name="moment_activity_item_imagine_summary">Сиз элестетиңиз. Pixel аны түзөт.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Скриншоттордон керектүү маалыматты издеп табыңыз</string>
+    <string name="moment_description">Керектүү маалымат издеп, аны сактап жана иреттеп, ар кандай иштерди бүтүрүп, чыгармачылыгыңызды өркүндөтүңүз.</string>
+    <string name="moment_title">"Google'дун сонун ЖИ мүмкүнчүлүктөрүн пайдаланыңыз"</string>
+</resources>

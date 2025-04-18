@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Tự động điều chỉnh màn hình sang tông màu ấm hơn hoặc dịu hơn theo ánh sáng xung quanh</string>
+    <string name="display_white_balance_title">Tông màu thích ứng</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Mật khẩu</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Hình mở khóa</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + Mã PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Tiếp tục mà không thiết lập Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Với Pixel Imprint, bạn có thể mở khóa điện thoại bằng vân tay. Để bảo mật, tùy chọn này yêu cầu bạn phải có một khóa màn hình dự phòng.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Cho phép dùng Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Với Pixel Imprint, bạn có thể dùng vân tay của mình để cho phép thực hiện giao dịch mua hàng hoặc đăng nhập vào các ứng dụng.
+
+Hãy cân nhắc kỹ khi thêm vân tay của những người khác. Mọi vân tay bạn thêm đều có thể thực hiện những việc này.
+
+Lưu ý: Bạn không thể dùng vân tay của mình để mở khóa thiết bị này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của tổ chức bạn."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Thiết lập Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Dùng Pixel Imprint để mở khóa điện thoại</string>
+</resources>

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "SystemUIGXOverlay",
+    product_specific: true,
+}

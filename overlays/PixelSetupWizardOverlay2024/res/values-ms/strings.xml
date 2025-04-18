@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_description">"Sebagai pembantu pada telefon anda, Gemini boleh membantu anda menulis nota penghargaan, merancang acara, mempelajari perkara baharu, menetapkan penggera, membuat panggilan dan pelbagai lagi.
+
+Selepas menyediakan telefon anda, tekan &amp; tahan butang kuasa untuk mula menggunakan Gemini."</string>
+    <string name="assistant_title">Gemini, pembantu AI terbina dalam anda</string>
+    <string name="moment_activity_item_add_me_summary">Pastikan semua orang berada dalam foto kumpulan</string>
+    <string name="moment_activity_item_add_me_title">Tambahkan Saya</string>
+    <string name="moment_activity_item_chat_summary">Pembantu AI terbina dalam anda</string>
+    <string name="moment_activity_item_circle_summary">Cari kandungan yang dipaparkan pada skrin anda</string>
+    <string name="moment_activity_item_circle_title">Bulatkan untuk Membuat Carian</string>
+    <string name="moment_activity_item_imagine_summary">Anda bayangkan. Pixel merealisasikan bayangan itu.</string>
+    <string name="moment_activity_item_imagine_title">Studio</string>
+    <string name="moment_activity_item_memory_summary">Cari maklumat yang anda perlukan daripada tangkapan skrin anda</string>
+    <string name="moment_description">Cari, simpan dan susun maklumat, siapkan tugas serta mulakan kreativiti</string>
+    <string name="moment_title">Cuba prestasi terbaik Google AI</string>
+</resources>

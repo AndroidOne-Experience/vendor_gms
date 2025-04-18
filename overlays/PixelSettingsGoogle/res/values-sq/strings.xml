@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Përshtat në mënyrë dinamike ekranin me tone më të ngrohta ose më të ftohta bazuar në ndriçimin e ambientit</string>
+    <string name="display_white_balance_title">Toni me përshtatje</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint dhe fjalëkalim</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint dhe motiv</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint dhe kod PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Vazhdo pa Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Me Pixel Imprint, mund ta shkyçësh telefonin duke përdorur gjurmën e gishtit. Për siguri, ky opsion kërkon një kyçje rezervë të ekranit.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Lejo Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Me Pixel Imprint, mund ta përdorësh gjurmën e gishtit për të autorizuar blerjet ose për t'u identifikuar tek aplikacionet.
+
+Ki kujdes se gjurmët e kujt shton. Çdo gjurmë gishti e shtuar do të mund t'i kryejë këto gjëra.
+
+Shënim. Nuk mund ta përdorësh gjurmën tënde të gishtit për ta shkyçur këtë pajisje. Për më shumë informacione, kontakto me administratorin e organizatës tënde."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Konfiguro Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Përdor Pixel Imprint për të shkyçur telefonin tënd</string>
+</resources>

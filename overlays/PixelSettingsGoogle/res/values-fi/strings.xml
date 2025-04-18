@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Säätää näytön sävyt dynaamisesti lämpimämmiksi tai viileämmiksi ympäristön valaistuksen perusteella</string>
+    <string name="display_white_balance_title">Sopeutuva sävy</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint ja salasana</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint ja kuvio</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint ja PIN-koodi</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Jatka ilman Pixel Imprintiä</string>
+    <string name="fingerprint_unlock_title">Pixel Imprintin avulla voit käyttää sormenjälkeäsi puhelimen lukituksen avaamiseen. Turvallisuussyistä tämä edellyttää, että määrität näytön varalukitustavan.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Salli Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Voit hyväksyä ostoksia tai kirjautua sovelluksiin Pixel Imprintillä.
+
+Ole varovainen lisätessäsi sormenjälkiä – edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.
+
+Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ota Pixel Imprint käyttöön</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Avaa puhelimen lukitus Pixel Imprintillä</string>
+</resources>

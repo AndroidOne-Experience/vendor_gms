@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Adapta dinàmicament la pantalla a tonalitats més càlides o fredes en funció de la il·luminació ambiental</string>
+    <string name="display_white_balance_title">Tonalitat adaptativa</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + contrasenya</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + patró</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continua sense Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint et permet desbloquejar el telèfon amb la teva empremta digital. Per motius de seguretat, cal un bloqueig de pantalla alternatiu per utilitzar aquesta opció.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permet Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint et permet utilitzar l'empremta digital per autoritzar compres o iniciar la sessió en aplicacions.
+
+Ves amb compte amb les empremtes dactilars d'altres persones que hi afegeixis, perquè totes podran dur a terme aquestes accions.
+
+Nota: No pots fer servir l'empremta digital per desbloquejar aquest dispositiu. Per obtenir més informació, contacta amb l'administrador de l'organització."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Configura Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Fes servir Pixel Imprint per desbloquejar el telèfon</string>
+</resources>
