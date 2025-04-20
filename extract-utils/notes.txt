@@ -10,3 +10,4 @@ product/app/Photos/Photos.apk;OVERRIDES=Gallery2;PRESIGNED
 product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
 product/app/PrebuiltGmail/PrebuiltGmail.apk;OVERRIDES=Email;PRESIGNED
 ----------------------------------------------------------------------------------------------------------------------------------------
+Above files are splitted with this command: "split -b 50M --numeric-suffixes=0 --suffix-length=2 <Apk input name> <Apk output name>"
