@@ -1,0 +1,2 @@
+system/priv-app/GoogleExtServices/GoogleExtServices.apk;OVERRIDES=ExtServices;PRESIGNED|268b5e899846c6d8e18ef42ab5527df8a018fe57
+system/etc/permissions/privapp_allowlist_com.google.android.ext.services.xml|d4280a55144795e19b9f985ce11fe70de2f5ed27
