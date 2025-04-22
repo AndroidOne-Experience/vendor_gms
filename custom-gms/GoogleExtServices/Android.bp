@@ -1,0 +1,12 @@
+android_app_import {
+	name: "GoogleExtServices",
+	owner: "gms",
+	apk: "GoogleExtServices.apk",
+	overrides: ["ExtServices"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+}

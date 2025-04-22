@@ -13,7 +13,8 @@ FilesGoogle
 Gmail  
 GmsCore  
 GoogleContacts  
-GoogleDialer  
+GoogleDialer
+GoogleExtServices  
 GoogleLocationHistory  
 GoogleOneTimeInitializer  
 GooglePackageInstaller  
