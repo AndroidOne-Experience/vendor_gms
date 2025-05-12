@@ -94,7 +94,6 @@ PRODUCT_PACKAGES += \
     PrebuiltGmsCoreVic_MeasurementDynamite \
     AndroidPlatformServices \
     RecorderPrebuilt_675788680 \
-    ScribePrebuilt_v7.0.633113815 \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt \

@@ -13,7 +13,6 @@ product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk;PRESIGNED
 product/app/TrichromeLibrary/TrichromeLibrary.apk.gz;PRESIGNED
 product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk;OVERRIDES=webview;PRESIGNED
 product/app/WebViewGoogle/WebViewGoogle.apk.gz;PRESIGNED
-product/priv-app/ScribePrebuilt_v7.0.633113815/ScribePrebuilt_v7.0.633113815.apk;PRESIGNED
 
 # Cellular
 product/app/GoogleContacts/GoogleContacts.apk;OVERRIDES=Contacts,Contacts2;PRESIGNED

@@ -484,19 +484,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "ScribePrebuilt_v7.0.633113815",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/ScribePrebuilt_v7.0.633113815/ScribePrebuilt_v7.0.633113815.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "SearchSelectorPrebuilt",
 	owner: "gms",
 	apk: "proprietary/product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk",
