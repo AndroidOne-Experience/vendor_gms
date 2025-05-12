@@ -3,9 +3,6 @@
 # Accessibility Menu
 system_ext/app/AccessibilityMenu/AccessibilityMenu.apk;PRESIGNED
 
-# AICore
-product/priv-app/AICorePrebuilt-aicore_20240509.01_RC02/AICorePrebuilt-aicore_20240509.01_RC02.apk;PRESIGNED
-
 # Avatar Picker
 system_ext/priv-app/AvatarPickerGoogle/AvatarPickerGoogle.apk;OVERRIDES=AvatarPicker;PRESIGNED
 

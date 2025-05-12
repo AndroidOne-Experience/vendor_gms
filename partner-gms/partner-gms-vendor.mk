@@ -74,7 +74,6 @@ PRODUCT_PACKAGES += \
     TrichromeLibrary-Stub \
     WallpaperEmojiPrebuilt-v2804 \
     WebViewGoogle-Stub \
-    AICorePrebuilt-aicore_20240509.01_RC02 \
     ConfigUpdater \
     DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
     FilesPrebuilt \
