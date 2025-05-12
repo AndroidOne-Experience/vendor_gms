@@ -8,7 +8,11 @@ $(call inherit-product, vendor/gms/custom-gms/setup-custom-gms.mk)
 $(call inherit-product, vendor/gms/overlays/setup-overlays.mk)
 
 # Build offline voice recognition models
-$(call inherit-product, vendor/gms/voice/voice-vendor.mk)
+GMS_VOICE_MODEL_INCLUDED ?= true
+
+ifeq ($(GMS_VOICE_MODEL_INCLUDED),true)
+  $(call inherit-product, vendor/gms/voice/voice-vendor.mk)
+endif
 
 # Build Pixel Sounds
 $(call inherit-product, vendor/gms/media/media-vendor.mk)
