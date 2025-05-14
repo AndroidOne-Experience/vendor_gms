@@ -158,18 +158,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "PixelWallpapers2024",
-	owner: "gms",
-	apk: "proprietary/product/app/PixelWallpapers2024/PixelWallpapers2024.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
 	name: "SoundPickerPrebuilt_31000232",
 	owner: "gms",
 	apk: "proprietary/product/app/SoundPickerPrebuilt_31000232/SoundPickerPrebuilt_31000232.apk",
@@ -185,18 +173,6 @@ android_app_import {
 	name: "TrichromeLibrary-Stub",
 	owner: "gms",
 	apk: "proprietary/product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperEmojiPrebuilt-v2804",
-	owner: "gms",
-	apk: "proprietary/product/app/WallpaperEmojiPrebuilt-v2804/WallpaperEmojiPrebuilt-v2804.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -316,19 +292,6 @@ android_app_import {
 	owner: "gms",
 	apk: "proprietary/product/priv-app/Phonesky/Phonesky.apk",
 	overrides: ["messaging"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "PixelLiveWallpaperPrebuilt-25000013",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/PixelLiveWallpaperPrebuilt-25000013/PixelLiveWallpaperPrebuilt-25000013.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -514,19 +477,6 @@ android_app_import {
 	owner: "gms",
 	apk: "proprietary/product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
 	overrides: ["Provision", "LineageSetupWizard"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperEffect",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/WallpaperEffect/WallpaperEffect.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {

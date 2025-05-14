@@ -141,10 +141,6 @@ product/priv-app/RecorderPrebuilt_675788680/RecorderPrebuilt_675788680.apk;OVERR
 # Wallpapers
 product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
 product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk
-product/app/PixelWallpapers2024/PixelWallpapers2024.apk;PRESIGNED
-product/app/WallpaperEmojiPrebuilt-v2804/WallpaperEmojiPrebuilt-v2804.apk;PRESIGNED
-product/priv-app/PixelLiveWallpaperPrebuilt-25000013/PixelLiveWallpaperPrebuilt-25000013.apk;PRESIGNED
-product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
 system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
 # Weather

@@ -69,10 +69,8 @@ PRODUCT_PACKAGES += \
     ModuleMetadataGoogle \
     PixelThemesStub \
     PixelThemesStub2022_and_newer \
-    PixelWallpapers2024 \
     SoundPickerPrebuilt_31000232 \
     TrichromeLibrary-Stub \
-    WallpaperEmojiPrebuilt-v2804 \
     WebViewGoogle-Stub \
     ConfigUpdater \
     DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
@@ -82,7 +80,6 @@ PRODUCT_PACKAGES += \
     GoogleRestorePrebuilt-v636048 \
     PartnerSetupPrebuilt \
     Phonesky \
-    PixelLiveWallpaperPrebuilt-25000013 \
     PrebuiltDeskClockGoogle_76006071 \
     PrebuiltGmsCoreVic_AdsDynamite.uncompressed \
     PrebuiltGmsCoreVic_CronetDynamite \
@@ -97,7 +94,6 @@ PRODUCT_PACKAGES += \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt \
-    WallpaperEffect \
     WeatherPixelPrebuilt_24D1 \
     WellbeingPrebuilt \
     AccessibilityMenu \
