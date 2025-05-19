@@ -7,6 +7,40 @@ soong_namespace {
 	],
 }
 
+cc_prebuilt_library_shared {
+	name: "libgdx",
+	owner: "gms",
+	strip: {
+		none: true,
+	},
+	target: {
+		android_arm64: {
+			srcs: ["proprietary/product/lib64/libgdx.so"],
+			shared_libs: ["libm", "libGLESv2", "liblog", "libc++", "libc", "libdl", ],
+		},
+	},
+	compile_multilib: "64",
+	prefer: true,
+	product_specific: true,
+}
+
+cc_prebuilt_library_shared {
+	name: "libwallpapers-breel-2018-jni",
+	owner: "gms",
+	strip: {
+		none: true,
+	},
+	target: {
+		android_arm64: {
+			srcs: ["proprietary/product/lib64/libwallpapers-breel-2018-jni.so"],
+			shared_libs: ["liblog", "libdl", "libc", "libm", ],
+		},
+	},
+	compile_multilib: "64",
+	prefer: true,
+	product_specific: true,
+}
+
 android_app_import {
 	name: "DocumentsUIGoogle",
 	owner: "gms",
@@ -694,5 +728,19 @@ dex_import {
 	owner: "gms",
 	jars: ["proprietary/product/framework/com.google.android.dialer.support.jar"],
 	product_specific: true,
+}
+
+install_symlink {
+	name: "libgdx_libgdx_symlink64",
+	product_specific: true,
+	installed_location: "app/WallpapersBReel2018/lib/arm64/libgdx.so",
+	symlink_target: "/product/lib64/libgdx.so",
+}
+
+install_symlink {
+	name: "libwallpapers-breel-2018-jni_libwallpapers-breel-2018-jni_symlink64",
+	product_specific: true,
+	installed_location: "app/WallpapersBReel2018/lib/arm64/libwallpapers-breel-2018-jni.so",
+	symlink_target: "/product/lib64/libwallpapers-breel-2018-jni.so",
 }
 

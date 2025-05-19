@@ -125,3 +125,23 @@ android_app_import {
 	privileged: true,
 	product_specific: true,
 }
+
+genrule {
+    name: "merge_WallpapersBReel2018",
+    srcs: [
+        "WallpapersBReel2018/*.apk*",
+    ],
+    out: ["WallpapersBReel2018.apk"],
+    cmd: "cat $(in) > $(out)",
+}
+android_app_import {
+	name: "WallpapersBReel2018",
+	owner: "gms",
+	apk: ":merge_WallpapersBReel2018",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}

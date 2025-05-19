@@ -146,5 +146,9 @@ system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.ap
 # Wallpapers - from Pixel 8 (shiba)
 product/app/PixelWallpapers2023/PixelWallpapers2023.apk;PRESIGNED
 
+# Wallpapers - from Pixel 3XL (crosshatch)
+product/lib64/libgdx.so;SYMLINK=product/app/WallpapersBReel2018/lib/arm64/libgdx.so
+product/lib64/libwallpapers-breel-2018-jni.so;SYMLINK=product/app/WallpapersBReel2018/lib/arm64/libwallpapers-breel-2018-jni.so
+
 # Weather
 product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk;PRESIGNED

@@ -57,6 +57,8 @@ PRODUCT_COPY_FILES += \
     vendor/gms/partner-gms/proprietary/system_ext/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml
 
 PRODUCT_PACKAGES += \
+    libgdx \
+    libwallpapers-breel-2018-jni \
     DocumentsUIGoogle \
     CalculatorGooglePrebuilt_85005407 \
     CalendarGooglePrebuilt \
@@ -111,3 +113,7 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-NumOverlap \
     WallpaperPickerGoogleRelease \
     com.google.android.dialer.support
+
+PRODUCT_PACKAGES += \
+    libgdx_libgdx_symlink64 \
+    libwallpapers-breel-2018-jni_libwallpapers-breel-2018-jni_symlink64

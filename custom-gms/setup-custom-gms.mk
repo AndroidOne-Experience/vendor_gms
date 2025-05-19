@@ -12,3 +12,12 @@ PRODUCT_COPY_FILES += \
 	vendor/gms/custom-gms/GoogleExtServices/permissions/privapp_allowlist_com.google.android.ext.services.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp_allowlist_com.google.android.ext.services.xml
 PRODUCT_PACKAGES += \
 	GoogleExtServices
+
+# Live Wallpaper - from crosshatch
+TARGET_SUPPORT_LIVE_WALLPAPER ?= true
+
+ifeq ($(TARGET_SUPPORT_LIVE_WALLPAPER),true)
+PRODUCT_PACKAGES += \
+    WallpapersBReel2018
+endif
+
