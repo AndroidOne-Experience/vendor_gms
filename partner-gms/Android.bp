@@ -158,6 +158,18 @@ android_app_import {
 }
 
 android_app_import {
+	name: "PixelWallpapers2023",
+	owner: "gms",
+	apk: "proprietary/product/app/PixelWallpapers2023/PixelWallpapers2023.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
 	name: "SoundPickerPrebuilt_31000232",
 	owner: "gms",
 	apk: "proprietary/product/app/SoundPickerPrebuilt_31000232/SoundPickerPrebuilt_31000232.apk",

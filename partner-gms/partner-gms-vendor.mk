@@ -69,6 +69,7 @@ PRODUCT_PACKAGES += \
     ModuleMetadataGoogle \
     PixelThemesStub \
     PixelThemesStub2022_and_newer \
+    PixelWallpapers2023 \
     SoundPickerPrebuilt_31000232 \
     TrichromeLibrary-Stub \
     WebViewGoogle-Stub \

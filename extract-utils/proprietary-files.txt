@@ -143,5 +143,8 @@ product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
 product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk
 system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
+# Wallpapers - from Pixel 8 (shiba)
+product/app/PixelWallpapers2023/PixelWallpapers2023.apk;PRESIGNED
+
 # Weather
 product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk;PRESIGNED
