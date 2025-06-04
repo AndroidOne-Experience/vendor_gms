@@ -52,3 +52,12 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.personal_safety_suw_enabled=true \
     setupwizard.theme=glif_v4_light
 
+# Remove Packages
+TARGET_SUPPORT_MINIMAL_GAPPS ?= false
+
+ifeq ($(TARGET_SUPPORT_MINIMAL_GAPPS),true)
+PRODUCT_PACKAGES += \
+    MinimalPackage
+GMS_VOICE_MODEL_INCLUDED := false
+TARGET_SUPPORT_LIVE_WALLPAPER := false
+endif
