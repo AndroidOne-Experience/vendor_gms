@@ -5,7 +5,8 @@ PRODUCT_PACKAGES += \
 	PrebuiltBugle \
 	PrebuiltGmail \
 	PrebuiltGmsCore \
-	Velvet
+	Velvet \
+	YouTube
 
 # GoogleExtServices
 PRODUCT_COPY_FILES += \

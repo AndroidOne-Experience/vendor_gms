@@ -23,6 +23,9 @@ product/priv-app/GoogleDialer/GoogleDialer.apk;OVERRIDES=Dialer;PRESIGNED
 # Digital Wellbeing
 product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk;PRESIGNED
 
+# Drive
+product/app/Drive/Drive.apk;PRESIGNED
+
 # General Apps (Calculator, Calendar, Clocks)
 product/app/CalculatorGooglePrebuilt_85005407/CalculatorGooglePrebuilt_85005407.apk;OVERRIDES=ExactCalculator;PRESIGNED
 product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;OVERRIDES=Calendar2,Calendar,Etar;PRESIGNED
@@ -76,6 +79,7 @@ system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
 
 # Location
 product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk;PRESIGNED
+product/app/Maps/Maps.apk;PRESIGNED
 
 # ModuleMetadata
 product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;PRESIGNED
@@ -152,3 +156,6 @@ product/lib64/libwallpapers-breel-2018-jni.so;SYMLINK=product/app/WallpapersBRee
 
 # Weather
 product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk;PRESIGNED
+
+# Youtube
+product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk;PRESIGNED

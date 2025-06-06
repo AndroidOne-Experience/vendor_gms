@@ -63,10 +63,12 @@ PRODUCT_PACKAGES += \
     CalculatorGooglePrebuilt_85005407 \
     CalendarGooglePrebuilt \
     Chrome-Stub \
+    Drive \
     GoogleContacts \
     GoogleTTS \
     LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
+    Maps \
     MarkupGoogle_v2 \
     ModuleMetadataGoogle \
     PixelThemesStub \
@@ -75,6 +77,7 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt_31000232 \
     TrichromeLibrary-Stub \
     WebViewGoogle-Stub \
+    YouTubeMusicPrebuilt \
     ConfigUpdater \
     DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
     FilesPrebuilt \

@@ -94,6 +94,18 @@ android_app_import {
 }
 
 android_app_import {
+	name: "Drive",
+	owner: "gms",
+	apk: "proprietary/product/app/Drive/Drive.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
 	name: "GoogleContacts",
 	owner: "gms",
 	apk: "proprietary/product/app/GoogleContacts/GoogleContacts.apk",
@@ -136,6 +148,18 @@ android_app_import {
 	name: "LocationHistoryPrebuilt",
 	owner: "gms",
 	apk: "proprietary/product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
+	name: "Maps",
+	owner: "gms",
+	apk: "proprietary/product/app/Maps/Maps.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -232,6 +256,18 @@ android_app_import {
 	owner: "gms",
 	apk: "proprietary/product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
 	overrides: ["webview"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
+	name: "YouTubeMusicPrebuilt",
+	owner: "gms",
+	apk: "proprietary/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
