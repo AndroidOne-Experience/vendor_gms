@@ -1,5 +1,8 @@
 # All the blobs below extracted from "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys"
 
+# Android Auto
+product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED
+
 # Accessibility Menu
 system_ext/app/AccessibilityMenu/AccessibilityMenu.apk;PRESIGNED
 

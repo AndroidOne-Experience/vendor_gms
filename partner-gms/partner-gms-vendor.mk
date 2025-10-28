@@ -78,6 +78,7 @@ PRODUCT_PACKAGES += \
     TrichromeLibrary-Stub \
     WebViewGoogle-Stub \
     YouTubeMusicPrebuilt \
+    AndroidAutoStubPrebuilt \
     ConfigUpdater \
     DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
     FilesPrebuilt \
