@@ -22,3 +22,11 @@ PRODUCT_PACKAGES += \
     WallpapersBReel2018
 endif
 
+# Pixel Launcher
+TARGET_SUPPORT_PIXEL_LAUNCHER ?= false
+
+ifeq ($(TARGET_SUPPORT_PIXEL_LAUNCHER),true)
+PRODUCT_PACKAGES += \
+    NexusLauncherRelease \
+	NexusLauncherRelease-Overlay
+endif

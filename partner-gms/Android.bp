@@ -647,20 +647,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "NexusLauncherRelease",
-	owner: "gms",
-	apk: "proprietary/system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
-	overrides: ["Launcher3", "Launcher3QuickStep", "TrebuchetQuickStep"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
 	name: "StorageManagerGoogle",
 	owner: "gms",
 	apk: "proprietary/system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk",

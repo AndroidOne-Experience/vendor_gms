@@ -106,7 +106,6 @@ PRODUCT_PACKAGES += \
     AccessibilityMenu \
     AvatarPickerGoogle \
     GoogleServicesFramework \
-    NexusLauncherRelease \
     StorageManagerGoogle \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \
