@@ -1,0 +1,18 @@
+android_app_import {
+    name: "GoogleExtServices",
+    owner: "gms",
+    apk: "GoogleExtServices.apk",
+    overrides: ["ExtServices"],
+    preprocessed: true,
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    privileged: true,
+}
+
+prebuilt_etc {
+    name: "privapp_allowlist_com.google.android.ext.services.xml",
+    src: "permissions/privapp_allowlist_com.google.android.ext.services.xml",
+    sub_dir: "permissions",
+}

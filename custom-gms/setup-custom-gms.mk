@@ -17,3 +17,8 @@ PRODUCT_PACKAGES += \
     NexusLauncherRelease \
 	NexusLauncherRelease-Overlay
 endif
+
+# GoogleExtServices
+PRODUCT_PACKAGES += \
+	GoogleExtServices \
+	privapp_allowlist_com.google.android.ext.services.xml
