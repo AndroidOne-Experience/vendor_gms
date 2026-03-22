@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">(F)‏‮While‬‏ ‏‮upright‬‏ ‏‮and‬‏ ‏‮charging‬‏</string>
+    <string name="screensaver_settings_summary_sleep">(F)‏‮While‬‏ ‏‮charging‬‏</string>
+    <string name="when_to_show_hubmode_charging">(F)‏‮While‬‏ ‏‮charging‬‏</string>
+    <string name="when_to_show_hubmode_charging_and_upright">(F)‏‮While‬‏ ‏‮upright‬‏ ‏‮and‬‏ ‏‮charging‬‏</string>
+    <string name="when_to_show_hubmode_docked">(F)‏‮While‬‏ ‏‮docked‬‏ ‏‮and‬‏ ‏‮charging‬‏</string>
+    <string name="when_to_show_hubmode_never">(F)‏‮Never‬‏</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">A környezeti világításnak megfelelően dinamikusan hozzáigazítja a képernyőt a melegebb vagy hidegebb tónusokhoz</string>
+    <string name="display_white_balance_title">Adaptív tónus</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + jelszó</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + minta</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-kód</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Folytatás a Pixel Imprint nélkül</string>
+    <string name="fingerprint_unlock_title">A Pixel Imprint használatával telefonját az ujjlenyomatával oldhatja fel. Biztonsági okokból ezen beállítás esetében szükség van másodlagos képernyőzárra is.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">A Pixel Imprint engedélyezése</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"A Pixel Imprint használata esetén ujjlenyomatával vásárlásokat engedélyezhet, illetve alkalmazásokba jelentkezhet be.
+
+Ügyeljen arra, hogy kinek az ujjlenyomatát adja hozzá. A hozzáadott ujjlenyomatok feljogosítják tulajdonosukat a fentebb felsoroltakra.
+
+Megjegyzés: Nem használhatja ujjlenyomatát az eszköz feloldására. Ha további információt szeretne kapni, forduljon szervezete rendszergazdájához."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">A Pixel Imprint beállítása</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">A telefon feloldása a Pixel Imprint funkcióval</string>
+</resources>

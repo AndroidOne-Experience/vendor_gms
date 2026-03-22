@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">डिवाइस जब सीधा रखा हो और चार्ज हो रहा हो</string>
+    <string name="screensaver_settings_summary_sleep">डिवाइस जब चार्ज हो रहा हो</string>
+    <string name="when_to_show_hubmode_charging">चार्ज करते समय</string>
+    <string name="when_to_show_hubmode_charging_and_upright">डिवाइस जब सीधा रखा हो और चार्ज हो रहा हो</string>
+    <string name="when_to_show_hubmode_docked">जब टैबलेट डॉक से जुड़ा हुआ हो और चार्ज हो रहा हो</string>
+    <string name="when_to_show_hubmode_never">कभी नहीं</string>
+</resources>

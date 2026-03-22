@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Mentres está en vertical e cargando</string>
+    <string name="screensaver_settings_summary_sleep">Mentres está cargando</string>
+    <string name="when_to_show_hubmode_charging">Mentres está cargando</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Mentres está en vertical e cargando</string>
+    <string name="when_to_show_hubmode_docked">Mentres está na base e cargando</string>
+    <string name="when_to_show_hubmode_never">Nunca</string>
+</resources>

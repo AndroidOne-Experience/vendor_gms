@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Þegar tækið er upprétt og í hleðslu</string>
+    <string name="screensaver_settings_summary_sleep">Þegar tækið er í hleðslu</string>
+    <string name="when_to_show_hubmode_charging">Þegar tækið er í hleðslu</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Þegar tækið er upprétt og í hleðslu</string>
+    <string name="when_to_show_hubmode_docked">Þegar tækið er í dokku og hleðslu</string>
+    <string name="when_to_show_hubmode_never">Aldrei</string>
+</resources>

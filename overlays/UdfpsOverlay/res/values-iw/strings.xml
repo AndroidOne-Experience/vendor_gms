@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">סיסמה • טביעת אצבע</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">קו פתיחת נעילה • טביעת אצבע</string>
+    <string name="fingerprint_unlock_set_unlock_pin">קוד אימות • טביעת אצבע</string>
+    <string name="fingerprint_unlock_skip_fingerprint">המשך בלי פתיחת הנעילה בטביעת אצבע</string>
+    <string name="fingerprint_unlock_title">"התכונה 'ביטול הנעילה בטביעת אצבע' מאפשרת לך לבטל את הנעילה של הטלפון באמצעות טביעת האצבע. מטעמי אבטחה, נדרשת נעילת מסך לגיבוי כדי להשתמש באפשרות הזו."</string>
+    <string name="security_settings_fingerprint_bad_calibration">‏צריך ליצור קשר עם ספק תיקונים או להיכנס לכתובת g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">הרשאה לבטל נעילה בטביעת אצבע</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">ביטול הנעילה בטביעת אצבע משתפר ככל שמשתמשים בו יותר כדי לבטל את הנעילה של הטלפון או לאמת את הזהות באפליקציות</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">הגדרת \"פתיחה בטביעת אצבע\"</string>
+    <string name="security_settings_fingerprint_preference_title">פתיחה בטביעת אצבע</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">התכונה \"פתיחה בטביעת אצבע\" יוצרת תבנית ייחודית של טביעת האצבע שלך כדי לאמת את הזהות שלך. תהליך היצירה של תבנית לטביעת האצבע כולל צילום תמונות של טביעת האצבע שלך מזוויות שונות.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">כשמשתמשים בתכונה \"פתיחה בטביעת אצבע\", נעשה שימוש בתמונות כדי לעדכן את התבנית של טביעת האצבע. התמונות והתבנית של טביעת האצבע נשמרות באופן מאובטח בטלפון ואף פעם לא נשלחות או מועברות ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">בכל שלב אפשר להיכנס ל\"הגדרות\" ולמחוק את התבנית ואת התמונות של טביעת האצבע, או להשבית את \"פתיחה בטביעת אצבע\". התמונות והתבניות של טביעת האצבע נשמרות בטלפון עד שמוחקים אותן.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">"הפיצ'ר 'ביטול הנעילה בטביעת אצבע' יוצר תבנית ייחודית של טביעת האצבע של הילד או הילדה כדי לאמת את זהותם. כדי ליצור את התבנית הזו לטביעת האצבע במהלך ההגדרה, יהיה עליהם לצלם תמונות של טביעת האצבע מזוויות שונות."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">"כשהילד או הילדה משתמשים בפיצ'ר 'ביטול הנעילה בטביעת אצבע', נעשה שימוש בתמונות כדי לעדכן את התבנית של טביעת האצבע שלהם. התמונות והתבנית של טביעת האצבע של הילד או הילדה נשמרות באופן מאובטח בטלפון ואף פעם לא נשלחות או מועברות ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">"האפשרות למחוק את התמונות והתבנית של טביעת האצבע, או להשבית את הפיצ'ר 'ביטול הנעילה בטביעת אצבע', זמינה לך ולילד או לילדה שלך בכל שלב בהגדרות. התמונות והתבניות של טביעת האצבע נשמרות בטלפון עד שהן נמחקות."</string>
+    <string name="security_settings_work_fingerprint_preference_title">ביטול הנעילה בטביעת אצבע לעבודה</string>
+    <string name="suggested_fingerprint_lock_settings_title">"שימוש ב'ביטול הנעילה בטביעת אצבע'"</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"הסיסמה מגינה על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. בנוסף, התבנית לזיהוי פנים תימחק באופן סופי ומאובטח. לא תהיה לך אפשרות לבצע אימות באמצעות הפנים או טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"הסיסמה מגינה על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו גם מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. לא תהיה לך אפשרות לבצע אימות באמצעות טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"קו ביטול הנעילה מגן על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. בנוסף, התבנית לזיהוי פנים תימחק באופן סופי ומאובטח. לא תהיה לך אפשרות לבצע אימות באמצעות הפנים או טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"קו ביטול הנעילה מגן על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו גם מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. לא תהיה לך אפשרות לבצע אימות באמצעות טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"קוד האימות מגן על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. בנוסף, התבנית לזיהוי פנים תימחק באופן סופי ומאובטח. לא תהיה לך אפשרות לבצע אימות באמצעות הפנים או טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"קוד האימות מגן על הטלפון במקרה של אובדן או גניבה.
+
+הפעולה הזו גם מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. לא תהיה לך אפשרות לבצע אימות באמצעות טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"התכונות להגנת המכשיר לא יפעלו בלי נעילת המסך.
+
+הפעולה הזו מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. בנוסף, התבנית לזיהוי פנים תימחק באופן סופי ומאובטח. לא תהיה לך אפשרות לבצע אימות באמצעות הפנים או טביעת אצבע באפליקציות."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"התכונות להגנת המכשיר לא יפעלו בלי נעילת המסך.
+
+הפעולה הזו גם מוחקת את התבנית והתמונות של טביעות האצבע ששמורות במכשיר. לא תהיה לך אפשרות לבצע אימות באמצעות טביעת אצבע באפליקציות."</string>
+</resources>

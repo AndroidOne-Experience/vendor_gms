@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Heslo • Otisk prstu</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Gesto • Otisk prstu</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Otisk prstu</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pokračovat bez odemknutí otiskem prstu</string>
+    <string name="fingerprint_unlock_title">Odemknutí otiskem prstu umožňuje odemknout telefon otiskem prstu. Z bezpečnostních důvodů tato možnost vyžaduje záložní zámek obrazovky.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Navštivte servis nebo stránku g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Povolit odemknutí otiskem prstu</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Odemknutí otiskem prstu se zdokonaluje, čím častěji ho používáte k odemčení telefonu nebo ověření identity v aplikacích</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Nastavení odemknutí otiskem prstu</string>
+    <string name="security_settings_fingerprint_preference_title">Odemknutí otiskem prstu</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Funkce odemknutí otiskem prstu používá unikátní model vašeho otisku prstu k ověření identity. Model otisku prstu se vytváří na základě snímků otisku prstu z různých úhlů.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Při odemykání telefonu otiskem prstu se model otisku prstu aktualizuje pomocí snímků. Snímky a model otisku prstu jsou bezpečně uloženy v telefonu a nikdy jej neopouštějí. Ke zpracování dochází bezpečně v telefonu.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">V Nastavení můžete snímky a model otisku prstu kdykoli smazat, případně odemknutí otiskem prstu vypnout. Snímky a modely otisků prstů budou v telefonu uloženy, dokud je nesmažete.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Odemknutí otiskem prstu vytváří jedinečný model otisku prstu dítěte, podle kterého ho při ověření poznáme. Model otisku prstu vytvoříme při nastavování na základě snímků otisku prstu z různých úhlů.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Když dítě používá odemknutí otiskem prstu, snímky slouží k aktualizaci modelu jeho otisku prstu. Snímky a model otisku prstu jsou bezpečně uloženy v telefonu a nikdy ho neopouštějí. Ke zpracování dochází bezpečně v telefonu.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">V Nastavení můžete vy nebo vaše dítě snímky a model otisku prstu kdykoli smazat, případně odemknutí otiskem prstu vypnout. Snímky a modely otisků prstů zůstanou v telefonu uloženy, dokud nebudou smazány.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Odemknutí otiskem prstu pro práci</string>
+    <string name="suggested_fingerprint_lock_settings_title">Použijte odemknutí otiskem prstu</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Heslo chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí smažete snímky a model otisků prstů uložené v zařízení. Bude také trvale a bezpečně smazán model obličeje. Obličej ani otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Heslo chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí také smažete snímky a model otisku prstu uložené v zařízení. Otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Gesto chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí smažete snímky a model otisku prstu uložené v zařízení. Bude také trvale a bezpečně smazán model obličeje. Obličej ani otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Gesto chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí také smažete snímky a model otisku prstu uložené v zařízení. Otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí vymažete snímky a model otisku prstu uložené v zařízení. Bude také trvale a bezpečně smazán model obličeje. Obličej ani otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN chrání telefon v případě ztráty nebo odcizení.
+
+Touto akcí také smažete snímky a model otisku prstu uložené v zařízení. Otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Bez zámku obrazovky nebudou fungovat funkce ochrany zařízení.
+
+Touto akcí smažete snímky a model otisku prstu uložené v zařízení. Bude také trvale a bezpečně smazán model obličeje. Obličej ani otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Bez zámku obrazovky nebudou fungovat funkce ochrany zařízení.
+
+Touto akcí také smažete snímky a model otisku prstu uložené v zařízení. Otisk prstu nebudete moci používat ani k ověřování v aplikacích."</string>
+</resources>

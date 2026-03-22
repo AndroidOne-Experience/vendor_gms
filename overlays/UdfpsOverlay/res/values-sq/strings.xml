@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Fjalëkalim • Gjurmë gishti</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Motiv • Gjurmë gishti</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Gjurmë gishti</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Vazhdo pa \"Shkyçjen me gjurmën e gishtit\"</string>
+    <string name="fingerprint_unlock_title">Me \"Shkyçjen me gjurmën e gishtit\", mund ta shkyçësh telefonin duke përdorur gjurmën e gishtit. Për siguri, ky opsion kërkon një kyçje rezervë të ekranit.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Vizito një ofrues të shërbimit të riparimit ose g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Lejo \"Shkyçjen me gjurmën e gishtit\"</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">\"Shkyçja me gjurmën e gishtit\" përmirësohet sa më shumë që e përdorur atë për të shkyçur telefonin tënd ose për të verifikuar që je ti në aplikacione</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Konfiguro \"Shkyçjen me gjurmën e gishtit\"</string>
+    <string name="security_settings_fingerprint_preference_title">Shkyçja me gjurmën e gishtit</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">"\"Shkyçja me gjurmën e gishtit\" krijon një model unik të gjurmës sate të gishtit për të verifikuar që je ti. Për ta krijuar këtë model të gjurmës së gishtit gjatë konfigurimit, duhet t'i regjistrosh nga pozicione të ndryshme imazhet e gjurmës sate të gishtit."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Kur përdor \"Shkyçjen me gjurmën e gishtit\", imazhet përdoren për të përditësuar modelin tënd të gjurmës së gishtit. Imazhet dhe modeli i gjurmës sate të gishtit ruhen në mënyrë të sigurt në telefonin tënd dhe nuk largohen kurrë nga telefoni yt. I gjithë përpunimi ndodh në mënyrë të sigurt në telefonin tënd.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">"Mund t'i fshish imazhet dhe modelin e gjurmës sate të gishtit ose çaktivizoje \"Shkyçjen me gjurmën e gishtit\" në çdo kohë te \"Cilësimet\". Imazhet dhe modelet e gjurmës së gishtit ruhen në telefon deri kur t'i fshish."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">"\"Shkyçja me gjurmën e gishtit\" krijon një model unik të gjurmës së gishtit të fëmijës tënd për të verifikuar që është ai. Për ta krijuar këtë model të gjurmës së gishtit gjatë konfigurimit, ajo duhet t'i regjistrojë nga pozicione të ndryshme imazhet e gjurmës sate të gishtit."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Kur ai përdor \"Shkyçjen me gjurmën e gishtit\", imazhet përdoren për të përditësuar modelin e tij të gjurmës së gishtit. Imazhet dhe modeli i gjurmës së gishtit të fëmijës tënd ruhen në mënyrë të sigurt në telefon dhe nuk largohen kurrë nga telefoni. I gjithë përpunimi ndodh në mënyrë të sigurt në telefon.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">"Ti dhe fëmija yt mund t'i fshini imazhet dhe modelin e gjurmës së tij të gishtit ose ta çaktivizoni \"Shkyçjen me gjurmën e gishtit\" në çfarëdo kohe te \"Cilësimet\". Imazhet dhe modelet e gjurmës së gishtit ruhen në telefon derisa të fshihen."</string>
+    <string name="security_settings_work_fingerprint_preference_title">\"Shkyçja me gjurmën e gishtit\" për profilin e punës</string>
+    <string name="suggested_fingerprint_lock_settings_title">Përdor \"Shkyçjen me gjurmën e gishtit\"</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Telefoni yt mbrohet nga një fjalëkalim në rast se humb ose vidhet.
+
+Kjo fshin imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Modeli yt i fytyrës do të fshihet gjithashtu përgjithmonë dhe në mënyrë të sigurt. Nuk do të mund të përdorësh fytyrën ose gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Telefoni yt mbrohet nga një fjalëkalim në rast se humb ose vidhet.
+
+Kjo fshin po ashtu imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Nuk do të mund të përdorësh gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Telefoni yt mbrohet nga një motiv në rast se humb ose vidhet.
+
+Kjo fshin imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Modeli yt i fytyrës do të fshihet gjithashtu përgjithmonë dhe në mënyrë të sigurt. Nuk do të mund të përdorësh fytyrën ose gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Telefoni yt mbrohet nga një motiv në rast se humb ose vidhet.
+
+Kjo fshin po ashtu imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Nuk do të mund të përdorësh gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Telefoni yt mbrohet nga një kod PIN në rast se humb ose vidhet.
+
+Kjo fshin imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Modeli yt i fytyrës do të fshihet gjithashtu përgjithmonë dhe në mënyrë të sigurt. Nuk do të mund të përdorësh fytyrën ose gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Telefoni yt mbrohet nga një kod PIN në rast se humb ose vidhet.
+
+Kjo fshin po ashtu imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Nuk do të mund të përdorësh gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Veçoritë e mbrojtjes së pajisjes nuk do të funksionojnë pa kyçjen tënde të ekranit.
+
+Kjo fshin imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Modeli yt i fytyrës do të fshihet gjithashtu përgjithmonë dhe në mënyrë të sigurt. Nuk do të mund të përdorësh fytyrën ose gjurmën e gishtit për vërtetimin në aplikacione."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Veçoritë e mbrojtjes së pajisjes nuk do të funksionojnë pa kyçjen tënde të ekranit.
+
+Kjo fshin po ashtu imazhet dhe modelin e gjurmëve të gishtave të ruajtura në pajisjen tënde. Nuk do të mund të përdorësh gjurmën e gishtit për vërtetimin në aplikacione."</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">(N)‏‮Password‬‏ ‏‮•‬‏ ‏‮Fingerprint‬‏</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">(N)‏‮Pattern‬‏ ‏‮•‬‏ ‏‮Fingerprint‬‏</string>
+    <string name="fingerprint_unlock_set_unlock_pin">(N)‏‮PIN‬‏ ‏‮•‬‏ ‏‮Fingerprint‬‏</string>
+    <string name="fingerprint_unlock_skip_fingerprint">(N)‏‮Continue‬‏ ‏‮without‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏</string>
+    <string name="fingerprint_unlock_title">(N)‏‮With‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock,‬‏ ‏‮you‬‏ ‏‮can‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮using‬‏ ‏‮your‬‏ ‏‮fingerprint.‬‏ ‏‮For‬‏ ‏‮security,‬‏ ‏‮this‬‏ ‏‮option‬‏ ‏‮requires‬‏ ‏‮a‬‏ ‏‮backup‬‏ ‏‮screen‬‏ ‏‮lock.‬‏</string>
+    <string name="security_settings_fingerprint_bad_calibration">(N)‏‮Visit‬‏ ‏‮a‬‏ ‏‮repair‬‏ ‏‮provider‬‏ ‏‮or‬‏ ‏‮g.co/pixel/fingerprintunlock.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">(N)‏‮Allow‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">(N)‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮improves‬‏ ‏‮the‬‏ ‏‮more‬‏ ‏‮you‬‏ ‏‮use‬‏ ‏‮it‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮or‬‏ ‏‮verify‬‏ ‏‮it’s‬‏ ‏‮you‬‏ ‏‮in‬‏ ‏‮apps‬‏</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">(N)‏‮Set‬‏ ‏‮up‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏</string>
+    <string name="security_settings_fingerprint_preference_title">(N)‏‮Fingerprint‬‏ ‏‮Unlock‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">(N)‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮creates‬‏ ‏‮a‬‏ ‏‮unique‬‏ ‏‮model‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮to‬‏ ‏‮verify‬‏ ‏‮it’s‬‏ ‏‮you.‬‏ ‏‮To‬‏ ‏‮create‬‏ ‏‮this‬‏ ‏‮fingerprint‬‏ ‏‮model‬‏ ‏‮during‬‏ ‏‮setup,‬‏ ‏‮you‬‏ ‏‮will‬‏ ‏‮take‬‏ ‏‮images‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮from‬‏ ‏‮different‬‏ ‏‮positions.‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">(N)‏‮When‬‏ ‏‮you‬‏ ‏‮use‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock,‬‏ ‏‮images‬‏ ‏‮are‬‏ ‏‮used‬‏ ‏‮to‬‏ ‏‮update‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮model.‬‏ ‏‮Your‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮are‬‏ ‏‮stored‬‏ ‏‮securely‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮and‬‏ ‏‮never‬‏ ‏‮leave‬‏ ‏‮the‬‏ ‏‮phone.‬‏ ‏‮All‬‏ ‏‮processing‬‏ ‏‮occurs‬‏ ‏‮securely‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">(N)‏‮You‬‏ ‏‮can‬‏ ‏‮delete‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model,‬‏ ‏‮or‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮at‬‏ ‏‮any‬‏ ‏‮time‬‏ ‏‮in‬‏ ‏‮Settings.‬‏ ‏‮Fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮models‬‏ ‏‮are‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮phone‬‏ ‏‮until‬‏ ‏‮you‬‏ ‏‮delete‬‏ ‏‮them.‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">(N)‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮creates‬‏ ‏‮a‬‏ ‏‮unique‬‏ ‏‮model‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮child’s‬‏ ‏‮fingerprint‬‏ ‏‮to‬‏ ‏‮verify‬‏ ‏‮it’s‬‏ ‏‮them.‬‏ ‏‮To‬‏ ‏‮create‬‏ ‏‮this‬‏ ‏‮fingerprint‬‏ ‏‮model‬‏ ‏‮during‬‏ ‏‮setup,‬‏ ‏‮they‬‏ ‏‮will‬‏ ‏‮take‬‏ ‏‮images‬‏ ‏‮of‬‏ ‏‮their‬‏ ‏‮fingerprint‬‏ ‏‮from‬‏ ‏‮different‬‏ ‏‮positions.‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">(N)‏‮When‬‏ ‏‮they‬‏ ‏‮use‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock,‬‏ ‏‮images‬‏ ‏‮are‬‏ ‏‮used‬‏ ‏‮to‬‏ ‏‮update‬‏ ‏‮their‬‏ ‏‮fingerprint‬‏ ‏‮model.‬‏ ‏‮Your‬‏ ‏‮child’s‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮are‬‏ ‏‮stored‬‏ ‏‮securely‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮phone‬‏ ‏‮and‬‏ ‏‮never‬‏ ‏‮leave‬‏ ‏‮the‬‏ ‏‮phone.‬‏ ‏‮All‬‏ ‏‮processing‬‏ ‏‮occurs‬‏ ‏‮securely‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮phone.‬‏</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">(N)‏‮You‬‏ ‏‮and‬‏ ‏‮your‬‏ ‏‮child‬‏ ‏‮can‬‏ ‏‮delete‬‏ ‏‮their‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model,‬‏ ‏‮or‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮at‬‏ ‏‮any‬‏ ‏‮time‬‏ ‏‮in‬‏ ‏‮Settings.‬‏ ‏‮Fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮models‬‏ ‏‮are‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮phone‬‏ ‏‮until‬‏ ‏‮they’re‬‏ ‏‮deleted.‬‏</string>
+    <string name="security_settings_work_fingerprint_preference_title">(N)‏‮Fingerprint‬‏ ‏‮Unlock‬‏ ‏‮for‬‏ ‏‮work‬‏</string>
+    <string name="suggested_fingerprint_lock_settings_title">(N)‏‮Use‬‏ ‏‮Fingerprint‬‏ ‏‮Unlock‬‏</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"(N)‏‮A‬‏ ‏‮password‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮Your‬‏ ‏‮face‬‏ ‏‮model‬‏ ‏‮will‬‏ ‏‮also‬‏ ‏‮be‬‏ ‏‮permanently‬‏ ‏‮and‬‏ ‏‮securely‬‏ ‏‮deleted.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮face‬‏ ‏‮or‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"(N)‏‮A‬‏ ‏‮password‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮also‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"(N)‏‮A‬‏ ‏‮pattern‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮Your‬‏ ‏‮face‬‏ ‏‮model‬‏ ‏‮will‬‏ ‏‮also‬‏ ‏‮be‬‏ ‏‮permanently‬‏ ‏‮and‬‏ ‏‮securely‬‏ ‏‮deleted.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮face‬‏ ‏‮or‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"(N)‏‮A‬‏ ‏‮pattern‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮also‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"(N)‏‮A‬‏ ‏‮PIN‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮Your‬‏ ‏‮face‬‏ ‏‮model‬‏ ‏‮will‬‏ ‏‮also‬‏ ‏‮be‬‏ ‏‮permanently‬‏ ‏‮and‬‏ ‏‮securely‬‏ ‏‮deleted.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮face‬‏ ‏‮or‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"(N)‏‮A‬‏ ‏‮PIN‬‏ ‏‮protects‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮if‬‏ ‏‮it’s‬‏ ‏‮lost‬‏ ‏‮or‬‏ ‏‮stolen.‬‏
+
+‏‮This‬‏ ‏‮also‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"(N)‏‮Device‬‏ ‏‮protection‬‏ ‏‮features‬‏ ‏‮will‬‏ ‏‮not‬‏ ‏‮work‬‏ ‏‮without‬‏ ‏‮your‬‏ ‏‮screen‬‏ ‏‮lock.‬‏
+
+‏‮This‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮Your‬‏ ‏‮face‬‏ ‏‮model‬‏ ‏‮will‬‏ ‏‮also‬‏ ‏‮be‬‏ ‏‮permanently‬‏ ‏‮and‬‏ ‏‮securely‬‏ ‏‮deleted.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮face‬‏ ‏‮or‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"(N)‏‮Device‬‏ ‏‮protection‬‏ ‏‮features‬‏ ‏‮will‬‏ ‏‮not‬‏ ‏‮work‬‏ ‏‮without‬‏ ‏‮your‬‏ ‏‮screen‬‏ ‏‮lock.‬‏
+
+‏‮This‬‏ ‏‮also‬‏ ‏‮deletes‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮images‬‏ ‏‮and‬‏ ‏‮model‬‏ ‏‮stored‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮You‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮for‬‏ ‏‮authentication‬‏ ‏‮in‬‏ ‏‮apps.‬‏"</string>
+</resources>

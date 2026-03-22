@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">รหัสผ่าน • ลายนิ้วมือ</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">รูปแบบ • ลายนิ้วมือ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • ลายนิ้วมือ</string>
+    <string name="fingerprint_unlock_skip_fingerprint">ดำเนินการต่อโดยไม่มีการปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="fingerprint_unlock_title">เมื่อใช้การปลดล็อกด้วยลายนิ้วมือ คุณสามารถปลดล็อกโทรศัพท์ได้ด้วยลายนิ้วมือ ตัวเลือกนี้ต้องใช้ล็อกหน้าจอสำรองเพื่อความปลอดภัย</string>
+    <string name="security_settings_fingerprint_bad_calibration">โปรดติดต่อผู้ให้บริการซ่อมหรือไปที่ g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">อนุญาตให้ปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">ฟีเจอร์ปลดล็อกด้วยลายนิ้วมือจะทำงานได้ดีขึ้นเมื่อคุณปลดล็อกโทรศัพท์หรือยืนยันตนตัวในแอปโดยใช้ฟีเจอร์นี้ไปเรื่อยๆ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ตั้งค่าการปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="security_settings_fingerprint_preference_title">การปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">การปลดล็อกด้วยลายนิ้วมือจะสร้างรูปแบบลายนิ้วมือที่เป็นเอกลักษณ์เพื่อยืนยันตัวตนว่าเป็นคุณ ระหว่างการตั้งค่า คุณจะได้สร้างรูปแบบลายนิ้วมือนี้ด้วยการถ่ายภาพลายนิ้วมือจากมุมต่างๆ ที่ไม่ซ้ำกัน</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">เมื่อใช้การปลดล็อกด้วยลายนิ้วมือ ระบบจะใช้รูปภาพเพื่ออัปเดตรูปแบบลายนิ้วมือ ระบบจะเก็บรูปภาพและรูปแบบลายนิ้วมือไว้อย่างปลอดภัยในโทรศัพท์และจะไม่มีการส่งออกไปไหน การประมวลผลข้อมูลทั้งหมดเกิดขึ้นอย่างปลอดภัยในโทรศัพท์</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">คุณลบรูปภาพและรูปแบบลายนิ้วมือหรือปิดการปลดล็อกด้วยลายนิ้วมือได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปภาพและรูปแบบลายนิ้วมือไว้ในโทรศัพท์จนกว่าคุณจะลบออก</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">การปลดล็อกด้วยลายนิ้วมือจะสร้างรูปแบบลายนิ้วมือที่เป็นเอกลักษณ์ของบุตรหลานเพื่อยืนยันว่าเป็นตนเอง ในการสร้างรูปแบบลายนิ้วมือนี้ระหว่างการตั้งค่า บุตรหลานจะถ่ายภาพลายนิ้วมือจากมุมต่างๆ ที่ไม่ซ้ำกัน</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">เมื่อบุตรหลานใช้การปลดล็อกด้วยลายนิ้วมือ ระบบจะใช้รูปภาพเพื่ออัปเดตรูปแบบลายนิ้วมือ ระบบจะเก็บรูปภาพและรูปแบบลายนิ้วมือของบุตรหลานไว้อย่างปลอดภัยในโทรศัพท์และจะไม่มีการส่งออกไปไหน การประมวลผลข้อมูลทั้งหมดเกิดขึ้นอย่างปลอดภัยในโทรศัพท์</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">คุณและบุตรหลานลบรูปภาพและรูปแบบลายนิ้วมือ หรือปิดการปลดล็อกด้วยลายนิ้วมือได้ทุกเมื่อในการตั้งค่า ระบบจะเก็บรูปภาพและรูปแบบลายนิ้วมือไว้ในโทรศัพท์จนกว่าจะมีการลบออก</string>
+    <string name="security_settings_work_fingerprint_preference_title">การปลดล็อกด้วยลายนิ้วมือสำหรับการทำงาน</string>
+    <string name="suggested_fingerprint_lock_settings_title">ใช้การปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"รหัสผ่านจะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัยด้วย คุณจะใช้ใบหน้าหรือลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"รหัสผ่านจะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ด้วย คุณจะใช้ลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"รูปแบบจะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัยด้วย คุณจะใช้ใบหน้าหรือลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"รูปแบบจะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ด้วย คุณจะใช้ลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN จะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัยด้วย คุณจะใช้ใบหน้าหรือลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN จะปกป้องโทรศัพท์หากสูญหายหรือถูกขโมย
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ด้วย คุณจะใช้ลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"ฟีเจอร์การปกป้องอุปกรณ์จะไม่ทำงานหากไม่ใช้การล็อกหน้าจอ
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ ระบบจะลบรูปแบบใบหน้าออกอย่างถาวรและปลอดภัยด้วย คุณจะใช้ใบหน้าหรือลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"ฟีเจอร์การปกป้องอุปกรณ์จะไม่ทำงานหากไม่ใช้การล็อกหน้าจอ
+
+การดำเนินการนี้จะลบรูปภาพและรูปแบบลายนิ้วมือที่เก็บอยู่ในอุปกรณ์ด้วย คุณจะใช้ลายนิ้วมือสำหรับการตรวจสอบสิทธิ์ในแอปไม่ได้"</string>
+</resources>

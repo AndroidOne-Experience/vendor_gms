@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Vid laddning i upprätt läge</string>
+    <string name="screensaver_settings_summary_sleep">Vid laddning</string>
+    <string name="when_to_show_hubmode_charging">Vid laddning</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Vid laddning i upprätt läge</string>
+    <string name="when_to_show_hubmode_docked">Vid laddning när den är dockad</string>
+    <string name="when_to_show_hubmode_never">Aldrig</string>
+</resources>

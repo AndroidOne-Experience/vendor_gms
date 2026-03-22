@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">縦置きで充電中</string>
+    <string name="screensaver_settings_summary_sleep">充電中</string>
+    <string name="when_to_show_hubmode_charging">充電中</string>
+    <string name="when_to_show_hubmode_charging_and_upright">縦置きで充電中</string>
+    <string name="when_to_show_hubmode_docked">ホルダーで充電中</string>
+    <string name="when_to_show_hubmode_never">なし</string>
+</resources>

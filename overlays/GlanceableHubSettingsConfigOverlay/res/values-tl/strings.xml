@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Habang nakatayo at nagcha-charge</string>
+    <string name="screensaver_settings_summary_sleep">Habang nagcha-charge</string>
+    <string name="when_to_show_hubmode_charging">Habang nagcha-charge</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Habang nakatayo at nagcha-charge</string>
+    <string name="when_to_show_hubmode_docked">Habang naka-dock at nagcha-charge</string>
+    <string name="when_to_show_hubmode_never">Hindi kailanman</string>
+</resources>

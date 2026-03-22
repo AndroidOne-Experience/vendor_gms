@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Geslo • Prstni odtis</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Vzorec • Prstni odtis</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Koda PIN • Prstni odtis</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Nadaljevanje brez odklepanja s prstnim odtisom</string>
+    <string name="fingerprint_unlock_title">Funkcija odklepanja s prstnim odtisom omogoča odklepanje telefona s prstnim odtisom. Zaradi varnosti ta možnost zahteva uporabo nadomestnega načina zaklepanja zaslona.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Obiščite ponudnika popravil ali spletno stran g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Omogočanje odklepanja s prstnim odtisom</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Večkrat ko s funkcijo odklepanja s prstnim odtisom odklenete telefon ali potrdite svojo identiteto v aplikacijah, bolje bo delovala.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Nastavite odklepanje s prstnim odtisom</string>
+    <string name="security_settings_fingerprint_preference_title">Odklepanje s prstnim odtisom</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Odklepanje s prstnim odtisom ustvari edinstven model vašega prstnega odtisa, s katerim potrdite svojo identiteto. Za ustvarjanje modela prstnega odtisa med postopkom nastavitve morate posneti svoj prstni odtis v različnih položajih.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Ko uporabljate odklepanje s prstnim odtisom, se model prstnega odtisa posodablja s slikami iz teh interakcij. Slike in model prstnega odtisa so varno shranjeni v telefonu in ga nikoli ne zapustijo. Celotna obdelava je izvedena varno v telefonu.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">V nastavitvah lahko kadar koli izbrišete slike in model prstnega odtisa ali izklopite odklepanje s prstnim odtisom. Slike in modeli prstnih odtisov so shranjeni v telefonu, dokler jih ne izbrišete.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Odklepanje s prstnim odtisom ustvari edinstven model otrokovega prstnega odtisa, s katerim potrdi svojo identiteto. Za ustvarjanje modela prstnega odtisa med postopkom nastavitve mora posneti svoj prstni odtis v različnih položajih.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Ko uporablja odklepanje s prstnim odtisom, se model prstnega odtisa posodablja s slikami iz teh interakcij. Slike in model otrokovega prstnega odtisa so varno shranjeni v telefonu in ga nikoli ne zapustijo. Celotna obdelava je izvedena varno v telefonu.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Vi in otrok lahko v nastavitvah kadar koli izbrišete slike in model prstnega odtisa ali izklopite odklepanje s prstnim odtisom. Slike in modeli prstnega odtisa so shranjeni v telefonu, dokler niso izbrisani.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Odklepanje s prstnim odtisom za delo</string>
+    <string name="suggested_fingerprint_lock_settings_title">Uporaba odklepanja s prstnim odtisom</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Geslo ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Trajno in varno bo izbrisan tudi model obraza. Obraza in prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geslo ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali tudi slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Vzorec ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Trajno in varno bo izbrisan tudi model obraza. Obraza in prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Vzorec ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali tudi slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Koda PIN ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Trajno in varno bo izbrisan tudi model obraza. Obraza in prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Koda PIN ščiti telefon, če ga izgubite ali vam ga ukradejo.
+
+S tem boste izbrisali tudi slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.
+
+S tem boste izbrisali slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Trajno in varno bo izbrisan tudi model obraza. Obraza in prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.
+
+S tem boste izbrisali tudi slike prstnih odtisov in model prstnega odtisa, ki so shranjeni v napravi. Prstnega odtisa ne boste več mogli uporabljati za preverjanje pristnosti v aplikacijah."</string>
+</resources>

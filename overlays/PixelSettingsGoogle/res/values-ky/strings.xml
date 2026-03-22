@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Экран айланадагы жарыкка жараша жылуу же муздак болуп өзгөрүп турат</string>
+    <string name="display_white_balance_title">Ыңгайлашуучу тон</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Сырсөз</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Графикалык ачкыч</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN код</string>
+    <string name="fingerprint_unlock_skip_fingerprint">"Pixel Imprint'сиз улантуу"</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint аркылуу телефонуңуздун кулпусун манжаңыздын изи менен ачсаңыз болот. Коопсуздук максатында, кулпуну ачуунун дагы бир ыкмасын тандап коюңуз.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">"Pixel Imprint'ке уруксат берүү"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint менен манжа изиңизди кандайдыр бир нерсени сатып алып жатканыңызды ырастап же колдонмолорго кирүү үчүн пайдалана аласыз.
+
+Кимдир бирөөнүн манжа изин кошуп жатканыңызда этият болуңуз. Манжа издери кошулган адамдардын баары бул нерселерди аткара алышат.
+
+Эскертүү: Манжа изиңизди бул түзмөктүн кулпусун ачууга колдоно албайсыз. Көбүрөөк маалымат үчүн, ишканаңыздын администраторуна кайрылыңыз."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint функциясын тууралоо</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">"Телефондун кулпусун ачуу үчүн Pixel Imprint'ти колдонуңуз"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Dik halda və şarj edildikdə</string>
+    <string name="screensaver_settings_summary_sleep">Şarj edildikdə</string>
+    <string name="when_to_show_hubmode_charging">Şarj edildikdə</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Dik halda olduqda və şarj edildikdə</string>
+    <string name="when_to_show_hubmode_docked">Taxıldıqda və şarj edildikdə</string>
+    <string name="when_to_show_hubmode_never">Heç vaxt</string>
+</resources>

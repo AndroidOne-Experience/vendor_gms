@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Lösenord • Fingeravtryck</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Mönster • Fingeravtryck</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pinkod • Fingeravtryck</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Fortsätt utan fingeravtryckslås</string>
+    <string name="fingerprint_unlock_title">Med fingeravtryckslås kan du låsa upp telefonen med hjälp av ditt fingeravtryck. Av säkerhetsskäl krävs ett alternativt skärmlås.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Besök ett reparationsställe eller g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Tillåt fingeravtryckslås</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Fingeravtryckslåset blir bättre ju mer du använder det för att låsa upp telefonen och verifiera din identitet i appar</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Konfigurera fingeravtryckslås</string>
+    <string name="security_settings_fingerprint_preference_title">Fingeravtryckslås</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Med fingeravtryckslås skapas en unik modell av ditt fingeravtryck så att du kan verifiera din identitet. Finger­avtrycksmodellen skapas under konfigureringen genom att bilder tas av fingeravtrycket i olika positioner.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">När du använder fingeravtryckslås uppdateras finger­avtrycksmodellen med hjälp av bilder. Fingeravtrycks­bilderna och finger­avtrycks­modellen lagras säkert på telefonen och lämnar den aldrig. All behandling görs säkert på telefonen.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Du kan radera fingeravtrycksbilderna och fingeravtrycksmodellen eller inaktivera fingeravtryckslås när du vill i inställningarna. Fingeravtrycksbilderna och fingeravtrycksmodellerna lagras på telefonen tills du raderar dem.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Med fingeravtryckslås skapas en unik modell av ditt barns fingeravtryck så att barnen kan verifiera sin identitet. Fingeravtrycksmodellen skapas under konfigureringen genom att bilder tas av fingeravtrycket i olika positioner.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">När ditt barn använder fingeravtryckslås uppdateras fingeravtrycksmodellen med hjälp av bilder. Barnets fingeravtrycksbilder och fingeravtrycksmodell lagras säkert på telefonen och lämnar den aldrig. All behandling görs säkert på telefonen.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Du och ditt barn kan radera fingeravtrycksbilderna och fingeravtrycksmodellen eller inaktivera fingeravtryckslås när som helst i inställningarna. Fingeravtrycksbilderna och fingeravtrycksmodellerna lagras på telefonen tills du raderar dem.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Fingeravtryckslås för jobbet</string>
+    <string name="suggested_fingerprint_lock_settings_title">Använd fingeravtryckslås</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Ett lösenord skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas. Ansiktsmodellen raderas också permanent på ett säkert sätt. Du kan inte längre använda ansiktsautentisering eller autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Ett lösenord skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas också. Du kan inte längre använda autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Ett mönster skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas. Ansiktsmodellen raderas också permanent på ett säkert sätt. Du kan inte längre använda ansiktsautentisering eller autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Ett mönster skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas också. Du kan inte längre använda autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"En pinkod skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas. Ansiktsmodellen raderas också permanent på ett säkert sätt. Du kan inte längre använda ansiktsautentisering eller autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"En pinkod skyddar telefonen om den kommer bort eller blir stulen.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas också. Du kan inte längre använda autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Enhetens säkerhetsfunktioner fungerar inte utan ett skärmlås.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas. Ansiktsmodellen raderas också permanent på ett säkert sätt. Du kan inte längre använda ansiktsautentisering eller autentisering med fingeravtryck i appar."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Enhetens säkerhetsfunktioner fungerar inte utan ett skärmlås.
+
+Fingeravtrycksbilderna och fingeravtrycksmodellen som sparats på enheten raderas också. Du kan inte längre använda autentisering med fingeravtryck i appar."</string>
+</resources>

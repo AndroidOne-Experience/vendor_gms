@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_communal_settings_mobile">true</bool>
+    <bool name="config_show_glanceable_hub_toggle_setting_mobile">true</bool>
+    <bool name="config_show_restrict_to_wireless_charging">true</bool>
+</resources>

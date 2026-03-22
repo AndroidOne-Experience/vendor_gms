@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Ngenkathi imile futhi ishaja</string>
+    <string name="screensaver_settings_summary_sleep">Ngenkathi ishaja</string>
+    <string name="when_to_show_hubmode_charging">Ngenkathi ishaja</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Ngenkathi iqondile futhi ishaja</string>
+    <string name="when_to_show_hubmode_docked">Ngenkathi ishuthekiwe futhi ishaja</string>
+    <string name="when_to_show_hubmode_never">Akusoze</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Лозинка • Отисак прста</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Шаблон • Отисак прста</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Отисак прста</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Наставите без откључавања отиском прста</string>
+    <string name="fingerprint_unlock_title">Откључавање отиском прста вам омогућава да откључавате телефон помоћу отиска прста. Ова опција захтева резервни начин за откључавање екрана из безбедносних разлога.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Посетите добављача за поправке или g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Дозволите откључавање отиском прста</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Откључавање отиском прста побољшава се што га више користите за откључавање телефона или потврду идентитета у апликацијама</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Подесите откључавање отискoм прста</string>
+    <string name="security_settings_fingerprint_preference_title">Откључавање отиском прста</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Откључавање отиском прста прави јединствени модел отиска прста ради верификовања идентитета. Да бисте направили тај модел отиска прста током подешавања, морате да сликате отисак прста из различитих положаја.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Када користите откључавање отиском прста, слике се користе за ажурирање модела отиска прста. Слике и модел отиска прста се чувају безбедно на телефону и остају само на њему. Цео процес обраде се безбедно одвија на телефону.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Можете да избришете слике и модел отиска прста или да искључите Откључавање отискoм прста у било ком тренутку у Подешавањима. Слике и модели отисака прстију се чувају на телефону док их не избришете.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Откључавање отиском прста прави јединствени модел дететовог отиска прста ради верификовања идентитета. Да би направило тај модел отиска прста током подешавања, дете треба да слика отисак прста из различитих положаја.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Када дете користи откључавање отиском прста, слике се користе за ажурирање модела отиска прста. Слике и модел отиска прста детета се безбедно чувају на телефону и увек остају на њему. Цео процес обраде се безбедно одвија на телефону.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Ви и дете можете да избришете слике и модел отиска прста или да искључите откључавање отискoм прста у било ком тренутку у подешавањима. Слике и модели отисака прстију се чувају на телефону док их не избришете.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Откључавање отиском прста за посао</string>
+    <string name="suggested_fingerprint_lock_settings_title">Користите откључавање отиском прста</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Лозинка штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу слике и модел отиска прста који су сачувани на уређају. Модел лица ће се такође трајно и безбедно избрисати. Нећете моћи да потврђујете идентитет лицем или отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Лозинка штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу и слике и модел отиска прста који су сачувани на уређају. Нећете моћи да потврђујете идентитет отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Шаблон штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу слике и модел отиска прста који су сачувани на уређају. Модел лица ће се такође трајно и безбедно избрисати. Нећете моћи да потврђујете идентитет лицем или отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Шаблон штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу и слике и модел отиска прста који су сачувани на уређају. Нећете моћи да потврђујете идентитет отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу слике и модел отиска прста који су сачувани на уређају. Модел лица ће се такође трајно и безбедно избрисати. Нећете моћи да потврђујете идентитет лицем или отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN штити телефон ако га изгубите или га неко украде.
+
+Тиме се бришу и слике и модел отиска прста који су сачувани на уређају. Нећете моћи да потврђујете идентитет отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Функције заштите уређаја неће радити без закључавања екрана.
+
+Тиме се бришу слике и модел отиска прста који су сачувани на уређају. Модел лица ће се такође трајно и безбедно избрисати. Нећете моћи да потврђујете идентитет лицем или отиском прста у апликацијама."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Функције заштите уређаја неће радити без закључавања екрана.
+
+Тиме се бришу и слике и модел отиска прста који су сачувани на уређају. Нећете моћи да потврђујете идентитет отиском прста у апликацијама."</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">(F)‏‮Google‬‏ ‏‮Pixel‬‏ ‏‮Avatar‬‏ ‏‮Picker‬‏</string>
+    <string name="desc_ProfileIcons1">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮two‬‏ ‏‮dark-green‬‏ ‏‮semi-circles‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮light‬‏ ‏‮green‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons10">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮an‬‏ ‏‮orange‬‏ ‏‮butterfly‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮yellow‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons11">(F)‏‮Black‬‏ ‏‮nose‬‏ ‏‮shape‬‏ ‏‮with‬‏ ‏‮rounded‬‏ ‏‮edges‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮dark‬‏ ‏‮gray‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons12">(F)‏‮Black‬‏ ‏‮clover‬‏ ‏‮shape‬‏ ‏‮with‬‏ ‏‮rounded‬‏ ‏‮edges‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮light‬‏ ‏‮gray‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons13">(F)‏‮Light‬‏ ‏‮purple‬‏ ‏‮wiggly‬‏ ‏‮circle‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮dark‬‏ ‏‮purple‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons14">(F)‏‮Light‬‏ ‏‮blue‬‏ ‏‮clover‬‏ ‏‮shape‬‏ ‏‮with‬‏ ‏‮rounded‬‏ ‏‮edges‬‏ ‏‮on‬‏ ‏‮an‬‏ ‏‮orange‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons15">(F)‏‮Light‬‏ ‏‮green‬‏ ‏‮hexagon‬‏ ‏‮with‬‏ ‏‮rounded‬‏ ‏‮edges‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮dark‬‏ ‏‮green‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons16">(F)‏‮Black‬‏ ‏‮diamond‬‏ ‏‮shape‬‏ ‏‮with‬‏ ‏‮rounded‬‏ ‏‮edges‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮light‬‏ ‏‮gray‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons17">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮an‬‏ ‏‮orange‬‏ ‏‮leaf‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮yellow‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons18">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮the‬‏ ‏‮planet‬‏ ‏‮Saturn‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮peach‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons19">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮white‬‏ ‏‮and‬‏ ‏‮orange‬‏ ‏‮stars‬‏ ‏‮and‬‏ ‏‮circles‬‏ ‏‮in‬‏ ‏‮a‬‏ ‏‮celestial‬‏ ‏‮pattern‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮black‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons2">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮black‬‏ ‏‮and‬‏ ‏‮white‬‏ ‏‮intersecting‬‏ ‏‮cylinders‬‏</string>
+    <string name="desc_ProfileIcons20">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮dog‬‏ ‏‮with‬‏ ‏‮blue‬‏ ‏‮ears‬‏ ‏‮and‬‏ ‏‮a‬‏ ‏‮white‬‏ ‏‮face‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮yellow‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons21">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮white‬‏ ‏‮dove‬‏ ‏‮flying‬‏ ‏‮with‬‏ ‏‮an‬‏ ‏‮olive‬‏ ‏‮branch‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮purple‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons22">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮dog‬‏ ‏‮with‬‏ ‏‮black‬‏ ‏‮ears‬‏ ‏‮and‬‏ ‏‮a‬‏ ‏‮white‬‏ ‏‮face‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮blue‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons23">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮pink‬‏ ‏‮flower‬‏ ‏‮with‬‏ ‏‮green‬‏ ‏‮leaves‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮cream‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons24">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮six‬‏ ‏‮blue‬‏ ‏‮cylinders‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮red‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons3">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮light‬‏ ‏‮blue‬‏ ‏‮clover‬‏ ‏‮shape‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮dark‬‏ ‏‮blue‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons4">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮two‬‏ ‏‮pink,‬‏ ‏‮three-dimensional‬‏ ‏‮triangles‬‏</string>
+    <string name="desc_ProfileIcons5">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮teal‬‏ ‏‮layers‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮yellow‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons6">(F)‏‮Abstract‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮purple‬‏ ‏‮rocks‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮green‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons7">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮five‬‏ ‏‮white,‬‏ ‏‮geometric‬‏ ‏‮flowers‬‏ ‏‮on‬‏ ‏‮an‬‏ ‏‮orange‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons8">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮three‬‏ ‏‮blueberries‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮pink‬‏ ‏‮background‬‏</string>
+    <string name="desc_ProfileIcons9">(F)‏‮Playful‬‏ ‏‮illustration‬‏ ‏‮of‬‏ ‏‮a‬‏ ‏‮lemon‬‏ ‏‮with‬‏ ‏‮a‬‏ ‏‮black‬‏ ‏‮leaf‬‏ ‏‮on‬‏ ‏‮a‬‏ ‏‮green‬‏ ‏‮background‬‏</string>
+</resources>

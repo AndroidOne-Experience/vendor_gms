@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Passord • fingeravtrykk</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Mønster • fingeravtrykk</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN-kode • fingeravtrykk</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Fortsett uten opplåsing med fingeravtrykk</string>
+    <string name="fingerprint_unlock_title">Med opplåsing med fingeravtrykk kan du bruke fingeravtrykket ditt til å låse opp telefonen. Av sikkerhetsgrunner krever dette alternativet en reserveskjermlås.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Gå til en reparasjonsleverandør eller g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Tillat bruk av fingeravtrykk</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Opplåsing med fingeravtrykk fungerer bedre jo mer du bruker det til å låse opp telefonen og bekrefte identiteten din i apper</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Konfigurer Opplåsing med fingeravtrykk</string>
+    <string name="security_settings_fingerprint_preference_title">Opplåsing med fingeravtrykk</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Opplåsing med fingeravtrykk lager en unik modell av fingeravtrykket ditt for å bekrefte identiteten din. For å lage denne fingeravtrykkmodellen under konfigureringen tar du bilder av fingeravtrykket ditt fra forskjellige posisjoner.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Når du bruker opplåsing med fingeravtrykk, bruker systemet bilder til å oppdatere fingeravtrykkmodellen. Fingeravtrykkbildene og -modellen lagres trygt på telefonen og forlater aldri telefonen. All behandling skjer på en sikker måte på telefonen.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Du kan når som helst slette fingeravtrykkbildene og -modellen din eller slå av Opplåsing med fingeravtrykk i innstillingene. Fingeravtrykkbildene og -modellene lagres på telefonen til du sletter dem.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Opplåsing med fingeravtrykk lager en unik modell av fingeravtrykket til barnet ditt for å bekrefte barnets identitet. For å lage denne fingeravtrykkmodellen under konfigureringen tar hen bilder av fingeravtrykket sitt fra forskjellige posisjoner.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Når hen bruker opplåsing med fingeravtrykk, bruker systemet bilder til å oppdatere fingeravtrykkmodellen. Fingeravtrykkbildene og -modellen til barnet lagres trygt på telefonen og forlater aldri telefonen. All behandling skjer på en sikker måte på telefonen.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Du og barnet ditt kan når som helst slette fingeravtrykkbildene og -modellen til barnet eller slå av opplåsing med fingeravtrykk i innstillingene. Fingeravtrykkbildene og -modellene lagres på telefonen til de slettes.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Opplåsing med fingeravtrykk for jobb</string>
+    <string name="suggested_fingerprint_lock_settings_title">Bruk opplåsing med fingeravtrykk</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Et passord beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter fingeravtrykkbildene og -modellen som er lagret på enheten. Ansiktsmodellen blir også slettet permanent og sikkert. Da kan du ikke bruke ansiktet eller fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Et passord beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter også fingeravtrykkbildene og -modellen som er lagret på enheten. Da kan du ikke bruke fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Et mønster beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter fingeravtrykkbildene og -modellen som er lagret på enheten. Ansiktsmodellen blir også slettet permanent og sikkert. Da kan du ikke bruke ansiktet eller fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Et mønster beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter også fingeravtrykkbildene og -modellen som er lagret på enheten. Da kan du ikke bruke fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"En PIN-kode beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter fingeravtrykkbildene og -modellen som er lagret på enheten. Ansiktsmodellen blir også slettet permanent og sikkert. Da kan du ikke bruke ansiktet eller fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"En PIN-kode beskytter telefonen hvis den blir mistet eller stjålet.
+
+Dette sletter også fingeravtrykkbildene og -modellen som er lagret på enheten. Da kan du ikke bruke fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Funksjonene for enhetsbeskyttelse fungerer ikke uten skjermlåsen.
+
+Dette sletter fingeravtrykkbildene og -modellen som er lagret på enheten. Ansiktsmodellen blir også slettet permanent og sikkert. Da kan du ikke bruke ansiktet eller fingeravtrykket til autentisering i apper."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Funksjonene for enhetsbeskyttelse fungerer ikke uten skjermlåsen.
+
+Dette sletter også fingeravtrykkbildene og -modellen som er lagret på enheten. Da kan du ikke bruke fingeravtrykket til autentisering i apper."</string>
+</resources>

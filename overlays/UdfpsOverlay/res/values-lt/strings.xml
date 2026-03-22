@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Slaptažodis • Piršto atspaudas</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Atrakinimo piešinys • Piršto atspaudas</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN kodas • Piršto atspaudas</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Tęsti be atrakinimo piršto atspaudu</string>
+    <string name="fingerprint_unlock_title">Naudodami atrakinimą kontroliniu kodu telefoną galite atrakinti su kontroliniu kodu. Saugos sumetimais, įgalinus šią parinktį, reikia naudoti atsarginį ekrano užraktą.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Apsilankykite pas taisymo paslaugų teikėją arba adresu g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Atrakinimo kontroliniu kodu leidimas</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Atrakinimo piršto antspaudu funkcija tobulinama ją naudojant telefonui atrakinti ar savo tapatybei patvirtinti programose</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Atrakinimo piršto atspaudu nustatymas</string>
+    <string name="security_settings_fingerprint_preference_title">Atrakinimas piršto atspaudu</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Naudojant atrakinimą piršto atspaudu kuriamas unikalus jūsų piršto atspaudo modelis, kad būtų galima patvirtinti jūsų tapatybę. Kad sukurtumėte šį piršto atspaudu modelį nustatydami, turite sukurti piršto atspaudu vaizdų iš skirtingų pozicijų.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Naudojant atrakinimą piršto atspaudu vaizdai naudojami piršto atspaudo modeliui atnaujinti. Piršto atspaudo vaizdai ir modelis saugiai saugomi telefone ir visada lieka jame. Visas apdorojimo procesas saugiai vykdomas telefone.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Galite bet kada ištrinti piršto atspaudo vaizdus ir modelį arba išjungti atrakinimo piršto atspaudu funkciją „Nustatymų“ skiltyje. Piršto atspaudo vaizdai ir modeliai saugomi telefone, kol juos ištrinate.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Naudojant atrakinimą kontroliniu kodu kuriamas unikalus jūsų vaiko kontrolinio kodo modelis, kad būtų galima patvirtinti vaiko tapatybę. Norint sukurti šį kontrolinio kodo modelį nustatant, reikia sukurti kontrolinio kodo vaizdų iš skirtingų pozicijų.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Naudojant atrakinimą kontroliniu kodu, vaizdai naudojami kontrolinio kodo modeliui atnaujinti. Vaiko kontrolinio kodo vaizdai ir modelis saugiai saugomi telefone ir visada lieka jame. Visas apdorojimo procesas saugiai vykdomas telefone.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Jūs ir jūsų vaikas galite bet kada ištrinti kontrolinio kodo vaizdus ir modelį arba išjungti atrakinimą kontroliniu kodu „Nustatymų“ skiltyje. Kontrolinio kodo vaizdai ir modeliai saugomi telefone, kol ištrinami.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Atrakinimas piršto atspaudu, skirtas darbo profiliui</string>
+    <string name="suggested_fingerprint_lock_settings_title">Naudoti atrakinimą kontroliniu kodu</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Slaptažodis apsaugo pamestą ar pavogtą telefoną.
+
+Įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Be to, jūsų veido modelis bus visam laikui saugiai ištrintas. Negalėsite naudoti veido ar kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Slaptažodis apsaugo pamestą ar pavogtą telefoną.
+
+Be to, įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Negalėsite naudoti kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Atrakinimo piešinys apsaugo pamestą ar pavogtą telefoną.
+
+Įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Be to, jūsų veido modelis bus visam laikui saugiai ištrintas. Negalėsite naudoti veido ar kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Atrakinimo piešinys apsaugo pamestą ar pavogtą telefoną.
+
+Be to, įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Negalėsite naudoti kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN kodas apsaugo pamestą ar pavogtą telefoną.
+
+Įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Be to, jūsų veido modelis bus visam laikui saugiai ištrintas. Negalėsite naudoti veido ar kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN kodas apsaugo pamestą ar pavogtą telefoną.
+
+Be to, įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Negalėsite naudoti kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Įrenginio apsaugos funkcijos neveiks be ekrano užrakto.
+
+Įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Be to, jūsų veido modelis bus visam laikui saugiai ištrintas. Negalėsite naudoti veido ar kontrolinio kodo tapatybei nustatyti programose."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Įrenginio apsaugos funkcijos neveiks be ekrano užrakto.
+
+Be to, įrenginyje išsaugoti kontrolinio kodo vaizdai ir modelis ištrinami. Negalėsite naudoti kontrolinio kodo tapatybei nustatyti programose."</string>
+</resources>

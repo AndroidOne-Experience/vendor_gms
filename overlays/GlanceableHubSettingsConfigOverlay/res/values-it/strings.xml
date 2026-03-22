@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">In verticale e in carica</string>
+    <string name="screensaver_settings_summary_sleep">Durante la ricarica</string>
+    <string name="when_to_show_hubmode_charging">Durante la ricarica</string>
+    <string name="when_to_show_hubmode_charging_and_upright">In verticale e in carica</string>
+    <string name="when_to_show_hubmode_docked">Agganciato alla base e in carica</string>
+    <string name="when_to_show_hubmode_never">Mai</string>
+</resources>

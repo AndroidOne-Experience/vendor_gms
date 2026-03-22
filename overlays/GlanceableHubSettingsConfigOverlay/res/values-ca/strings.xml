@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">En vertical i carregant-se</string>
+    <string name="screensaver_settings_summary_sleep">Mentre es carrega</string>
+    <string name="when_to_show_hubmode_charging">Mentre es carrega</string>
+    <string name="when_to_show_hubmode_charging_and_upright">En vertical i carregant-se</string>
+    <string name="when_to_show_hubmode_docked">Dispositiu acoblat i carregant-se</string>
+    <string name="when_to_show_hubmode_never">Mai</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ನೇರವಾಗಿ ಇರಿಸಿ ಚಾರ್ಜ್ ಮಾಡುವಾಗ</string>
+    <string name="screensaver_settings_summary_sleep">ಚಾರ್ಜ್ ಮಾಡುವಾಗ</string>
+    <string name="when_to_show_hubmode_charging">ಚಾರ್ಜ್ ಮಾಡುವಾಗ</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ನೇರವಾಗಿರುವಾಗ ಮತ್ತು ಚಾರ್ಜ್ ಆಗುತ್ತಿರುವಾಗ</string>
+    <string name="when_to_show_hubmode_docked">ಡಾಕ್ ಮಾಡಿರುವಾಗ ಮತ್ತು ಚಾರ್ಜ್ ಆಗುತ್ತಿರುವಾಗ</string>
+    <string name="when_to_show_hubmode_never">ಎಂದಿಗೂ ಬೇಡ</string>
+</resources>

@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.overlay.devicelockcontroller_gms">
+    <overlay android:targetPackage="com.google.android.devicelockcontroller"
+                   android:targetName="DeviceLockResources"
+                   android:isStatic="true"
+                   android:priority="0"/>
+</manifest>

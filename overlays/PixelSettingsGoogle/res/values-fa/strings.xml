@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">نمایشگر را براساس نور محیط به‌صورت پویا با رنگ‌مایه‌های گرم‌تر یا سردتر تطبیق می‌دهد</string>
+    <string name="display_white_balance_title">رنگ‌مایه تطبیقی</string>
+    <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint + گذرواژه</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint + الگو</string>
+    <string name="fingerprint_unlock_set_unlock_pin">‏Pixel Imprint + پین</string>
+    <string name="fingerprint_unlock_skip_fingerprint">‏ادامه بدون Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">‏با Pixel Imprint، می‌توانید با استفاده از اثر انگشتتان قفل تلفنتان را باز کنید. بنا به دلایل ایمنی، این گزینه مستلزم قفل صفحه پشتیبان است.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">‏مجاز کردن Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏با Pixel Imprint می‌توانید از اثر انگشتتان برای اجازه دادن به خریدها یا ورود به سیستم برنامه‌ها استفاده کنید.
+
+مراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. هر اثر انگشت اضافه‌شده می‌تواند این کارها را انجام دهد.
+
+توجه: نمی‌توانید از اثر انگشتتان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سازمانتان تماس بگیرید."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">‏راه‌اندازی Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏استفاده از Pixel Imprint برای باز کردن قفل تلفن</string>
+</resources>

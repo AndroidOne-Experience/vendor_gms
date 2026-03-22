@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Aðlagar skjáinn með hlýrri eða kaldari tónum í takt við umhverfislýsinguna</string>
+    <string name="display_white_balance_title">Aðlögun litatóna</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + aðgangsorð</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + mynstur</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-númer</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Halda áfram án Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Með Pixel Imprint geturðu tekið símann úr lás með því að nota fingrafarið. Af öryggisástæðum krefst þessi valkostur þess að varaskjálás sé til staðar.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Leyfa Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Með Pixel Imprint geturðu notað fingrafarið til að heimila kaup eða skrá þig inn í forrit.
+
+Gættu vel að því hvaða fingraförum þú bætir við. Öll fingraför sem er bætt við geta gert allt þetta.
+
+Athugaðu: Þú getur ekki notað fingrafarið til að taka lásinn af þessu tæki. Hafðu samband við kerfisstjóra fyrirtækisins þíns til að fá frekari upplýsingar."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Setja upp Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Notaðu Pixel Imprint til að opna símann</string>
+</resources>

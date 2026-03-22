@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GoogleSystemUIOverlay",
+    product_specific: true,
+}

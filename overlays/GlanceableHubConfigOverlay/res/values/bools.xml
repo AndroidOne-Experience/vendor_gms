@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_alwaysAllowDreamRotation">true</bool>
+    <bool name="config_dreamsActivatedOnDockByDefault">false</bool>
+    <bool name="config_dreamsActivatedOnPosturedByDefault">false</bool>
+    <bool name="config_dreamsActivatedOnSleepByDefault">true</bool>
+    <bool name="config_dreamsDisabledByAmbientModeSuppressionConfig">true</bool>
+    <bool name="config_dreamsEnabledByDefault">false</bool>
+    <bool name="config_glanceableHubEnabled">true</bool>
+    <bool name="config_resetScreenTimeoutOnUnexpectedDreamExit">true</bool>
+</resources>

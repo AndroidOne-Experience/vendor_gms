@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">ปรับการแสดงผลเป็นโทนสีที่อุ่นขึ้นหรือเย็นลงตามแสงสว่างโดยรอบแบบไดนามิก</string>
+    <string name="display_white_balance_title">การปรับโทนสีแบบอัตโนมัติ</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint และรหัสผ่าน</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint และรูปแบบ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint และ PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">ดำเนินการต่อโดยไม่ใช้ Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">เมื่อใช้ Pixel Imprint คุณจะปลดล็อกโทรศัพท์ได้ด้วยลายนิ้วมือ ตัวเลือกนี้ต้องใช้การล็อกหน้าจอสำรองเพื่อความปลอดภัย</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">อนุญาตให้ใช้ Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ช่วยให้คุณใช้ลายนิ้วมือเพื่อให้สิทธิ์การซื้อหรือลงชื่อเข้าใช้แอปได้
+
+โปรดระมัดระวังหากจะเพิ่มลายนิ้วมือของใคร เพราะทุกลายนิ้วมือที่คุณเพิ่มจะทำสิ่งเหล่านี้ได้
+
+หมายเหตุ: คุณใช้ลายนิ้วมือเพื่อปลดล็อกอุปกรณ์เครื่องนี้ไม่ได้ โปรดติดต่อผู้ดูแลระบบขององค์กรสำหรับข้อมูลเพิ่มเติม"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ตั้งค่า Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ใช้ Pixel Imprint ปลดล็อกโทรศัพท์</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Ambient işıqlandırmaya görə displeyi isti və ya soyuq tonlara dinamik uyğunlaşdırır</string>
+    <string name="display_white_balance_title">Adaptiv işıq çaları</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Parol</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Qrafik açar</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint olmadan davam edin</string>
+    <string name="fingerprint_unlock_title">Barmaq izindən istifadə edərək Pixel Imprint ilə telefonu kiliddən çıxara bilərsiniz. Təhlükəsizlik üçün bu seçim yedək ekran kilidi tələb edir.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">"Pixel Imprint'ə icazə verin"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ilə alışları təsdiqləmək və ya tətbiqlərə daxil olmaq üçün barmaq izini istifadə edə bilərsiniz.
+
+Kimin barmaq izini əlavə etdiyinizə diqqət edin. Əlavə edilən istənilən barmaq izi ilə bunları etmək mümkün olacaq.
+
+Qeyd: Bu cihazı kiliddən çıxarmaq üçün barmaq izini istifadə edə bilməzsiniz. Ətraflı məlumat üçün təşkilatın admini ilə əlaqə saxlayın."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint ayarlayın</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Telefon kilidini açmaq üçün Pixel Imprint istifadə edin</string>
+</resources>

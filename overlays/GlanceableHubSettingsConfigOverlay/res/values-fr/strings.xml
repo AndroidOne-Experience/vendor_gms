@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">"Lorsque l'appareil est en position verticale et en charge"</string>
+    <string name="screensaver_settings_summary_sleep">"Lorsque l'appareil est en charge"</string>
+    <string name="when_to_show_hubmode_charging">"Lorsque l'appareil est en charge"</string>
+    <string name="when_to_show_hubmode_charging_and_upright">"Lorsque l'appareil est en position verticale et en charge"</string>
+    <string name="when_to_show_hubmode_docked">"Lorsque l'appareil est en charge sur une station d'accueil"</string>
+    <string name="when_to_show_hubmode_never">Jamais</string>
+</resources>

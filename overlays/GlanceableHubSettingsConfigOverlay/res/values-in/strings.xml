@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Saat tegak dan mengisi daya</string>
+    <string name="screensaver_settings_summary_sleep">Saat mengisi daya</string>
+    <string name="when_to_show_hubmode_charging">Saat mengisi daya</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Saat tegak dan mengisi daya</string>
+    <string name="when_to_show_hubmode_docked">Saat dipasang ke dok dan mengisi daya</string>
+    <string name="when_to_show_hubmode_never">Tidak pernah</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Тік қалыпта және зарядтау кезінде</string>
+    <string name="screensaver_settings_summary_sleep">Зарядтау кезінде</string>
+    <string name="when_to_show_hubmode_charging">Зарядтау кезінде</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Тік қалыпта және зарядтау кезінде</string>
+    <string name="when_to_show_hubmode_docked">Қондырылғанда және зарядтау кезінде</string>
+    <string name="when_to_show_hubmode_never">Ешқашан</string>
+</resources>

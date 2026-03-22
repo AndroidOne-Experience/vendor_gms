@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">পারিপার্শ্বিক লাইটের উপর নির্ভর করে, ডিসপ্লে ডায়নামিকভাবে ওয়ার্ম বা কুল টোনের সাথে মানিয়ে নেয়</string>
+    <string name="display_white_balance_title">অ্যাডাপ্টিভ টোন</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + পাসওয়ার্ড</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + প্যাটার্ন</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + পিন</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint ছাড়াই চালিয়ে যান</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint ব্যবহার করে আপনার আঙুলের ছাপ দিয়ে ফোন আনলক করতে পারেন। নিরাপত্তার খাতিরে, এই বিকল্পটির জন্য একটি ব্যাক-আপ স্ক্রিন লকের প্রয়োজন।</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint করার অনুমতি দিন</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ব্যবহার করলে আপনি আঙ্গুলের ছাপ দিয়ে কেনাকাটার অনুমোদন দিতে বা অ্যাপে সাইন-ইন করতে পারবেন।
+
+সুতরাং কার আঙ্গুলের ছাপ যোগ করছেন সেই বিষয়ে সতর্ক থাকুন। যার আঙ্গুলের ছাপ যোগ করবেন, তিনিই এই কাজগুলি করতে পারবেন।
+
+মনে রাখবেন: এই ডিভাইস আনলক করতে আপনি আঙ্গুলের ছাপ ব্যবহার করতে পারবেন না। আরও তথ্যের জন্য আপনার প্রতিষ্ঠানের অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint সেট-আপ করুন</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint ব্যবহার করে আপনার ফোন আনলক করুন</string>
+</resources>

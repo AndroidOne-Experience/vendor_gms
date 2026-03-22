@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Tilpasser skjermen dynamisk til varmere eller kaldere fargetoner basert på lyset i omgivelsene</string>
+    <string name="display_white_balance_title">Tilpasset fargetone</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + passord</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + mønster</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-kode</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Fortsett uten Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Med Pixel Imprint kan du bruke fingeravtrykket ditt til å låse opp telefonen. Av sikkerhetshensyn krever dette alternativet en reserveskjermlås.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Tillat Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Med Pixel Imprint kan du bruke fingeravtrykket ditt til å autorisere kjøp eller logge på apper.
+
+Vær forsiktig med hvem sine fingeravtrykk du legger til. Alle som legger til fingeravtrykkene sine, kan utføre disse handlingene.
+
+Merk: Du kan ikke bruke fingeravtrykket ditt til å låse opp denne enheten. Kontakt administratoren for organisasjonen din for å få mer informasjon."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Konfigurer Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Bruk Pixel Imprint til å låse opp telefonen din</string>
+</resources>

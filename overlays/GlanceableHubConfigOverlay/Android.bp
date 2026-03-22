@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GlanceableHubConfigOverlay",
+    product_specific: true,
+}

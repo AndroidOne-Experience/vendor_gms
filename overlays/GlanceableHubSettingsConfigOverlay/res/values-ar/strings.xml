@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">أثناء الشحن في وضع عمودي</string>
+    <string name="screensaver_settings_summary_sleep">أثناء الشحن</string>
+    <string name="when_to_show_hubmode_charging">أثناء الشحن</string>
+    <string name="when_to_show_hubmode_charging_and_upright">أثناء الشحن في وضع عمودي</string>
+    <string name="when_to_show_hubmode_docked">أثناء الإرساء والشحن</string>
+    <string name="when_to_show_hubmode_never">أبدًا</string>
+</resources>

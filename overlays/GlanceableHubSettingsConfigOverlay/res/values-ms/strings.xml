@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Dalam keadaan tegak dan dicas</string>
+    <string name="screensaver_settings_summary_sleep">Semasa mengecas</string>
+    <string name="when_to_show_hubmode_charging">Semasa mengecas</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Dalam keadaan tegak dan dicas</string>
+    <string name="when_to_show_hubmode_docked">Semasa didok dan dicas</string>
+    <string name="when_to_show_hubmode_never">Tidak sekali-kali</string>
+</resources>

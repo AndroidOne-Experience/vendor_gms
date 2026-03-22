@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Mientras está vertical y cargándose</string>
+    <string name="screensaver_settings_summary_sleep">Mientras está cargándose</string>
+    <string name="when_to_show_hubmode_charging">Mientras se carga</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Mientras está vertical y cargándose</string>
+    <string name="when_to_show_hubmode_docked">Mientras está cargándose en la estación</string>
+    <string name="when_to_show_hubmode_never">Nunca</string>
+</resources>

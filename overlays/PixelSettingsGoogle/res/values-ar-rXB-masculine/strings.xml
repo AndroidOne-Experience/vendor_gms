@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">(M)‏‮Dynamically‬‏ ‏‮adjusts‬‏ ‏‮the‬‏ ‏‮display‬‏ ‏‮based‬‏ ‏‮on‬‏ ‏‮surrounding‬‏ ‏‮light‬‏ ‏‮levels‬‏</string>
+    <string name="display_white_balance_title">(M)‏‮Ambient‬‏ ‏‮EQ‬‏</string>
+    <string name="fingerprint_unlock_set_unlock_password">(M)‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮+‬‏ ‏‮Password‬‏</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">(M)‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮+‬‏ ‏‮Pattern‬‏</string>
+    <string name="fingerprint_unlock_set_unlock_pin">(M)‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮+‬‏ ‏‮PIN‬‏</string>
+    <string name="fingerprint_unlock_skip_fingerprint">(M)‏‮Continue‬‏ ‏‮without‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏</string>
+    <string name="fingerprint_unlock_title">(M)‏‮With‬‏ ‏‮Pixel‬‏ ‏‮Imprint,‬‏ ‏‮you‬‏ ‏‮can‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮using‬‏ ‏‮your‬‏ ‏‮fingerprint.‬‏ ‏‮For‬‏ ‏‮security,‬‏ ‏‮this‬‏ ‏‮option‬‏ ‏‮requires‬‏ ‏‮a‬‏ ‏‮backup‬‏ ‏‮screen‬‏ ‏‮lock.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">(M)‏‮Allow‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"(M)‏‮With‬‏ ‏‮Pixel‬‏ ‏‮Imprint,‬‏ ‏‮you‬‏ ‏‮can‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮to‬‏ ‏‮authorize‬‏ ‏‮purchases‬‏ ‏‮or‬‏ ‏‮sign‬‏ ‏‮in‬‏ ‏‮to‬‏ ‏‮apps.‬‏
+
+‏‮Be‬‏ ‏‮careful‬‏ ‏‮whose‬‏ ‏‮fingerprints‬‏ ‏‮you‬‏ ‏‮add.‬‏ ‏‮Any‬‏ ‏‮fingerprints‬‏ ‏‮added‬‏ ‏‮will‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮do‬‏ ‏‮these‬‏ ‏‮things.‬‏
+
+‏‮Note:‬‏ ‏‮You‬‏ ‏‮can’t‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮this‬‏ ‏‮device.‬‏ ‏‮For‬‏ ‏‮more‬‏ ‏‮information,‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮organization’s‬‏ ‏‮admin.‬‏"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">(M)‏‮Set‬‏ ‏‮up‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">(M)‏‮Pixel‬‏ ‏‮Imprint‬‏</string>
+    <string name="security_settings_fingerprint_preference_title">(M)‏‮Pixel‬‏ ‏‮Imprint‬‏</string>
+    <string name="suggested_fingerprint_lock_settings_summary">(M)‏‮Use‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
+</resources>

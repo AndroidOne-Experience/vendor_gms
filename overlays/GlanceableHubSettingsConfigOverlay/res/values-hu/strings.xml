@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Álló helyzetben, töltés közben</string>
+    <string name="screensaver_settings_summary_sleep">Töltés közben</string>
+    <string name="when_to_show_hubmode_charging">Töltés közben</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Álló helyzetben, töltés közben</string>
+    <string name="when_to_show_hubmode_docked">Dokkolva, töltés közben</string>
+    <string name="when_to_show_hubmode_never">Soha</string>
+</resources>

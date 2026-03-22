@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Când este vertical și se încarcă</string>
+    <string name="screensaver_settings_summary_sleep">În timpul încărcării</string>
+    <string name="when_to_show_hubmode_charging">În timpul încărcării</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Când este vertical și se încarcă</string>
+    <string name="when_to_show_hubmode_docked">Când este andocat și se încarcă</string>
+    <string name="when_to_show_hubmode_never">Niciodată</string>
+</resources>

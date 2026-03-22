@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">パスワード • 指紋認証</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">パターン • 指紋認証</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • 指紋認証</string>
+    <string name="fingerprint_unlock_skip_fingerprint">指紋認証を設定せずに続行</string>
+    <string name="fingerprint_unlock_title">指紋認証では、指紋でスマートフォンのロックを解除できます。セキュリティ上の理由により、指紋認証を使用する際は予備の画面ロックを選択する必要があります。</string>
+    <string name="security_settings_fingerprint_bad_calibration">修理業者に調整を依頼するか、g.co/pixel/fingerprintunlock にアクセスしてください。</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">指紋認証の許可</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">指紋認証は、スマートフォンのロック解除やアプリの本人確認に使用する回数が増えれば増えるほど精度が向上します</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">指紋認証をセットアップ</string>
+    <string name="security_settings_fingerprint_preference_title">指紋認証</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">さまざまな角度から指紋を撮影して一意のモデルを作成し、本人確認に使用します。</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">指紋認証を使用すると、画像を基に指紋モデルが更新されます。指紋の画像と指紋モデルはスマートフォンに安全に保存されます。この情報が外部に送信されることは一切なく、処理はすべてスマートフォン上で安全に行われます。</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">いつでも [設定] で指紋の画像やモデルを削除したり、指紋認証を OFF にしたりできます。指紋の画像とモデルは、削除するまでデバイスに保存されたままになります。</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">指紋認証は、お子様の指紋の固有モデルを作成し、本人確認に使用します。モデルの作成では、さまざまな角度から指紋の画像を撮影します。</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">指紋認証を使用すると、画像を基に指紋モデルが更新されます。お子様の指紋の画像と指紋モデルはスマートフォンに安全に保存されます。この情報が外部に送信されることは一切なく、処理はすべてスマートフォン上で安全に行われます。</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">あなたとお子様はいつでも [設定] で指紋の画像や指紋モデルを削除したり指紋認証を OFF にしたりできます。指紋の画像と指紋モデルは、削除するまでスマートフォンに保存されたままになります。</string>
+    <string name="security_settings_work_fingerprint_preference_title">仕事用の指紋認証</string>
+    <string name="suggested_fingerprint_lock_settings_title">指紋認証の使用</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"パスワードは、紛失したり盗難に遭ったりした場合にスマートフォンを保護するものです。
+
+パスワードを削除すると、デバイスに保存されている指紋画像と指紋モデルが削除されます。顔モデルも安全かつ完全に削除されます。アプリでの認証に顔や指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"パスワードは、紛失したり盗難に遭ったりした場合にスマートフォンを保護するものです。
+
+パスワードを削除すると、デバイスに保存されている指紋画像と指紋モデルも削除されます。アプリでの認証に指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"パターンは、紛失したり盗難に遭ったりした場合にスマートフォンを保護するものです。
+
+パターンを削除すると、デバイスに保存されている指紋画像と指紋モデルが削除されます。顔モデルも安全かつ完全に削除されます。アプリでの認証に顔や指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"パターンは、紛失したり盗難に遭ったりした場合にスマートフォンを保護するものです。
+
+パターンを削除すると、デバイスに保存されている指紋画像と指紋モデルも削除されます。アプリでの認証に指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN は紛失・盗難時にスマートフォンを保護します。
+
+PIN を削除すると、デバイスに保存されている指紋モデルと顔認証モデルが安全かつ完全に削除されます。アプリでの認証に顔や指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN は紛失・盗難時にスマートフォンを保護します。
+
+PIN を削除すると、デバイスに保存されている指紋モデルも削除されます。アプリでの認証に指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"画面ロックがないと、デバイス保護機能は利用できません。
+
+画面ロックを削除すると、デバイスに保存されている指紋画像と指紋モデルが削除されます。顔モデルも安全かつ完全に削除されます。アプリでの認証に顔や指紋を使用できなくなります。"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"画面ロックがないと、デバイス保護機能は利用できません。
+
+画面ロックを削除すると、デバイスに保存されている指紋画像と指紋モデルも削除されます。アプリでの認証に指紋を使用できなくなります。"</string>
+</resources>

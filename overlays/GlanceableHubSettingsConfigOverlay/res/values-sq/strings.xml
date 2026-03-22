@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Kur është vertikal dhe në karikim</string>
+    <string name="screensaver_settings_summary_sleep">Gjatë karikimit</string>
+    <string name="when_to_show_hubmode_charging">Gjatë karikimit</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Kur është vertikal dhe në karikim</string>
+    <string name="when_to_show_hubmode_docked">Kur është në stacion dhe në karikim</string>
+    <string name="when_to_show_hubmode_never">Asnjëherë</string>
+</resources>

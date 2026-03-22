@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Сырсөз • Манжа изи</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Графикалык ачкыч • Манжа изи</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN код • Манжа изи</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Манжа изи менен ачуу функциясын колдонбой улантуу</string>
+    <string name="fingerprint_unlock_title">Манжа изи менен ачуу аркылуу телефонуңуздун кулпусун манжаңыздын изи менен ачсаңыз болот. Коопсуздук максатында экранды кулпулоонун дагы бир ыкмасын тандап коюңуз.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Тейлөө кызматына кайрылыңыз же g.co/pixel/fingerprintunlock бөлүмүнө өтүңүз.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Кулпуланган түзмөктү манжа изи менен ачууга уруксат берүү</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Телефондун кулпусун ачуу же колдонмолордо өзүңүздү ырастоо үчүн Манжа изи менен ачуу функциясын канчалык көп колдонсоңуз, ал ошончолук жакшы иштейт</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Кулпуланган түзмөктү манжа изи менен ачуу</string>
+    <string name="security_settings_fingerprint_preference_title">Манжа изи менен ачуу</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Манжа изи менен ачуу функциясы сизди таануу үчүн манжаңыздын изинин уникалдуу үлгүсүн түзөт. Үлгүнү түзүү үчүн манжаңызды ар кайсы абалдан скандашыңыз керек.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Кулпуланган түзмөктү манжа изи менен ачып жатканда алынган сүрөттөр аркылуу манжа изинин үлгүсүн жаңыртууга болот. Сүрөттөр телефондо гана иштелип, манжа изинин үлгүсү менен кошо түзмөгүңүздө гана сакталып, эч жакка жөнөтүлбөйт.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Манжаңыздын изинин сүрөттөрүн жана үлгүсүн же \"Кулпуланган түзмөктү манжа изи менен ачуу\" функциясын каалаган убакта Параметрлерге өтүп, өчүрсөңүз болот. Манжа изинин сүрөттөрү жана үлгүлөрү өчүрүлмөйүнчө телефонуңузда сакталат.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Манжа изи менен ачуу функциясы балаңызды таануу үчүн манжасынын изинин кайталанбас үлгүсүн түзөт. Манжа изинин үлгүсүн түзүү үчүн ал манжасынын изин ар кайсы абалдан сүрөткө тартышы керек.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Кулпуланган түзмөктү манжа изи менен ачып жатканда алынган сүрөттөр аркылуу манжа изинин үлгүсүн жаңыртууга болот. Сүрөттөр менен үлгү телефондо гана иштелип, балаңыздын түзмөгүндө гана сакталып, эч жакка жөнөтүлбөйт.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Манжа изинин сүрөттөрүн жана үлгүсүн, же болбосо Манжа изи менен ачуу функциясын каалаган убакта Параметрлерге өтүп, өчүрсөңүздөр болот. Манжа изинин сүрөттөрү жана үлгүлөрү өчүрүлмөйүнчө телефондо сакталат.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Жумуш профили үчүн Манжа изи менен ачуу функциясы</string>
+    <string name="suggested_fingerprint_lock_settings_title">Манжа изи менен ачуу функциясын колдонуу</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Сырсөз жоголгон же уурдалган телефондогу нерселерди коргойт.
+
+Ал түзмөгүңүздө сакталган манжа изинин сүрөттөрүн жана үлгүсүн өчүрөт. Жүзүңүздүн үлгүсү да биротоло өчөт. Колдонмолордо аутентификациялоо үчүн жүзүңүздү же манжа изиңизди колдоно албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Сырсөз жоголгон же уурдалган телефондогу нерселерди коргойт.
+
+Ошондой эле, ал түзмөгүңүздө сакталган манжа изинин сүрөттөрүн жана үлгүсүн өчүрөт. Колдонмолордо аутентификациялоо үчүн манжа изиңизди колдоно албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Графикалык ачкыч аркылуу жоготкон же уурдаткан телефонуңузду коргойсуз.
+
+Мындан тышкары, ал түзмөгүңүздө сакталган манжа изинин сүрөттөрү менен үлгүсүн өчүрөт. Жүзүңүздүн үлгүсү да өчүп калат. Колдонмолордо жүзүңүздүн же манжаңыздын үлгүсү менен аутентификациядан өтө албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Графикалык ачкыч аркылуу жоготкон же уурдаткан телефонуңузду коргойсуз.
+
+Мындан тышкары, ал түзмөгүңүздө сакталган манжа изинин сүрөттөрү менен үлгүсүн өчүрөт. Колдонмолордо манжа изиңиз менен аутентификациядан өтө албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN код жоголгон же уурдаткан телефонуңузду коргойт.
+
+Мындан тышкары, түзмөгүңүздө сакталган манжа изинин сүрөттөрү менен үлгүсү өчүп калат. Жүзүңүздүн үлгүсү да өчөт. Ошентип колдонмолордо жүзүңүздүн же манжаңыздын үлгүсү менен аутентификациядан өтө албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN код жоголгон же уурдаткан телефонуңузду коргойт.
+
+Мындан тышкары, түзмөгүңүздө сакталган манжа изинин сүрөттөрү менен үлгүсү өчүп калат. Ошентип колдонмолордо манжаңыздын изи менен аутентификациядан өтө албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Түзмөктү коргоо функциялары экранды кулпулоо функциясы жок иштебейт.
+
+Ал түзмөгүңүздө сакталган манжа изинин сүрөттөрүн жана үлгүсүн өчүрөт. Жүзүңүздүн үлгүсү да биротоло өчөт. Колдонмолордо аутентификациялоо үчүн жүзүңүздү же манжа изиңизди колдоно албай каласыз."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Түзмөктү коргоо функциялары экранды кулпулоо функциясы жок иштебейт.
+
+Ошондой эле, ал түзмөгүңүздө сакталган манжа изинин сүрөттөрүн жана үлгүсүн өчүрөт. Колдонмолордо аутентификациялоо үчүн манжа изиңизди колдоно албай каласыз."</string>
+</resources>

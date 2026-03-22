@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">直立充电时</string>
+    <string name="screensaver_settings_summary_sleep">充电时</string>
+    <string name="when_to_show_hubmode_charging">充电时</string>
+    <string name="when_to_show_hubmode_charging_and_upright">直立充电时</string>
+    <string name="when_to_show_hubmode_docked">插入基座充电期间</string>
+    <string name="when_to_show_hubmode_never">永不</string>
+</resources>

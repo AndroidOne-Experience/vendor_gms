@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_angleAllowList">
+        <item>com.dreamgames.royalmatch</item>
+        <item>com.dts.freefiremax</item>
+        <item>com.dxx.firenow</item>
+        <item>com.gramgames.mergedragons</item>
+        <item>com.ludo.king</item>
+        <item>com.mojang.minecraftpe</item>
+        <item>com.my.defense</item>
+        <item>com.nintendo.zaka</item>
+        <item>com.os.airforce</item>
+        <item>com.playrix.fishdomdd.gplay</item>
+        <item>io.teslatech.callbreak</item>
+        <item>jp.konami.prospia</item>
+        <item>net.peakgames.toonblast</item>
+        <item>com.yottagames.gameofmafia</item>
+        <item>com.Sunborn.SnqxExilium.Glo</item>
+        <item>com.haoplay.game.and.exilium</item>
+        <item>com.rockstargames.gtasa</item>
+        <item>com.h73.jhqyna</item>
+        <item>com.sega.CrazyTaxiplayhaven</item>
+        <item>en.haoplay.and.rm</item>
+        <item>com.netease.g108na</item>
+    </string-array>
+    <string-array name="config_keep_warming_services">
+        <item>com.google.android.GoogleCamera/com.google.android.apps.camera.prewarm.NoOpPrewarmService</item>
+    </string-array>
+    <string-array name="config_notificationVibrationPatternToMetricIdMapping">
+        <item>Classic_notification.xml,201</item>
+        <item>Taps.xml,202</item>
+        <item>Blip.xml,203</item>
+        <item>Rumble.xml,204</item>
+        <item>Waves.xml,205</item>
+        <item>Soft_rise.xml,206</item>
+        <item>Tremor.xml,207</item>
+        <item>Fireworks.xml,208</item>
+        <item>Rattlesnake.xml,209</item>
+        <item>Whir.xml,210</item>
+        <item>Rapid_fire.xml,211</item>
+    </string-array>
+    <string-array name="config_ringtoneVibrationPatternToMetricIdMapping">
+        <item>Classic_ringtone.xml,101</item>
+        <item>Bumps.xml,102</item>
+        <item>Buzz.xml,103</item>
+        <item>Rhythm.xml,104</item>
+        <item>Swirl.xml,105</item>
+        <item>Drumbeat.xml,106</item>
+        <item>Swoop.xml,107</item>
+        <item>Snare.xml,108</item>
+        <item>Heartbeat.xml,110</item>
+        <item>Gears.xml,111</item>
+    </string-array>
+</resources>

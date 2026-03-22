@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Når enheten er oppreist og lades</string>
+    <string name="screensaver_settings_summary_sleep">Når enheten lades</string>
+    <string name="when_to_show_hubmode_charging">Når enheten lades</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Når enheten er oppreist og lades</string>
+    <string name="when_to_show_hubmode_docked">Når enheten er dokket og lader</string>
+    <string name="when_to_show_hubmode_never">Aldri</string>
+</resources>

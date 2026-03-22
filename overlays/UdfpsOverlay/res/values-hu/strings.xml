@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Jelszó • Ujjlenyomat</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Minta • Ujjlenyomat</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN-kód • Ujjlenyomat</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Folytatás a Feloldás ujjlenyomattal funkció nélkül</string>
+    <string name="fingerprint_unlock_title">A Feloldás ujjlenyomattal funkció használatával telefonját az ujjlenyomatával oldhatja fel. Biztonsági okokból ennek a beállításnak az esetében szükség van másodlagos képernyőzárra is.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Keresse fel a szervizt vagy a g.co/pixel/fingerprintunlock oldalt.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">A Feloldás ujjlenyomattal engedélyezése</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">A Feloldás ujjlenyomattal funkció fejlesztését elősegítheti azzal, hogy minél gyakrabban használja telefonja feloldására vagy személyazonossága hitelesítésére az alkalmazásokban</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ujjlenyomat-alapú feloldás beállítása</string>
+    <string name="security_settings_fingerprint_preference_title">Feloldás ujjlenyomattal</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">A Feloldás ujjlenyomattal funkció egyéni modellt hoz létre az Ön ujjlenyomatáról a személyazonossága ellenőrzéséhez. Az ujjlenyomatmodellnek a beállítás során való létrehozásához képeket kell készítenie az ujjlenyomatáról különböző szögekből.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">A Feloldás ujjlenyomattal funkció használatakor a rendszer felhasználja a képeket az ujjlenyomatmodell frissítésére. Az ujjlenyomatképeket és -modellt biztonságosan tárolja a telefon, és sosem kerülnek ki róla. A feldolgozás teljes mértékben és biztonságos módon a telefonon történik.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">A Beállítások menüben bármikor törölheti az ujjlenyomatképeket és -modellt, illetve kikapcsolhatja az ujjlenyomat-alapú feloldást. A telefon addig tárolja az ujjlenyomatképeket és -modelleket, amíg Ön nem törli őket.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">A Feloldás ujjlenyomattal funkció egyéni modellt hoz létre az Ön gyermekének ujjlenyomatáról a személyazonossága ellenőrzéséhez. Az ujjlenyomatmodellnek a beállítás során való létrehozásához gyermekének képeket kell készítenie az ujjlenyomatáról különböző szögekből.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Amikor gyermeke a Feloldás ujjlenyomattal funkciót használja, a rendszer felhasználja a képeket az ujjlenyomatmodell frissítésére. Gyermeke ujjlenyomatképeit és -modelljét biztonságosan tárolja a telefon, és sosem kerülnek ki róla. A feldolgozás teljes mértékben és biztonságos módon a telefonon történik.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Ön és gyermeke a Beállításokban bármikor törölheti gyermeke ujjlenyomatképeit és -modelljét, illetve kikapcsolhatja a Feloldás ujjlenyomattal funkciót. A telefon addig tárolja az ujjlenyomatképeket és -modelleket, amíg Ön vagy gyermeke nem törli őket.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Feloldás ujjlenyomattal munkaprofilnál</string>
+    <string name="suggested_fingerprint_lock_settings_title">A Feloldás ujjlenyomattal funkció használata</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Jelszó védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét. Arcmodellje is véglegesen és biztonságosan törölve lesz. Nem tudja majd hitelesítésre használni az arcát és ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Jelszó védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét is. Nem tudja majd hitelesítésre használni az ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Minta védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét. Arcmodellje is véglegesen és biztonságosan törölve lesz. Nem tudja majd hitelesítésre használni az arcát és ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Minta védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét is. Nem tudja majd hitelesítésre használni az ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN-kód védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét. Arcmodellje is véglegesen és biztonságosan törölve lesz. Nem tudja majd hitelesítésre használni az arcát és ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN-kód védi a telefonját, ha elveszik vagy ellopják.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét is. Nem tudja majd hitelesítésre használni az ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Az eszközvédelmi funkciók nem működnek majd a képernyőzár nélkül.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét. Arcmodellje is véglegesen és biztonságosan törölve lesz. Nem tudja majd hitelesítésre használni az arcát és ujjlenyomatát az appokban."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Az eszközvédelmi funkciók nem működnek majd a képernyőzár nélkül.
+
+Ezzel törli az eszközön tárolt ujjlenyomatok képeit és modelljét is. Nem tudja majd hitelesítésre használni az ujjlenyomatát az appokban."</string>
+</resources>

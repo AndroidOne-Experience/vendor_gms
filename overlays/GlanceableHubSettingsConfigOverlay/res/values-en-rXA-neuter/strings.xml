@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">(N)[Ŵĥîļé ûþŕîĝĥţ åñð çĥåŕĝîñĝ one two three four]</string>
+    <string name="screensaver_settings_summary_sleep">(N)[Ŵĥîļé çĥåŕĝîñĝ one two three]</string>
+    <string name="when_to_show_hubmode_charging">(N)[Ŵĥîļé çĥåŕĝîñĝ one two three]</string>
+    <string name="when_to_show_hubmode_charging_and_upright">(N)[Ŵĥîļé ûþŕîĝĥţ åñð çĥåŕĝîñĝ one two three four]</string>
+    <string name="when_to_show_hubmode_docked">(N)[Ŵĥîļé ðöçķéð åñð çĥåŕĝîñĝ one two three]</string>
+    <string name="when_to_show_hubmode_never">(N)[ÑéVéŕ one]</string>
+</resources>

@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.documentsui.theme.pixel_gms">
+    <overlay android:targetPackage="com.google.android.documentsui"
+                   android:targetName="DocumentsUICustomization"
+                   android:priority="0"/>
+</manifest>

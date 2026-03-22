@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometric_app_setting_name">Դեմքի/մատնահետքի օգտագործում</string>
+    <string name="biometric_dialog_default_subtitle">Շարունակելու համար օգտագործեք ձեր դեմքը կամ մատնահետքը</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Դեմքի, մատնահետքի կամ էկրանի կողպման օգտագործում</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Շարունակելու համար օգտագործեք ձեր դեմքը, մատնահետքը կամ էկրանի կողպումը</string>
+    <string name="harmful_app_warning_title">Զգուշացում Play Protect-ի կողմից</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans\"&gt;Պաշտպանված է &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Android&lt;/font&gt;-ի կողմից</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">وقتی صاف و درحال شارژ است</string>
+    <string name="screensaver_settings_summary_sleep">هنگام شارژ شدن</string>
+    <string name="when_to_show_hubmode_charging">هنگام شارژ شدن</string>
+    <string name="when_to_show_hubmode_charging_and_upright">هنگام شارژ شدن و در حالت عمودی</string>
+    <string name="when_to_show_hubmode_docked">هنگام شارژ شدن و متصل بودن به پایه</string>
+    <string name="when_to_show_hubmode_never">هرگز</string>
+</resources>

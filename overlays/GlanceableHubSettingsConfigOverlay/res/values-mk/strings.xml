@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Додека е исправен и се полни</string>
+    <string name="screensaver_settings_summary_sleep">Додека се полни</string>
+    <string name="when_to_show_hubmode_charging">Додека се полни</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Додека е исправен и се полни</string>
+    <string name="when_to_show_hubmode_docked">Кога е приклучен на док и се полни</string>
+    <string name="when_to_show_hubmode_never">Никогаш</string>
+</resources>

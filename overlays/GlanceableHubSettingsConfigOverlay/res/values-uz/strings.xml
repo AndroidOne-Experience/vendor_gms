@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Tik holatda quvvat olayotganda</string>
+    <string name="screensaver_settings_summary_sleep">Quvvat olayotganda</string>
+    <string name="when_to_show_hubmode_charging">Quvvat olayotganda</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Tik holatda quvvat olayotganda</string>
+    <string name="when_to_show_hubmode_docked">Dok-stansiyada quvvat olayotganda</string>
+    <string name="when_to_show_hubmode_never">Hech qachon</string>
+</resources>

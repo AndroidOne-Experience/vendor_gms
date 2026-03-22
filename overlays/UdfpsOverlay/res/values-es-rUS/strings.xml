@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Contraseña • Huella dactilar</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Patrón • Huella dactilar</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Huella dactilar</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continuar sin Desbloqueo con huellas dactilares</string>
+    <string name="fingerprint_unlock_title">Con el Desbloqueo con huellas dactilares, puedes desbloquear el teléfono con tus huellas dactilares. Para mayor seguridad, esta opción requiere un método secundario de bloqueo de pantalla.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Consulta a un proveedor de reparaciones o ve a g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permitir Desbloq. con huellas dactilares</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">El Desbloqueo con huellas dactilares mejora a medida que lo usas para desbloquear el teléfono o verificar tu identidad en apps</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueo con huellas dactilares</string>
+    <string name="security_settings_fingerprint_preference_title">Desbloqueo con huellas dactilares</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">La función Desbloqueo con huellas dactilares crea un modelo único de tu huella dactilar que permite verificar tu identidad. Para crear este modelo durante la configuración, es necesario tomar imágenes de tu huella desde diferentes posiciones.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Cuando usas la función Desbloqueo con huellas dactilares, las imágenes se utilizan para actualizar el modelo de huella dactilar. Las imágenes y el modelo de la huella se almacenan de forma segura en el teléfono y nunca salen de él. Todo el proceso se lleva a cabo en el teléfono de forma segura.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Puedes borrar las imágenes de tu huella dactilar y el modelo, o bien desactivar el Desbloqueo con huellas dactilares en cualquier momento desde la Configuración. Los modelos y las imágenes de la huella dactilar se almacenan en el teléfono hasta que los borras.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">La función Desbloqueo con huellas dactilares crea un modelo único de la huella dactilar de tu hijo que permite verificar su identidad. Para crear este modelo durante la configuración, deberá tomar fotos de su huella desde diferentes posiciones.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Cuando usa la función Desbloqueo con huellas dactilares, las imágenes se utilizan para actualizar el modelo de huella dactilar. Las imágenes de la huella dactilar y el modelo se almacenan de forma segura en el teléfono y nunca salen de él. Todo el proceso se lleva a cabo en el teléfono de forma segura.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Tu hijo y tú pueden borrar el modelo y las imágenes de su huella dactilar, así como desactivar la función Desbloqueo con huellas dactilares en cualquier momento desde Configuración. Los modelos y las imágenes de la huella se almacenan en el teléfono hasta que se borran.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Desbloqueo con huellas dactilares para el trabajo</string>
+    <string name="suggested_fingerprint_lock_settings_title">Usa el Desbloqueo con huellas dactilares</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"En caso de robo o extravío, una contraseña protege tu teléfono.
+
+Se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. También se borrará tu modelo de rostro de forma permanente y segura. No podrás usar tu rostro ni tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"En caso de robo o extravío, una contraseña protege tu teléfono.
+
+También se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. No podrás usar tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"En caso de robo o extravío, un patrón protege tu teléfono.
+
+Se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. También se borrará tu modelo de rostro de forma permanente y segura. No podrás usar tu rostro ni tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"En caso de robo o extravío, un patrón protege tu teléfono.
+
+También se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. No podrás usar tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"En caso de robo o extravío, un PIN protege tu teléfono.
+
+Se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. También se borrará tu modelo de rostro de forma permanente y segura. No podrás usar tu rostro ni tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"En caso de robo o extravío, un PIN protege tu teléfono.
+
+También se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. No podrás usar tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Las funciones de protección del dispositivo no podrán usarse sin el bloqueo de pantalla.
+
+Se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. También se borrará tu modelo de rostro de forma permanente y segura. No podrás usar tu rostro ni tu huella dactilar para autenticarte en apps."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no podrán usarse sin el bloqueo de pantalla.
+
+También se borrarán el modelo y las imágenes de huellas dactilares almacenados en el dispositivo. No podrás usar tu huella dactilar para autenticarte en apps."</string>
+</resources>

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelSettingsProvider",
+    product_specific: true,
+}

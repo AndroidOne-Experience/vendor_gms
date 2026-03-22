@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">سیدھا اور چارج کرتے وقت</string>
+    <string name="screensaver_settings_summary_sleep">چارج کرتے وقت</string>
+    <string name="when_to_show_hubmode_charging">چارج کرتے وقت</string>
+    <string name="when_to_show_hubmode_charging_and_upright">سیدھا اور چارج کرتے وقت</string>
+    <string name="when_to_show_hubmode_docked">ڈاک اور چارج کرتے وقت</string>
+    <string name="when_to_show_hubmode_never">کبھی نہیں</string>
+</resources>

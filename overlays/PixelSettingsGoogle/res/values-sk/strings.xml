@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Dynamicky prispôsobuje obrazovku na teplejšie a chladnejšie odtiene na základe okolitého osvetlenia</string>
+    <string name="display_white_balance_title">Adaptívny odtieň</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint a heslo</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint a vzor</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint a PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pokračovať bez funkcie Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Pomocou funkcie Pixel Imprint môžete odomykať telefón odtlačkom prsta. Táto možnosť vyžaduje z bezpečnostných dôvodov dodatočnú zámku obrazovky.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Povolenie funkcie Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pomocou funkcie Pixel Imprint môžete schvaľovať nákupy alebo sa prihlasovať do aplikácií odtlačkom prsta.
+
+Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky pridané odtlačky.
+
+Poznámka: Toto zariadenie sa odtlačkom prsta odomknúť nedá. Ďalšie informácie vám poskytne správca vašej organizácie."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Nastavenie funkcie Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Odomykajte svoj telefón pomocou funkcie Pixel Imprint</string>
+</resources>

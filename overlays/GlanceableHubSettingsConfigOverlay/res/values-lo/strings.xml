@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ໃນຂະນະທີ່ຕັ້ງ ແລະ ກຳລັງສາກໄຟຢູ່</string>
+    <string name="screensaver_settings_summary_sleep">ໃນຂະນະທີ່ກຳລັງສາກໄຟຢູ່</string>
+    <string name="when_to_show_hubmode_charging">ໃນຂະນະທີ່ກຳລັງສາກໄຟຢູ່</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ໃນຂະນະທີ່ຕັ້ງ ແລະ ກຳລັງສາກໄຟຢູ່</string>
+    <string name="when_to_show_hubmode_docked">ໃນຂະນະທີ່ດັອກແລ້ວ ແລະ ກຳລັງສາກໄຟຢູ່</string>
+    <string name="when_to_show_hubmode_never">ບໍ່ໃຊ້</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ওপৰমুৱা কৰি থোৱা আৰু চাৰ্জিঙৰ সময়ত</string>
+    <string name="screensaver_settings_summary_sleep">চাৰ্জিঙৰ সময়ত</string>
+    <string name="when_to_show_hubmode_charging">চাৰ্জিঙৰ সময়ত</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ওপৰমুৱা কৰি থোৱা আৰু চাৰ্জিঙৰ সময়ত</string>
+    <string name="when_to_show_hubmode_docked">ড’ক কৰি থোৱা আৰু চাৰ্জিঙৰ সময়ত</string>
+    <string name="when_to_show_hubmode_never">কেতিয়াও নহয়</string>
+</resources>

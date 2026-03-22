@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Σε όρθια θέση κατά τη φόρτιση</string>
+    <string name="screensaver_settings_summary_sleep">Κατά τη φόρτιση</string>
+    <string name="when_to_show_hubmode_charging">Κατά τη φόρτιση</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Σε όρθια θέση κατά τη φόρτιση</string>
+    <string name="when_to_show_hubmode_docked">Στη βάση σύνδεσης κατά τη φόρτιση</string>
+    <string name="when_to_show_hubmode_never">Ποτέ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">כשהמכשיר נטען במצב אנכי</string>
+    <string name="screensaver_settings_summary_sleep">בזמן טעינה</string>
+    <string name="when_to_show_hubmode_charging">בזמן טעינה</string>
+    <string name="when_to_show_hubmode_charging_and_upright">כשהמכשיר נטען במצב אנכי</string>
+    <string name="when_to_show_hubmode_docked">בזמן עגינה וטעינה</string>
+    <string name="when_to_show_hubmode_never">אף פעם</string>
+</resources>

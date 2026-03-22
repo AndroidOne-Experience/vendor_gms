@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ពេលដាក់បញ្ឈរ និងសាកថ្ម</string>
+    <string name="screensaver_settings_summary_sleep">ពេលសាកថ្ម</string>
+    <string name="when_to_show_hubmode_charging">ពេលសាកថ្ម</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ពេលដាក់បញ្ឈរ និងសាកថ្ម</string>
+    <string name="when_to_show_hubmode_docked">ពេលភ្ជាប់ និងសាកថ្ម</string>
+    <string name="when_to_show_hubmode_never">កុំឱ្យសោះ</string>
+</resources>

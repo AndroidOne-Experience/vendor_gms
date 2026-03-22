@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">ايمبيئنٹ روشنی کی بنیاد پر ڈسپلے کو گرم یا ٹھنڈے ٹونز میں ڈائنیمک طور پر اڈاپٹ کرتی ہے</string>
+    <string name="display_white_balance_title">اڈاپٹیو ٹون</string>
+    <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint + پاس ورڈ</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint + پیٹرن</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">‏Pixel Imprint کے بغیر جاری رکھیں</string>
+    <string name="fingerprint_unlock_title">‏Pixel Imprint کے ساتھ آپ اپنا فنگر پرنٹ استعمال کر کے اپنا فون غیر مقفل کر سکتے ہیں۔ سیکیورٹی کیلئے، اس اختیار کو ایک بیک اپ اسکرین لاک درکار ہے۔</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">‏Pixel Imprint کی اجازت دیں</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏Pixel Imprint کے ساتھ، آپ اپنے فنگر پرنٹ کو خریداریوں کی اجازت دینے یا ایپس میں سائن ان کرنے کیلئے استعمال کر سکتے ہیں۔
+
+کسی کے فنگر پرنٹس شامل کرتے وقت محتاط رہیں۔ کسی بھی شامل کردہ فنگر پرنٹ سے یہ کام کیے جا سکتے ہیں۔
+
+نوٹ: آپ اس آلہ کو غیر مقفل کرنے کیلئے اپنا فنگر پرنٹ استعمال نہیں کر سکتے۔ مزید معلومات کیلئے اپنی تنظیم کے منتظم سے رابطہ کریں۔"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">‏Pixel Imprint سیٹ اپ کریں</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏اپنا فون غیر مقفل کرنے کے لئے Pixel Imprint کا استعمال کریں</string>
+</resources>

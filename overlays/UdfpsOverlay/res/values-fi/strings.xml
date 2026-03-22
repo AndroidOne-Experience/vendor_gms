@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Salasana • Sormenjälki</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Kuvio • Sormenjälki</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN-koodi • Sormenjälki</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Jatka ilman sormenjälkiavausta</string>
+    <string name="fingerprint_unlock_title">Sormenjälkiavauksen avulla voit käyttää sormenjälkeäsi puhelimen lukituksen avaamiseen. Turvallisuussyistä tämä edellyttää, että määrität näytön varalukitustavan.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Ota yhteyttä korjauspalveluun tai käy osoitteessa g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Salli sormenjälkiavaus</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Sormenjälkiavaus paranee, mitä enemmän käytät sitä puhelimesi lukituksen avaamiseen tai sovelluksissa tunnistautumiseen</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ota sormenjälkiavaus käyttöön</string>
+    <string name="security_settings_fingerprint_preference_title">Sormenjälkiavaus</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Sormenjälkiavaus luo sormenjäljestäsi yksilöllisen mallin, jonka avulla henkilöllisyytesi voidaan todentaa. Käyttöönoton aikana otat sormenjäljestäsi kuvia eri asennoissa sormenjälkimallin luomiseksi.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Kun käytät sormenjälkiavausta, kuvia käytetään sormenjälkimallin päivittämiseen. Sormenjälkesi kuvat ja malli säilytetään suojatusti puhelimellasi, eivätkä ne poistu laitteelta. Kaikki käsittely tapahtuu turvallisesti puhelimellasi.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Voit poistaa sormenjälkesi kuvat ja mallin tai laittaa sormenjälkiavauksen pois päältä milloin tahansa asetuksista. Sormenjälkesi kuvat ja mallit säilytetään puhelimellasi, kunnes poistat ne.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Sormenjälkiavaus luo lapsesi sormenjäljestä yksilöllisen mallin, jonka avulla hänen henkilöllisyytensä voidaan todentaa. Käyttöönoton aikana lapsi ottaa sormenjäljestään kuvia eri asennoissa sormenjälkimallin luomiseksi.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Kun lapsi käyttää sormenjälkiavausta, kuvia käytetään sormenjälkimallin päivittämiseen. Lapsen sormenjäljen kuvat ja malli säilytetään suojatusti puhelimella, eivätkä ne poistu laitteelta. Kaikki käsittely tapahtuu turvallisesti puhelimella.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Sinä ja lapsesi voitte poistaa sormenjälkien kuvat ja mallit tai laittaa sormenjälkiavauksen pois päältä milloin tahansa asetuksista. Sormenjälkien kuvat ja mallit säilytetään puhelimella, kunnes ne poistetaan.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Sormenjälkiavaus työkäyttöön</string>
+    <string name="suggested_fingerprint_lock_settings_title">Käytä sormenjälkiavausta</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Salasana suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Kasvomalli poistetaan myös pysyvästi ja turvallisesti. Et voi käyttää kasvojasi tai sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Salasana suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa myös laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Et voi käyttää sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Kuvio suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Kasvomalli poistetaan myös pysyvästi ja turvallisesti. Et voi käyttää kasvojasi tai sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Kuvio suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa myös laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Et voi käyttää sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN-koodi suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Kasvomalli poistetaan myös pysyvästi ja turvallisesti. Et voi käyttää kasvojasi tai sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN-koodi suojaa puhelintasi, jos se katoaa tai varastetaan.
+
+Tämä poistaa myös laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Et voi käyttää sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Laitteen suojausominaisuudet eivät toimi ilman näytön lukitusta.
+
+Tämä poistaa laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Kasvomalli poistetaan myös pysyvästi ja turvallisesti. Et voi käyttää kasvojasi tai sormenjälkeäsi sovelluksissa todentamiseen."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Laitteen suojausominaisuudet eivät toimi ilman näytön lukitusta.
+
+Tämä poistaa myös laitteelle tallennetut sormenjälkikuvat ja ‑mallin. Et voi käyttää sormenjälkeäsi sovelluksissa todentamiseen."</string>
+</resources>

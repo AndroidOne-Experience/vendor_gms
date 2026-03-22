@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Dynamic na iniaangkop ang display sa mga mas warm o mas cool na tone batay sa ambient lighting</string>
+    <string name="display_white_balance_title">Adaptive tone</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Password</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Pattern</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Magpatuloy nang walang Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Sa Pixel Imprint, maaari mong i-unlock ang iyong telepono gamit ang fingerprint mo. Para sa seguridad, kinakailangan ng opsyong ito ng backup na lock ng screen.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Payagan ang Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Sa Pixel Imprint, maaari mong gamitin ang iyong fingerprint para pahintulutan ang mga pagbili o mag-sign in sa mga app.
+
+Maging maingat kung kaninong mga fingerprint ang idaragdag mo. Magagawa ng anumang idinagdag na fingerprint ang mga bagay na ito.
+
+Tandaan: Hindi mo maaaring gamitin ang iyong fingerprint para i-unlock ang device na ito. Para sa higit pang impormasyon, makipag-ugnayan sa admin ng iyong organisasyon."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">I-set up ang Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gamitin ang Pixel Imprint para i-unlock ang iyong telepono</string>
+</resources>

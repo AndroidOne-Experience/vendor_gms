@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_avatar_picker_package">com.google.android.avatarpicker</string>
+</resources>

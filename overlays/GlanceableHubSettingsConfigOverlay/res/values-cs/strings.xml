@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Při nabíjení ve vzpřímené poloze</string>
+    <string name="screensaver_settings_summary_sleep">Při nabíjení</string>
+    <string name="when_to_show_hubmode_charging">Při nabíjení</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Při nabíjení ve vzpřímené poloze</string>
+    <string name="when_to_show_hubmode_docked">Při nabíjení v doku</string>
+    <string name="when_to_show_hubmode_never">Nikdy</string>
+</resources>

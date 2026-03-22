@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GoogleConfigOverlay",
+    product_specific: true,
+}

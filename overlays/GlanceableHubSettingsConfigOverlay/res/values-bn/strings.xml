@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">সোজা রাখলে এবং চার্জ দেওয়া হলে</string>
+    <string name="screensaver_settings_summary_sleep">চার্জ করার সময়</string>
+    <string name="when_to_show_hubmode_charging">চার্জ করার সময়</string>
+    <string name="when_to_show_hubmode_charging_and_upright">সোজা রেখে চার্জ দেওয়ার সময়</string>
+    <string name="when_to_show_hubmode_docked">ডক করা অবস্থায় চার্জ দেওয়ার সময়</string>
+    <string name="when_to_show_hubmode_never">কখনই নয়</string>
+</resources>

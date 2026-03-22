@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">यसले वरपरको प्रकाशका आधारमा गतिशील तरिकाले डिस्प्लेको रङ अझ न्यानो वा अझ शीतल बनाउँछ</string>
+    <string name="display_white_balance_title">एड्याप्टिभ टोन</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + पासवर्ड</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + प्याटर्न</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint विनै जारी राख्नुहोस्</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint को सहयोगले तपाईं आफ्नो फिंगरप्रिन्टको प्रयोग गरी आफ्नो फोन अनलक गर्न सक्नुहुन्छ। सुरक्षा प्रयोजनका लागि, यो विकल्प प्रयोग गर्न कुनै ब्याकअप स्क्रिन लकको आवश्यकता पर्छ।</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint प्रयोग गर्न दिनुहोस्</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint को सहयोगले तपाईं खरिहरूलाई अनुमति दिन वा एपहरूमा साइन इन गर्न सक्नुहुन्छ।
+
+तपाईं कसका फिंगरप्रिन्टहरू थप्नुहुन्छ भन्ने कुरामा सचेत हुनुहोस्। थपिएका सबै फिंगरप्रिन्टहरूले यी काम गर्न सक्ने छन्।
+
+टिपोट: तपाईं यो डिभाइस अनलक गर्न आफ्नो फिंगरप्रिन्टको प्रयोग गर्न सक्नुहुन्न। थप जानकारीका लागि आफ्नो सङ्गठनका प्रशासकलाई सम्पर्क गर्नुहोस्।"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint सेटअप गर्नुहोस्</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">आफ्नो फोन अनलक गर्न Pixel Imprint को प्रयोग गर्नुहोस्</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Ուղղաձիգ դիրքով և լիցքավորվելիս</string>
+    <string name="screensaver_settings_summary_sleep">Լիցքավորման ընթացքում</string>
+    <string name="when_to_show_hubmode_charging">Լիցքավորման ընթացքում</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Երբ ուղղաձիգ դիրքով է և լիցքավորվում է</string>
+    <string name="when_to_show_hubmode_docked">Երբ դոկ-կայանում է և լիցքավորվում է</string>
+    <string name="when_to_show_hubmode_never">Երբեք</string>
+</resources>

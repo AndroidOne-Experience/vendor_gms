@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Password • Fingerprint</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pattern • Fingerprint</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Fingerprint</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Magpatuloy nang walang Pag-unlock Gamit ang Fingerprint</string>
+    <string name="fingerprint_unlock_title">Gamit ang Pag-unlock Gamit ang Fingerprint, maa-unlock mo ang iyong telepono gamit ang fingerprint mo. Para sa seguridad, nangangailangan ang opsyong ito ng backup na lock ng screen.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Bumisita sa provider ng pagkukumpuni o sa g.co/pixel/fingerprintunlock</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Payagan ang Pag-unlock Gamit ang Fingerprint</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Mas humuhusay ang Pag-unlock Gamit ang Fingerprint sa tuwing ginagamit mo ito para i-unlock ang iyong telepono o i-verify na ikaw ito sa mga app</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">I-set up ang Fingerprint Unlock</string>
+    <string name="security_settings_fingerprint_preference_title">Pag-unlock Gamit ang Fingerprint</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">"Gumagawa ang Pag-unlock Gamit ang Fingerprint ng natatanging modelo ng iyong fingerprint para i-verify na ikaw ito. Para magawa ang modelo ng fingerprint na ito habang nagse-set up, kukuha ka ng mga larawan ng iyong fingerprint mula sa iba't ibang posisyon."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Kapag ginamit mo ang Pag-unlock Gamit ang Fingerprint, gagamitin ang mga larawan para i-update ang modelo ng iyong fingerprint. Secure na sino-store ang mga larawan at modelo ng iyong fingerprint sa telepono mo at hindi ito kailanman lalabas sa telepono. Sa iyong telepono secure na nangyayari ang lahat ng pagpoproseso.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Puwede mong i-delete ang mga larawan at modelo ng iyong fingerprint, o i-off ang Pag-unlock Gamit ang Fingerprint anumang oras sa Mga Setting. Naka-store sa telepono ang mga larawan at modelo ng fingerprint hanggang sa i-delete mo ang mga ito.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">"Gumagawa ang Pag-unlock Gamit ang Fingerprint ng natatanging modelo ng fingerprint ng iyong anak para i-verify na siya ito. Para magawa ang modelo ng fingerprint na ito habang nagse-set up, kukuha siya ng mga larawan ng kanyang fingerprint mula sa iba't ibang posisyon."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Kapag ginamit niya ang Pag-unlock Gamit ang Fingerprint, gagamitin ang mga larawan para i-update ang modelo ng kanyang fingerprint. Secure na sino-store ang mga larawan at modelo ng fingerprint ng iyong anak sa telepono at hindi ito kailanman lalabas sa telepono. Sa telepono secure na nangyayari ang lahat ng pagpoproseso.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Magagawa mo at ng iyong anak na i-delete ang mga larawan at modelo ng kanyang fingerprint, o i-off ang Pag-unlock Gamit ang Fingerprint anumang oras sa Mga Setting. Naka-store ang mga larawan at modelo ng fingerprint sa telepono hanggang sa i-delete ang mga ito.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Pag-unlock Gamit ang Fingerprint para sa trabaho</string>
+    <string name="suggested_fingerprint_lock_settings_title">Gamitin ang Pag-unlock gamit ang Fingerprint</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Pinoprotektahan ng password ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Permanente at secure na ide-delete din ang iyong face model. Hindi mo magagamit ang iyong mukha o fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Pinoprotektahan ng password ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete din nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Hindi mo magagamit ang iyong fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Pinoprotektahan ng pattern ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Permanente at secure na ide-delete din ang iyong face model. Hindi mo magagamit ang iyong mukha o fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Pinoprotektahan ng pattern ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete din nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Hindi mo magagamit ang iyong fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Pinoprotektahan ng PIN ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Permanente at secure na ide-delete din ang iyong face model. Hindi mo magagamit ang iyong mukha o fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Pinoprotektahan ng PIN ang iyong telepono kung mawala o nakawin ito.
+
+Dine-delete din nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Hindi mo magagamit ang iyong fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Hindi gagana ang mga feature sa pagprotekta ng device nang wala ang iyong lock ng screen.
+
+Dine-delete nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Permanente at secure na ide-delete din ang iyong face model. Hindi mo magagamit ang iyong mukha o fingerprint para sa pag-authenticate sa mga app."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Hindi gagana ang mga feature sa pagprotekta ng device nang wala ang iyong lock ng screen.
+
+Dine-delete din nito ang mga larawan at modelo ng fingerprint na naka-store sa iyong device. Hindi mo magagamit ang iyong fingerprint para sa pag-authenticate sa mga app."</string>
+</resources>

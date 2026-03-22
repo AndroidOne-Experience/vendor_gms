@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Paparan disesuaikan secara dinamik kepada rona yang lebih hangat atau lembut berdasarkan pencahayaan ambien</string>
+    <string name="display_white_balance_title">Rona mudah suai</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Kata laluan</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Corak</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Teruskan tanpa Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Dengan Pixel Imprint, anda boleh membuka kunci telefon menggunakan cap jari. Untuk keselamatan, pilihan ini memerlukan kunci skrin sandaran.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Benarkan Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Dengan Pixel Imprint, anda boleh menggunakan cap jari untuk membenarkan pembelian atau log masuk ke apl.
+
+Berhati-hati tentang cap jari yang anda tambahkan. Sebarang cap jari yang ditambahkan akan dapat melakukan perkara ini.
+
+Perhatian: Anda tidak boleh menggunakan cap jari untuk membuka kunci peranti ini. Untuk mengetahui maklumat lanjut, hubungi pentadbir organisasi anda."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Sediakan Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gunakan Pixel Imprint untuk membuka kunci telefon anda</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Дисплейді айналадағы жарықтың ыңғайына қарай динамикалық түрде жылы не салқын реңктерге бейімдейді.</string>
+    <string name="display_white_balance_title">Реңкті бейімдеу</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + құпия сөз</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + өрнек</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN коды</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint пайдаланбау</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint көмегімен телефон құлпын саусақпен ашуға болады. Бұл опция қауіпсіздік мақсатында қосымша экран құлпын қажет етеді.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint функциясына рұқсат беру</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint көмегімен сатып алу әрекеттерін мақұлдауға немесе қолданбаларға кіруге саусақ ізін пайдалана аласыз.
+
+Басқалардың саусақ іздерін енгізгенде, сақ болыңыз. Саусақ іздері енгізілген кез келген адам бұл әрекеттерді орындай алады.
+
+Ескертпе: бұл құрылғының құлпын ашу үшін саусақ ізін пайдалана алмайсыз. Қосымша ақпарат алу үшін ұйым әкімшісіне хабарласыңыз."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint параметрлерін реттеу</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Телефон құлпын Pixel Imprint арқылы ашу</string>
+</resources>

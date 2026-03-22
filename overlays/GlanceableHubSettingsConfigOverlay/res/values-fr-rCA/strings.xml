@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Pendant la recharge en position verticale</string>
+    <string name="screensaver_settings_summary_sleep">Pendant la recharge</string>
+    <string name="when_to_show_hubmode_charging">Pendant la recharge</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Pendant la recharge en position verticale</string>
+    <string name="when_to_show_hubmode_docked">Pendant la recharge sur la station</string>
+    <string name="when_to_show_hubmode_never">Jamais</string>
+</resources>

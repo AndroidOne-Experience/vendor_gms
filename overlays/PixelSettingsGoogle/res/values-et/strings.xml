@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Ekraan adapteerub ümbritseva valguse põhjal dünaamiliselt soojemate või külmemate toonidega</string>
+    <string name="display_white_balance_title">Adaptiivsed toonid</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint ja parool</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint ja muster</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint ja PIN-kood</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Jätka ilma Pixel Imprintita</string>
+    <string name="fingerprint_unlock_title">Pixel Imprintiga saate telefoni avada oma sõrmejäljega. Turvalisuse tagamiseks nõuab see valik varuekraanilukku.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprinti lubamine</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Funktsiooniga Pixel Imprint saate ostude volitamiseks või rakendustesse sisselogimiseks oma sõrmejälge kasutada.
+
+Olge sõrmejälgede lisamisel ettevaatlik – neid toiminguid saab teha kõigi lisatud sõrmejälgedega.
+
+Märkus. Te ei saa selle seadme avamiseks sõrmejälge kasutada. Lisateabe saamiseks võtke ühendust organisatsiooni administraatoriga."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprinti seadistamine</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Kasutage telefoni avamiseks Pixel Imprinti</string>
+</resources>

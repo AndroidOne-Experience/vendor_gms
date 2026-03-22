@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Wagwoord • Vingerafdruk</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Patroon • Vingerafdruk</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Vingerafdruk</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Gaan voort sonder Vingerafdrukslot</string>
+    <string name="fingerprint_unlock_title">"Met Vingerafdrukslot kan jy jou foon met jou vingerafdruk ontsluit. Om veiligheidsredes vereis hierdie opsie 'n rugsteunskermslot."</string>
+    <string name="security_settings_fingerprint_bad_calibration">Besoek ’n verskaffer wat herstelwerk doen of g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Laat Vingerafdrukslot toe</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Vingerafdrukslot verbeter hoe meer jy dit gebruik om jou foon te ontsluit of in programme te verifieer dat dit jy is</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Stel vingerafdrukslot op</string>
+    <string name="security_settings_fingerprint_preference_title">Vingerafdrukslot</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">"Vingerafdrukslot skep 'n unieke model van jou vingerafdruk om te verifieer dis jy. Jy sal jou vingerafdruk uit verskillende posisies afneem om hierdie vingerafdrukmodel tydens opstelling te skep."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Wanneer jy Vingerafdrukslot gebruik, word prente gebruik om jou vingerafdrukmodel op te dateer. Jou vingerafdrukprente en -model word veilig op jou foon geberg en verlaat nooit die foon nie. Alle verwerking vind veilig op jou foon plaas.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Jy kan enige tyd in Instellings jou vingerafdrukprente en -model uitvee of vingerafdrukslot afskakel. Vingerafdrukprente en -modelle word veilig op jou foon geberg totdat jy hulle uitvee.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">"Vingerafdrukslot skep 'n unieke model van jou kind se vingerafdruk om te verifieer dis hy of sy. Jou kind sal sy of haar vingerafdruk uit verskillende posisies afneem om hierdie vingerafdrukmodel tydens die opstelling te skep."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Wanneer jou kind Vingerafdrukslot gebruik, word prente gebruik om sy of haar vingerafdrukmodel op te dateer. Jou kind se vingerafdrukprente en -model word veilig op die foon geberg en verlaat nooit die foon nie. Alle verwerking vind veilig op die foon plaas.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Jy en jou kind kan enige tyd in Instellings sy of haar vingerafdrukprente en -model uitvee of Vingerafdrukslot afskakel. Vingerafdrukprente en -modelle word op die foon geberg totdat hulle uitgevee word.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Vingerafdrukslot vir werk</string>
+    <string name="suggested_fingerprint_lock_settings_title">Gebruik Vingerafdrukslot</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"'n Wagwoord beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jou gesigmodel sal ook permanent en veilig uitgevee word. Jy sal nie jou gesig of vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"'n Wagwoord beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jy sal nie jou vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"'n Patroon beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jou gesigmodel sal ook permanent en veilig uitgevee word. Jy sal nie jou gesig of vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"'n Patroon beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jy sal nie jou vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"'n PIN beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jou gesigmodel sal ook permanent en veilig uitgevee word. Jy sal nie jou gesig of vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"'n PIN beskerm jou foon as dit verlore raak of gesteel word.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jy sal nie jou vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Toestelbeskermingkenmerke sal nie sonder jou skermslot werk nie.
+
+Dit vee die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jou gesigmodel sal ook permanent en veilig uitgevee word. Jy sal nie jou gesig of vingerafdruk vir stawing in programme kan gebruik nie."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Toestelbeskermingkenmerke sal nie sonder jou skermslot werk nie.
+
+Dit vee ook die vingerafdrukprente en -model uit wat op jou toestel geberg is. Jy sal nie jou vingerafdruk vir stawing in programme kan gebruik nie."</string>
+</resources>

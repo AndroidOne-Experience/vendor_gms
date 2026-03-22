@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ठाडो पारेर चार्ज गरिरहेका बेला</string>
+    <string name="screensaver_settings_summary_sleep">चार्ज गरिरहेका बेला</string>
+    <string name="when_to_show_hubmode_charging">चार्ज भइरहेका बेला</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ठाडो पारेर चार्ज गरिरहेका बेला</string>
+    <string name="when_to_show_hubmode_docked">डक तथा चार्ज गरिरहेका बेला</string>
+    <string name="when_to_show_hubmode_never">कहिल्यै पनि होइन</string>
+</resources>

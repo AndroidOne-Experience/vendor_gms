@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ቆሞ እና ኃይል በመሙላት ላይ ሳለ</string>
+    <string name="screensaver_settings_summary_sleep">ባትሪ በመሙላት ላይ ሳለ</string>
+    <string name="when_to_show_hubmode_charging">ባትሪ በመሙላት ላይ ሳለ</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ቆሞ እና ኃይል በመሙላት ላይ ሳለ</string>
+    <string name="when_to_show_hubmode_docked">ተተክሎ እና ኃይል በመሙላት ላይ እያለ</string>
+    <string name="when_to_show_hubmode_never">በጭራሽ</string>
+</resources>

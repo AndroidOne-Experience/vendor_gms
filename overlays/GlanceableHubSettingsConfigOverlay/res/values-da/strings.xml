@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Når den oplader i stående position</string>
+    <string name="screensaver_settings_summary_sleep">Under opladning</string>
+    <string name="when_to_show_hubmode_charging">Når enheden oplades</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Når den oplader i stående position</string>
+    <string name="when_to_show_hubmode_docked">Når den er docket og oplader</string>
+    <string name="when_to_show_hubmode_never">Aldrig</string>
+</resources>

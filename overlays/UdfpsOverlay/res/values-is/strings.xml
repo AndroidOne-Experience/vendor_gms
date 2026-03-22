@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Aðgangsorð • Fingrafar</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Mynstur • Fingrafar</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN-númer • Fingrafar</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Halda áfram án fingrafarskennis</string>
+    <string name="fingerprint_unlock_title">Með fingrafarskenni geturðu tekið símann úr lás með því að nota fingrafarið. Af öryggisástæðum krefst þessi valkostur þess að varaskjálás sé til staðar.</string>
+    <string name="security_settings_fingerprint_bad_calibration">Farðu á verkstæði eða opnaðu g.co/pixel/fingerprintunlock.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Leyfa fingrafarskenni</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Fingrafarskenni verður betra því oftar sem þú notar það til að taka símann þinn úr lás eða staðfesta hver þú ert í forritum</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Setja upp fingrafarskenni</string>
+    <string name="security_settings_fingerprint_preference_title">Fingrafarskenni</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Fingrafarskenni býr til einkvæmt líkan af fingrafarinu þínu til að staðfesta hver þú ert. Til að búa líkanið til við uppsetningu þarf að taka myndir af fingrafarinu þínu frá nokkrum sjónarhornum.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Þegar þú notar fingrafarskenni eru myndir notaðar til að uppfæra fingrafarslíkanið. Fingrafaramyndirnar og -líkanið eru geymd á öruggan hátt í símanum og fara aldrei þaðan. Öll úrvinnsla fer fram í símanum á öruggan hátt.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Þú getur eytt fingrafaramyndunum og -líkaninu eða slökkt á fingrafarskenni hvenær sem er í stillingunum. Fingrafaramyndir og -líkön eru geymd á öruggan hátt í símanum þar til þeim er eytt.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Fingrafarskenni býr til einkvæmt líkan af fingrafari barnsins þíns til að staðfesta hver það er. Til að búa líkanið til við uppsetningu tekur barnið myndir af fingrafarinu sínu frá mismunandi sjónarhornum.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Þegar það notar fingrafarskenni eru myndir notaðar til að uppfæra fingrafarslíkan þess. Fingrafaramyndir og -líkan barnsins er geymt á öruggan hátt í símanum og fer aldrei þaðan. Öll úrvinnsla fer fram í símanum á öruggan hátt.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Þú og barnið þitt getið eytt fingrafarsmyndunum og -líkaninu eða slökkt á fingrafarskenni hvenær sem er í stillingunum. Fingrafaramyndir og -líkön eru geymd á öruggan hátt í símanum þar til þeim er eytt.</string>
+    <string name="security_settings_work_fingerprint_preference_title">Fingrafarskenni fyrir vinnu</string>
+    <string name="suggested_fingerprint_lock_settings_title">Nota fingrafarskenni</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Aðgangsorð verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir fingrafaramyndum og -líkani úr tækinu þínu. Andlitslíkaninu þínu verður einnig eytt endanlega á öruggan hátt. Þú munt ekki geta notað andlitið eða fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Aðgangsorð verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir einnig fingrafaramyndum og -líkani úr tækinu þínu. Þú munt ekki geta notað fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Mynstur verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir fingrafaramyndum og -líkani úr tækinu þínu. Andlitslíkaninu þínu verður einnig eytt endanlega á öruggan hátt. Þú munt ekki geta notað andlitið eða fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Mynstur verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir einnig fingrafaramyndum og -líkani úr tækinu þínu. Þú munt ekki geta notað fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN-númer verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir fingrafaramyndum og -líkani úr tækinu þínu. Andlitslíkaninu þínu verður einnig eytt endanlega á öruggan hátt. Þú munt ekki geta notað andlitið eða fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN-númer verndar símann ef hann týnist eða ef honum er stolið.
+
+Þetta eyðir einnig fingrafaramyndum og -líkani úr tækinu þínu. Þú munt ekki geta notað fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Öryggiseiginleikar til að vernda tækið virka ekki án skjáláss.
+
+Þetta eyðir fingrafaramyndum og -líkani úr tækinu þínu. Andlitslíkaninu þínu verður einnig eytt endanlega á öruggan hátt. Þú munt ekki geta notað andlitið eða fingrafarið til auðkenningar í forritum."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Öryggiseiginleikar til að vernda tækið virka ekki án skjáláss.
+
+Þetta eyðir einnig fingrafaramyndum og -líkani úr tækinu þínu. Þú munt ekki geta notað fingrafarið til auðkenningar í forritum."</string>
+</resources>

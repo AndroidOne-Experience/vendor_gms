@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">ປັບການສະແດງຜົນເປັນໂທນສີທີ່ອຸ່ນຂຶ້ນ ຫຼື ເຢັນລົງຕາມແສງສະຫວ່າງໂດຍຮອບແບບໄດນາມິກ</string>
+    <string name="display_white_balance_title">ການປັບໂທນສີອັດຕະໂນມັດ</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + ລະຫັດຜ່ານ</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ຮູບແບບປົດລັອກ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">ສືບຕໍ່ໂດຍບໍ່ໃຊ້ Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">ດ້ວຍ Pixel Imprint, ທ່ານຈະສາມາດປົດລັອກໂລະສັບຂອງທ່ານດ້ວຍລາຍນິ້ວມືທ່ານໄດ້. ເພື່ອຄວາມປອດໄພ, ຕົວເລືອກນີ້ຈະຕ້ອງໃຊ້ວິທີລັອກໜ້າຈໍສຳຮອງນຳ.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">ອະນຸຍາດ Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"ດ້ວຍ Pixel Imprint, ທ່ານຈະສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອອະນຸມັດການສັ່ງຊື້ ຫຼື ເຂົ້າສູ່ລະບົບຫາແອັບຕ່າງໆໄດ້.
+
+ໃຫ້ລະມັດລະວັງລາຍນິ້ວມືທີ່ທ່ານເພີ່ມໃສ່. ລາຍມືໃດກໍຕາມທີ່ເພີ່ມໃສ່ຈະສາມາດເຮັດສິ່ງຕ່າງໆເຫຼົ່ານີ້ໄດ້.
+
+ໝາຍເຫດ: ທ່ານບໍ່ສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອປົດລັອກອຸປະກອນນີ້ໄດ້. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ, ກະລຸນາຕິດຕໍ່ຫາຜູ້ເບິ່ງແຍງລະບົບຂອງອົງກອນທ່ານ."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ຕັ້ງຄ່າ Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ໃຊ້ Pixel Imprint ເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ</string>
+</resources>

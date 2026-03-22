@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Эгц босоо бөгөөд цэнэглэж байхад</string>
+    <string name="screensaver_settings_summary_sleep">Цэнэглэж байхад</string>
+    <string name="when_to_show_hubmode_charging">Цэнэглэж байхад</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Эгц босоо бөгөөд цэнэглэж байхад</string>
+    <string name="when_to_show_hubmode_docked">Суурилуулсан бөгөөд цэнэглэж байхад</string>
+    <string name="when_to_show_hubmode_never">Хэзээ ч үгүй</string>
+</resources>

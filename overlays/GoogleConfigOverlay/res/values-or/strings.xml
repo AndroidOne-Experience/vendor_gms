@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometric_app_setting_name">ଫେସ ବା ଟିପଚିହ୍ନ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="biometric_dialog_default_subtitle">ଜାରି ରଖିବାକୁ ଆପଣଙ୍କ ଫେସ୍ କିମ୍ବା ଟିପଚିହ୍ନ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="biometric_or_screen_lock_app_setting_name">ଫେସ୍, ଟିପଚିହ୍ନ କିମ୍ବା ସ୍କ୍ରିନ୍ ଲକ୍ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">ଜାରି ରଖିବାକୁ ଆପଣଙ୍କ ଫେସ୍, ଟିପଚିହ୍ନ କିମ୍ବା ସ୍କ୍ରିନ୍ ଲକ୍ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="harmful_app_warning_title">Play Protectର ଚେତାବନୀ</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans-medium\"&gt;Android ଦ୍ୱାରା&lt;/font&gt; &lt;font face=\"google-sans\"&gt; ସୁରକ୍ଷିତ ଅଟେ &lt;/font&gt;</string>
+</resources>

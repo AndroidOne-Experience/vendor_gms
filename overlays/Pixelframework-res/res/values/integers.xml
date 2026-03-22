@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_esim_bootstrap_data_limit_bytes">235929600</integer>
+    <integer name="config_externalDisplayPeakHeight">2160</integer>
+    <integer name="config_externalDisplayPeakRefreshRate">61</integer>
+    <integer name="config_externalDisplayPeakWidth">3840</integer>
+    <integer name="config_maxDesktopWindowingActiveTasks">5</integer>
+    <integer name="config_screenTimeoutOverride">10000</integer>
+</resources>

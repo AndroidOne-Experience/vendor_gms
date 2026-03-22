@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">நேராக இருந்து சார்ஜாகும்போது</string>
+    <string name="screensaver_settings_summary_sleep">சார்ஜிங்கின்போது</string>
+    <string name="when_to_show_hubmode_charging">சார்ஜிங்கின்போது</string>
+    <string name="when_to_show_hubmode_charging_and_upright">நேராக இருந்து சார்ஜாகும்போது</string>
+    <string name="when_to_show_hubmode_docked">டாக்கில் இணைக்கப்பட்டு சார்ஜாகும்போது</string>
+    <string name="when_to_show_hubmode_never">ஒருபோதும் காட்டாதே</string>
+</resources>

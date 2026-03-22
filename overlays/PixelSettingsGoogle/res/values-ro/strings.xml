@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Adaptează dinamic ecranul la tonuri mai calde sau mai reci, în funcție de lumina ambientală</string>
+    <string name="display_white_balance_title">Tonuri adaptive</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + parolă</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + model</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + cod PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continuă fără Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Cu Pixel Imprint, poți debloca telefonul folosind amprenta. Din motive de securitate, această opțiune necesită o blocare a ecranului de rezervă.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permite Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Cu Pixel Imprint, poți folosi amprenta ca să autorizezi achiziții sau să te conectezi la aplicații.
+
+Ai grijă ce amprente adaugi. Aceste acțiuni sunt posibile folosind orice amprentă adăugată.
+
+Notă: nu îți poți folosi amprenta ca să deblochezi acest dispozitiv. Pentru informații suplimentare, contactează administratorul organizației."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Configurează Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Folosiți Pixel Imprint pentru a debloca telefonul</string>
+</resources>

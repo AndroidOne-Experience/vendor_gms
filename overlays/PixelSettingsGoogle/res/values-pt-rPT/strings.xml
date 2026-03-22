@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">Adapta dinamicamente o ecrã a tons mais quentes ou mais frios com base na iluminação ambiente</string>
+    <string name="display_white_balance_title">Tonalidade adaptável</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + palavra-passe</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + padrão</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continue sem o Pixel Imprint</string>
+    <string name="fingerprint_unlock_title">Com o Pixel Imprint, pode desbloquear o telemóvel com a sua impressão digital. Por motivos de segurança, esta opção requer um bloqueio de ecrã de segurança.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permita o Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Com o Pixel Imprint, pode utilizar a sua impressão digital para autorizar compras ou iniciar sessão em apps.
+
+Deve ter cuidado com as pessoas cujas impressões digitais adiciona. Quaisquer impressões digitais adicionadas podem executar estas ações.
+
+Nota: não é possível utilizar a sua impressão digital para desbloquear este dispositivo. Para mais informações, contacte o administrador da sua entidade."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Configure o Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Utilize o Pixel Imprint para desbloquear o telemóvel.</string>
+</resources>

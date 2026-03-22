@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Terwyl dit regop is en laai</string>
+    <string name="screensaver_settings_summary_sleep">Terwyl dit laai</string>
+    <string name="when_to_show_hubmode_charging">Terwyl dit laai</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Terwyl dit regop is en laai</string>
+    <string name="when_to_show_hubmode_docked">Terwyl dit gedok is en laai</string>
+    <string name="when_to_show_hubmode_never">Nooit</string>
+</resources>

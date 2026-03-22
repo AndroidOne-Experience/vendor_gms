@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">똑바로 세워져 있고 충전 중일 때</string>
+    <string name="screensaver_settings_summary_sleep">충전 중</string>
+    <string name="when_to_show_hubmode_charging">충전 중</string>
+    <string name="when_to_show_hubmode_charging_and_upright">똑바로 세워져 있고 충전 중일 때</string>
+    <string name="when_to_show_hubmode_docked">도킹 및 충전 중일 때</string>
+    <string name="when_to_show_hubmode_never">사용 안함</string>
+</resources>

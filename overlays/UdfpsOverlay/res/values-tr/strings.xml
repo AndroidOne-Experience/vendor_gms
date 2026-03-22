@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">Şifre • Parmak İzi</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Desen • Parmak İzi</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • Parmak İzi</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Parmak İzi Kilidi olmadan devam edin</string>
+    <string name="fingerprint_unlock_title">"Parmak İzi Kilidi'ni kullanarak telefonunuzun kilidini parmak izinizle açabilirsiniz. Güvenlik amacıyla, bu seçenek için yedek bir ekran kilidi gerekir."</string>
+    <string name="security_settings_fingerprint_bad_calibration">Bir onarım hizmeti sağlayıcıyı veya g.co/pixel/fingerprintunlock adresini ziyaret edin.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">"Parmak İzi Kilidi'ne izin verin"</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">"Telefonunuzun kilidini açmak veya uygulamalardaki kişinin siz olduğunu doğrulamak için Parmak İzi Kilidi'ni kullandıkça bu özellik daha da iyileşir"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">"Parmak İzi Kilidi'ni ayarlama"</string>
+    <string name="security_settings_fingerprint_preference_title">Parmak İzi Kilidi</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Parmak İzi Kilidi, kimliğinizi doğrulamak için parmak izinizin benzersiz bir modelini oluşturur. Kurulum sırasında bu parmak izi modelini oluşturmak için parmak izinizin farklı pozisyonlardan resmi çekilir.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">"Parmak İzi Kilidi'ni kullandığınızda resimler, parmak izi modelinizi güncellemek için kullanılır. Parmak izi resimleriniz ve modeliniz, telefonunuzda güvenli bir şekilde saklanıp hiçbir zaman telefondan dışarı çıkmaz. Tüm işlemler, güvenli bir şekilde telefonunuzda gerçekleşir."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">"İstediğiniz zaman Ayarlar'da parmak izi resimlerinizi ve modelinizi silebilir veya Parmak İzi Kilidi'ni kapatabilirsiniz. Siz silene kadar, parmak izi resimleri ve modelleri telefonda saklanır."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Parmak İzi Kilidi, çocuğunuzun kimliğini doğrulamak için parmak izinin benzersiz bir modelini oluşturur. Çocuğunuz, kurulum sırasında bu parmak izi modelini oluşturmak için parmak izinin farklı konumlardan resimlerini çeker.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">"Çocuğunuz Parmak İzi Kilidi'ni kullandığında resimler, parmak izi modelini güncellemek için kullanılır. Çocuğunuzun parmak izi resimleri ve modeli, telefonda güvenli bir şekilde saklanıp hiçbir zaman telefondan dışarı çıkmaz. Tüm işlemler, güvenli bir şekilde telefonda gerçekleşir."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">"Siz ve çocuğunuz, istediğiniz zaman Ayarlar'dan Parmak İzi Kilidi'ni devre dışı bırakabilir veya çocuğunuzun parmak izi resimlerini ve modelini silebilirsiniz. Parmak izi resimleri ve modelleri, silinene kadar telefonda saklanır."</string>
+    <string name="security_settings_work_fingerprint_preference_title">İş profili için Parmak İzi Kilidi</string>
+    <string name="suggested_fingerprint_lock_settings_title">Parmak İzi Kilidi kullanın</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Kaybolur veya çalınırsa şifre telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini siler. Yüz modeliniz de güvenli bir şekilde kalıcı olarak silinir. Uygulamalarda kimlik doğrulama için yüzünüzü ve parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Kaybolur veya çalınırsa şifre telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini de siler. Uygulamalarda kimlik doğrulama için parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Kaybolur veya çalınırsa desen telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini siler. Yüz modeliniz de güvenli bir şekilde kalıcı olarak silinir. Uygulamalarda kimlik doğrulama için yüzünüzü ve parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Kaybolur veya çalınırsa desen telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini de siler. Uygulamalarda kimlik doğrulama için parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Kaybolur veya çalınırsa PIN telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini siler. Yüz modeliniz de güvenli bir şekilde kalıcı olarak silinir. Uygulamalarda kimlik doğrulama için yüzünüzü ve parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Kaybolur veya çalınırsa PIN telefonunuzu korur.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini de siler. Uygulamalarda kimlik doğrulama için parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Cihaz koruma özellikleri, ekran kilidiniz olmadan çalışmaz.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini siler. Yüz modeliniz de güvenli bir şekilde kalıcı olarak silinir. Uygulamalarda kimlik doğrulama için yüzünüzü ve parmak izinizi kullanamazsınız."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Cihaz koruma özellikleri, ekran kilidiniz olmadan çalışmaz.
+
+Bu işlem, cihazınızda depolanan parmak izi resimlerini ve modelini de siler. Uygulamalarda kimlik doğrulama için parmak izinizi kullanamazsınız."</string>
+</resources>

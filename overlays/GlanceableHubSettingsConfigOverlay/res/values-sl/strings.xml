@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">V pokončni legi in med polnjenjem</string>
+    <string name="screensaver_settings_summary_sleep">Med polnjenjem</string>
+    <string name="when_to_show_hubmode_charging">Med polnjenjem</string>
+    <string name="when_to_show_hubmode_charging_and_upright">V pokončni legi in med polnjenjem</string>
+    <string name="when_to_show_hubmode_docked">Na nosilcu in med polnjenjem</string>
+    <string name="when_to_show_hubmode_never">Nikoli</string>
+</resources>

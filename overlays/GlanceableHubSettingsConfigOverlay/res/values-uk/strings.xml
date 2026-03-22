@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Під час заряджання у вертик. положенні</string>
+    <string name="screensaver_settings_summary_sleep">Під час заряджання</string>
+    <string name="when_to_show_hubmode_charging">Під час заряджання</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Під час заряджання у вертикальному положенні</string>
+    <string name="when_to_show_hubmode_docked">Під час заряджання в док-станції</string>
+    <string name="when_to_show_hubmode_never">Ніколи</string>
+</resources>

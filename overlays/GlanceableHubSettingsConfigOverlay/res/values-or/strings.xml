@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">ଅପରାଇଟ ଏବଂ ଚାର୍ଜିଂ ସମୟରେ</string>
+    <string name="screensaver_settings_summary_sleep">ଚାର୍ଜିଂ ସମୟରେ</string>
+    <string name="when_to_show_hubmode_charging">ଚାର୍ଜିଂ ସମୟରେ</string>
+    <string name="when_to_show_hubmode_charging_and_upright">ଅପରାଇଟ ଏବଂ ଚାର୍ଜିଂ ସମୟରେ</string>
+    <string name="when_to_show_hubmode_docked">ଡକ ଏବଂ ଚାର୍ଜିଂ ହେଉଥିବା ସମୟରେ</string>
+    <string name="when_to_show_hubmode_never">କେବେ ବି ନୁହେଁ</string>
+</resources>

@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "WildlifeSettingsVpnOverlay2022",
+    product_specific: true,
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">කෙළින් තබා ආරෝපණය වන අතරේ</string>
+    <string name="screensaver_settings_summary_sleep">ආරෝපණය වන අතරේ</string>
+    <string name="when_to_show_hubmode_charging">ආරෝපණය වන අතරේ</string>
+    <string name="when_to_show_hubmode_charging_and_upright">කෙළින් තබා ආරෝපණය වන අතරේ</string>
+    <string name="when_to_show_hubmode_docked">ඈදා ආරෝපණය වන අතරේ</string>
+    <string name="when_to_show_hubmode_never">කවදාවත් නෑ</string>
+</resources>

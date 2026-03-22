@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_unlock_set_unlock_password">ਪਾਸਵਰਡ • ਫਿੰਗਰਪ੍ਰਿੰਟ</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">ਪੈਟਰਨ • ਫਿੰਗਰਪ੍ਰਿੰਟ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">ਪਿੰਨ • ਫਿੰਗਰਪ੍ਰਿੰਟ</string>
+    <string name="fingerprint_unlock_skip_fingerprint">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="fingerprint_unlock_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਨਾਲ, ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਵਰਤੋਂ ਕਰ ਕੇ ਅਣਲਾਕ ਕਰ ਸਕਦੇ ਹੋ। ਸੁਰੱਖਿਆ ਲਈ, ਇਸ ਵਿਕਲਪ ਨੂੰ ਇੱਕ ਬੈਕਅੱਪ ਸਕ੍ਰੀਨ ਲਾਕ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="security_settings_fingerprint_bad_calibration">"ਮੁਰੰਮਤ ਪ੍ਰਦਾਨਕ ਨੂੰ ਸੰਪਰਕ ਕਰੋ ਜਾਂ g.co/pixel/fingerprintunlock 'ਤੇ ਜਾਓ।"</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੁਹਾਡੇ ਵੱਲੋਂ ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੂੰ ਅਣਲਾਕ ਕਰਨ ਜਾਂ ਤੁਹਾਡੇ ਵੱਲੋਂ ਐਪਾਂ ਵਿੱਚ ਆਪਣੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਇਸਦੀ ਵਰਤੋਂ ਜ਼ਿਆਦਾ ਕਰਨ ਨਾਲ ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਂਦਾ ਹੈ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਦਾ ਸੈੱਟਅੱਪ ਕਰੋ</string>
+    <string name="security_settings_fingerprint_preference_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੁਹਾਡੀ ਪਛਾਣ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰ ਲਓਗੇ।</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">"ਜਦੋਂ ਤੁਸੀਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਵਰਤਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚਿੱਤਰ ਵਰਤੇ ਜਾਂਦੇ ਹਨ। ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ 'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇਹ ਕਦੇ ਵੀ ਫ਼ੋਨ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦੇ। ਸਾਰੀ ਪ੍ਰਕਿਰਿਆ ਤੁਹਾਡੇ ਫ਼ੋਨ 'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਵਾਪਰਦੀ ਹੈ।"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">"ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੀ ਵੇਲੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰ ਅਤੇ ਮਾਡਲ ਫ਼ੋਨ 'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਉਂਦੇ ਨਹੀਂ।"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੁਹਾਡੇ ਬੱਚੇ ਦੀ ਪਛਾਣ ਕਰਨ ਲਈ ਉਸਦੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਉਹ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰ ਲਵੇਗਾ।</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">"ਜਦੋਂ ਉਹ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਵਰਤਦਾ ਹੈ, ਤਾਂ ਉਸਦੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚਿੱਤਰ ਵਰਤੇ ਜਾਂਦੇ ਹਨ। ਤੁਹਾਡੇ ਬੱਚੇ ਦੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਫ਼ੋਨ 'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇਹ ਕਦੇ ਵੀ ਫ਼ੋਨ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦੇ। ਸਾਰੀ ਪ੍ਰਕਿਰਿਆ ਫ਼ੋਨ 'ਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਵਾਪਰਦੀ ਹੈ।"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">"ਤੁਸੀਂ ਅਤੇ ਤੁਹਾਡਾ ਬੱਚਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੇਲੇ ਵੀ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹਨ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹਨ। ਫਿੰਗਰਪ੍ਰਿੰਟ ਚਿੱਤਰ ਅਤੇ ਮਾਡਲ ਫ਼ੋਨ 'ਤੇ ਉਦੋਂ ਤੱਕ ਸਟੋਰ ਰਹਿੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਨੂੰ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾਂਦਾ।"</string>
+    <string name="security_settings_work_fingerprint_preference_title">ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਲਈ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ</string>
+    <string name="suggested_fingerprint_lock_settings_title">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪਾਸਵਰਡ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਵੀ ਪੱਕੇ ਤੌਰ 'ਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪਾਸਵਰਡ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਵੀ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪੈਟਰਨ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਵੀ ਪੱਕੇ ਤੌਰ 'ਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪੈਟਰਨ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਵੀ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪਿੰਨ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਵੀ ਪੱਕੇ ਤੌਰ 'ਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਗੁਆਚਣ ਜਾਂ ਚੋਰੀ ਹੋਣ 'ਤੇ ਪਿੰਨ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਵੀ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"ਡੀਵਾਈਸ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੁਹਾਡੇ ਸਕ੍ਰੀਨ ਲਾਕ ਦੇ ਬਿਨਾਂ ਕੰਮ ਨਹੀਂ ਕਰਨਗੀਆਂ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੇ ਚਿਹਰੇ ਦਾ ਮਾਡਲ ਵੀ ਪੱਕੇ ਤੌਰ 'ਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਚਿਹਰਾ ਜਾਂ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"ਡੀਵਾਈਸ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੁਹਾਡੇ ਸਕ੍ਰੀਨ ਲਾਕ ਦੇ ਬਿਨਾਂ ਕੰਮ ਨਹੀਂ ਕਰਨਗੀਆਂ।
+
+ਇਹ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰਾਂ ਅਤੇ ਮਾਡਲ ਨੂੰ ਵੀ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਤੁਸੀਂ ਐਪਾਂ ਵਿੱਚ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਆਪਣਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨਹੀਂ ਵਰਤ ਸਕੋਗੇ।"</string>
+</resources>

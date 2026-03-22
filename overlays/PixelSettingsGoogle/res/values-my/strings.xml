@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_white_balance_summary">ဝန်းကျင်အလင်းပေါ် အခြေခံ၍ ပြကွက်ကို ပိုနွေးသော (သို့) ပိုအေးသော အရောင်များသို့ အလိုက်သင့် ပြောင်းနိုင်သည်</string>
+    <string name="display_white_balance_title">အလိုက်သင့်အရောင်</string>
+    <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + စကားဝှက်</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ပုံစံ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + ပင်နံပါတ်</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint မသုံးဘဲ ရှေ့ဆက်ရန်</string>
+    <string name="fingerprint_unlock_title">Pixel Imprint ဖြင့် သင်၏ လက်ဗွေကို အသုံးပြုပြီး သင့်ဖုန်းကို ဖွင့်နိုင်သည်။ လုံခြုံရေးအရ ဤနည်းလမ်းအတွက် ဖုန်းမျက်နှာပြင်လော့ခ်အရန်စနစ်တစ်ခု လိုအပ်သည်။</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Pixel Imprint ကို ခွင့်ပြုရန်</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ဖြင့် သင့်လက်ဗွေကို အသုံးပြုပြီး ဝယ်ယူမှုများကို ခွင့်ပြုပေးခြင်း သို့မဟုတ် အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ခြင်းတို့ ပြုလုပ်နိုင်သည်။
+
+မည်သူ၏ လက်ဗွေအား ထည့်သွင်းမည်ကို သေချာစဉ်းစားပါ။ ထည့်သွင်းထားသည့် လက်ဗွေပိုင်ရှင်တိုင်းသည် ဤအရာများကို သုံးနိုင်ပါမည်။
+
+မှတ်ချက်- ဤစက်ပစ္စည်းကို ဖွင့်ရန် သင်၏လက်ဗွေကို သုံး၍မရပါ။ နောက်ထပ်အချက်အလက်များအတွက် သင့်အဖွဲ့အစည်း၏ စီမံခန့်ခွဲသူထံ ဆက်သွယ်ပါ။"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint စနစ်ထည့်သွင်းခြင်း</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+    <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">သင့်ဖုန်းကို ဖွင့်ရန် Pixel Imprint ကို သုံးပါ</string>
+</resources>

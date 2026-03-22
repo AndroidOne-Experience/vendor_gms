@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Tente eta kargatzen dagoenean</string>
+    <string name="screensaver_settings_summary_sleep">Kargatzen ari denean</string>
+    <string name="when_to_show_hubmode_charging">Kargatzen ari denean</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Tente eta kargatzen dagoenean</string>
+    <string name="when_to_show_hubmode_docked">Oinarrian kargatu bitartean</string>
+    <string name="when_to_show_hubmode_never">Inoiz ez</string>
+</resources>
