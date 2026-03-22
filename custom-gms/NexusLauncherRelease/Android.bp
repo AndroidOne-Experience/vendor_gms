@@ -1,0 +1,13 @@
+android_app_import {
+    name: "NexusLauncherRelease",
+    owner: "gms",
+    apk: "NexusLauncherRelease.apk",
+    overrides: ["Launcher3", "Launcher3QuickStep", "TrebuchetQuickStep"],
+    preprocessed: true,
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    privileged: true,
+    system_ext_specific: true,
+}

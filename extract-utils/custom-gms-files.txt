@@ -1,0 +1,26 @@
+# Below apps are extarcted manually & splitted them by:
+# split -b 50M --numeric-suffixes=0 --suffix-length=2 <Apk input name> <Apk output name>
+
+# Device Personalization Services
+product/priv-app/DevicePersonalizationPrebuiltPixel2025-playstore_aiai_20250306.00_RC10/DevicePersonalizationPrebuiltPixel2025-playstore_aiai_20250306.00_RC10.apk;PRESIGNED
+
+# Gmail
+product/app/PrebuiltGmail/PrebuiltGmail.apk;OVERRIDES=Email;PRESIGNED
+
+# Google Message
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk;PRESIGNED
+
+# Google Play
+product/priv-app/PrebuiltGmsCoreVic/PrebuiltGmsCoreVic.apk;OVERRIDES=StatementService;PRESIGNED
+
+# Google search
+product/priv-app/Velvet/Velvet.apk;OVERRIDES=QuickSearchBox;PRESIGNED
+
+# Launcher
+system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
+
+# Location
+product/app/Maps/Maps.apk;PRESIGNED
+
+# Photo
+product/app/Photos/Photos.apk;OVERRIDES=Gallery2;PRESIGNED
