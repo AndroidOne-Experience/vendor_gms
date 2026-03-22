@@ -1,0 +1,2 @@
+# List down all the system partition .apex file here & run the script
+
