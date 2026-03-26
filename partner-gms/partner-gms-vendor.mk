@@ -109,6 +109,7 @@ PRODUCT_PACKAGES += \
     MlkitBarcodeUIPrebuilt \
     TfliteDynamitePrebuilt \
     VisionBarcodePrebuilt \
+    RecorderPrebuilt_725581069 \
     RelationshipsPrebuilt-301 \
     SafetyHubPrebuilt \
     ScribePrebuilt_v8.4.773573318 \

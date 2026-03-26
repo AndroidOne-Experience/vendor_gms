@@ -90,6 +90,9 @@ product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
 # Print
 system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;OVERRIDES=PrintRecommendationService;PRESIGNED
 
+# RecorderPrebuilt
+product/priv-app/RecorderPrebuilt_725581069/RecorderPrebuilt_725581069.apk;PRESIGNED
+
 # SafetyHub
 product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk;OVERRIDES=EmergencyInfo;PRESIGNED
 system_ext/app/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk

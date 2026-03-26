@@ -556,6 +556,19 @@ android_app_import {
 }
 
 android_app_import {
+	name: "RecorderPrebuilt_725581069",
+	owner: "gms",
+	apk: "proprietary/product/priv-app/RecorderPrebuilt_725581069/RecorderPrebuilt_725581069.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
 	name: "RelationshipsPrebuilt-301",
 	owner: "gms",
 	apk: "proprietary/product/priv-app/RelationshipsPrebuilt-301/RelationshipsPrebuilt-301.apk",
