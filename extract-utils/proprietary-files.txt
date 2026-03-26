@@ -31,7 +31,6 @@ system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk;OVERRIDES=Stor
 
 # Gemini
 product/etc/sysconfig/gemini_experience.xml
-product/priv-app/GeminiShell_227/GeminiShell_227.apk;PRESIGNED
 
 # Google Play
 product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
@@ -76,15 +75,6 @@ system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
 # ModuleMetadata
 product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;PRESIGNED
 
-# NgaResources
-product/app/NgaResources/NgaResources.apk;PRESIGNED
-
-# PackageInstaller
-system/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk;OVERRIDES=PackageInstaller;PRESIGNED
-
-# Pixel Core Services
-product/priv-app/PrebuiltPixelCoreServices/PrebuiltPixelCoreServices.apk;PRESIGNED
-
 # Pixel VIPs
 product/priv-app/RelationshipsPrebuilt-301/RelationshipsPrebuilt-301.apk;PRESIGNED
 
@@ -117,18 +107,11 @@ product/etc/permissions/com.google.android.apps.setupwizard.searchselector.xml
 product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;OVERRIDES=OneTimeInitializer;PRESIGNED
 product/priv-app/GoogleRestorePrebuilt-v842048/GoogleRestorePrebuilt-v842048.apk;PRESIGNED
 product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
-product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk;OVERRIDES=Provision;PRESIGNED
-system_ext/priv-app/SetupWizardPixelPrebuilt_v802960446/SetupWizardPixelPrebuilt_v802960446.apk;OVERRIDES=LineageSetupWizard;PRESIGNED
+product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk;OVERRIDES=Provision,LineageSetupWizard;PRESIGNED
 
 # Styles & Wallpapers
 product/app/PixelThemesStub2025_and_newer/PixelThemesStub2025_and_newer.apk
-product/app/PixelWallpapers2025/PixelWallpapers2025.apk;PRESIGNED
-product/app/WallpaperAIPrebuilt_10000372/WallpaperAIPrebuilt_10000372.apk;PRESIGNED
-product/app/WallpaperEmojiPrebuilt-foldable-wallpaper/WallpaperEmojiPrebuilt-foldable-wallpaper.apk;PRESIGNED
-product/priv-app/CustomizationBundlePrebuilt/CustomizationBundlePrebuilt.apk;PRESIGNED
 product/priv-app/PixelLiveWallpaperPrebuilt-26000013/PixelLiveWallpaperPrebuilt-26000013.apk;PRESIGNED
-product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
-system_ext/priv-app/MagicPortraitWallpapers/MagicPortraitWallpapers.apk;PRESIGNED
 system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
 # Sound

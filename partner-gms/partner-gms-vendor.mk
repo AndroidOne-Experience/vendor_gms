@@ -81,21 +81,15 @@ PRODUCT_PACKAGES += \
     LocationHistoryPrebuilt \
     MarkupGoogle_v2 \
     ModuleMetadataGoogle \
-    NgaResources \
     PixelThemesStub2025_and_newer \
-    PixelWallpapers2025 \
     SoundPickerPrebuilt_33000242 \
     TrichromeLibrary-Stub \
-    WallpaperAIPrebuilt_10000372 \
-    WallpaperEmojiPrebuilt-foldable-wallpaper \
     WebViewGoogle-Stub \
     YouTubeMusicPrebuilt \
     talkback \
     AndroidAutoStubPrebuilt \
     ConfigUpdater \
-    CustomizationBundlePrebuilt \
     FilesPrebuilt \
-    GeminiShell_227 \
     GoogleDialer \
     GoogleOneTimeInitializer \
     GoogleRestorePrebuilt-v842048 \
@@ -115,22 +109,18 @@ PRODUCT_PACKAGES += \
     MlkitBarcodeUIPrebuilt \
     TfliteDynamitePrebuilt \
     VisionBarcodePrebuilt \
-    PrebuiltPixelCoreServices \
     RelationshipsPrebuilt-301 \
     SafetyHubPrebuilt \
     ScribePrebuilt_v8.4.773573318 \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt_v811313066 \
-    WallpaperEffect \
     WeatherPixelPrebuilt_10006113 \
     WellbeingPrebuilt \
     AccessibilityMenu \
     EmergencyInfoGoogleNoUi \
     AvatarPickerGoogle \
     GoogleServicesFramework \
-    MagicPortraitWallpapers \
-    SetupWizardPixelPrebuilt_v802960446 \
     StorageManagerGoogle \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \

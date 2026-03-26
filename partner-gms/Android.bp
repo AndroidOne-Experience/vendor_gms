@@ -195,34 +195,10 @@ android_app_import {
 }
 
 android_app_import {
-	name: "NgaResources",
-	owner: "gms",
-	apk: "proprietary/product/app/NgaResources/NgaResources.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
 	name: "PixelThemesStub2025_and_newer",
 	owner: "gms",
 	apk: "proprietary/product/app/PixelThemesStub2025_and_newer/PixelThemesStub2025_and_newer.apk",
 	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
-	name: "PixelWallpapers2025",
-	owner: "gms",
-	apk: "proprietary/product/app/PixelWallpapers2025/PixelWallpapers2025.apk",
-	preprocessed: true,
-	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -245,30 +221,6 @@ android_app_import {
 	name: "TrichromeLibrary-Stub",
 	owner: "gms",
 	apk: "proprietary/product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperAIPrebuilt_10000372",
-	owner: "gms",
-	apk: "proprietary/product/app/WallpaperAIPrebuilt_10000372/WallpaperAIPrebuilt_10000372.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperEmojiPrebuilt-foldable-wallpaper",
-	owner: "gms",
-	apk: "proprietary/product/app/WallpaperEmojiPrebuilt-foldable-wallpaper/WallpaperEmojiPrebuilt-foldable-wallpaper.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -341,35 +293,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "CustomizationBundlePrebuilt",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/CustomizationBundlePrebuilt/CustomizationBundlePrebuilt.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "FilesPrebuilt",
 	owner: "gms",
 	apk: "proprietary/product/priv-app/FilesPrebuilt/FilesPrebuilt.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "GeminiShell_227",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/GeminiShell_227/GeminiShell_227.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -630,19 +556,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "PrebuiltPixelCoreServices",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/PrebuiltPixelCoreServices/PrebuiltPixelCoreServices.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "RelationshipsPrebuilt-301",
 	owner: "gms",
 	apk: "proprietary/product/priv-app/RelationshipsPrebuilt-301/RelationshipsPrebuilt-301.apk",
@@ -712,20 +625,7 @@ android_app_import {
 	name: "SetupWizardPrebuilt_v811313066",
 	owner: "gms",
 	apk: "proprietary/product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.apk",
-	overrides: ["Provision"],
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperEffect",
-	owner: "gms",
-	apk: "proprietary/product/priv-app/WallpaperEffect/WallpaperEffect.apk",
+	overrides: ["Provision", "LineageSetupWizard"],
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -802,33 +702,6 @@ android_app_import {
 	name: "GoogleServicesFramework",
 	owner: "gms",
 	apk: "proprietary/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "MagicPortraitWallpapers",
-	owner: "gms",
-	apk: "proprietary/system_ext/priv-app/MagicPortraitWallpapers/MagicPortraitWallpapers.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "SetupWizardPixelPrebuilt_v802960446",
-	owner: "gms",
-	apk: "proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt_v802960446/SetupWizardPixelPrebuilt_v802960446.apk",
-	overrides: ["LineageSetupWizard"],
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
