@@ -136,61 +136,69 @@ for RAW_ENTRY in "${APEX_ENTRIES[@]}"; do
     7z e "${TMPDIR}/extracted/apex_payload.img" -o"${TMPDIR}/payload" >/dev/null
 
     # =========================
-    # FIND APK
+    # FIND APK (MULTI SUPPORT)
     # =========================
-    APK_FILE=$(find "${TMPDIR}/payload" \( -path "*/priv-app/*" -o -path "*/app/*" \) -name "*.apk" | head -n 1)
+    APK_FILES=$(find "${TMPDIR}/payload" \( -path "*/priv-app/*" -o -path "*/app/*" \) -name "*.apk")
 
-    [[ -z "$APK_FILE" ]] && APK_FILE=$(find "${TMPDIR}/payload" -name "*.apk" | head -n 1)
+    [[ -z "$APK_FILES" ]] && APK_FILES=$(find "${TMPDIR}/payload" -name "*.apk")
 
-    if [[ -z "$APK_FILE" ]]; then
+    if [[ -z "$APK_FILES" ]]; then
         echo "❌ No APK found"
         rm -rf "${TMPDIR}"
         continue
     fi
 
-    APK_NAME=$(basename "$APK_FILE")
-    MODULE_NAME=$(basename "$APK_NAME" .apk)
+    for APK_FILE in $APK_FILES; do
+        APK_NAME=$(basename "$APK_FILE")
+        MODULE_NAME=$(basename "$APK_NAME" .apk)
 
-    OUT_DIR="${OUT_BASE}/${MODULE_NAME}"
-    mkdir -p "${OUT_DIR}"
+        OUT_DIR="${OUT_BASE}/${MODULE_NAME}"
+        mkdir -p "${OUT_DIR}"
 
-    echo "✔ APK: ${APK_NAME}"
+        echo "✔ APK: ${APK_NAME}"
 
-    cp "${APK_FILE}" "${OUT_DIR}/${APK_NAME}"
+        cp "${APK_FILE}" "${OUT_DIR}/${APK_NAME}"
 
-    # =========================
-    # COPY ALL PERMISSION XML FILES (NO MODIFICATION)
-    # =========================
-    PERM_DIR="${OUT_DIR}/permissions"
-    mkdir -p "${PERM_DIR}"
+        # =========================
+        # COPY PERMISSIONS (MATCH BY PACKAGE NAME)
+        # =========================
+        HAS_PERM=false
 
-    HAS_PERM=false
+        APK_PKG=$(aapt dump badging "$APK_FILE" 2>/dev/null | awk -F"'" '/package: name=/{print $2}')
 
-    for XML in $(find "${TMPDIR}/payload" -name "privapp*.xml"); do
-        XML_NAME=$(basename "$XML")
-        cp "$XML" "${PERM_DIR}/${XML_NAME}"
-        HAS_PERM=true
-    done
+        if [[ -n "$APK_PKG" ]]; then
+            PERM_DIR="${OUT_DIR}/permissions"
+            mkdir -p "${PERM_DIR}"
 
-    # =========================
-    # GENERATE Android.bp
-    # =========================
-    BP_FILE="${OUT_DIR}/Android.bp"
+            for XML in $(find "${TMPDIR}/payload" -name "privapp*.xml"); do
+                XML_NAME=$(basename "$XML")
 
-    cat > "$BP_FILE" <<EOF
+                if [[ "$XML_NAME" == *"$APK_PKG"* ]]; then
+                    cp "$XML" "${PERM_DIR}/${XML_NAME}"
+                    HAS_PERM=true
+                fi
+            done
+        fi
+
+        # =========================
+        # GENERATE Android.bp
+        # =========================
+        BP_FILE="${OUT_DIR}/Android.bp"
+
+        cat > "$BP_FILE" <<EOF
 android_app_import {
     name: "${MODULE_NAME}",
     owner: "gms",
     apk: "${APK_NAME}",
 EOF
 
-    [[ -n "$OVERRIDE" ]] && echo "    overrides: [\"${OVERRIDE}\"]," >> "$BP_FILE"
+        [[ -n "$OVERRIDE" ]] && echo "    overrides: [\"${OVERRIDE}\"]," >> "$BP_FILE"
 
-    echo "    preprocessed: true," >> "$BP_FILE"
+        echo "    preprocessed: true," >> "$BP_FILE"
 
-    [[ "$PRESIGNED" == true ]] && echo "    presigned: true," >> "$BP_FILE"
+        [[ "$PRESIGNED" == true ]] && echo "    presigned: true," >> "$BP_FILE"
 
-    cat >> "$BP_FILE" <<EOF
+        cat >> "$BP_FILE" <<EOF
     dex_preopt: {
         enabled: false,
     },
@@ -198,15 +206,15 @@ EOF
 }
 EOF
 
-    # =========================
-    # ADD prebuilt_etc FOR EACH XML
-    # =========================
-    if [[ "$HAS_PERM" == true ]]; then
-        for XML in "${PERM_DIR}"/*.xml; do
-            XML_NAME=$(basename "$XML")
-            MODULE_PERM_NAME="${XML_NAME}"
+        # =========================
+        # ADD prebuilt_etc FOR EACH XML
+        # =========================
+        if [[ "$HAS_PERM" == true ]]; then
+            for XML in "${PERM_DIR}"/*.xml; do
+                XML_NAME=$(basename "$XML")
+                MODULE_PERM_NAME="${XML_NAME}"
 
-            cat >> "$BP_FILE" <<EOF
+                cat >> "$BP_FILE" <<EOF
 
 prebuilt_etc {
     name: "${MODULE_PERM_NAME}",
@@ -214,20 +222,21 @@ prebuilt_etc {
     sub_dir: "permissions",
 EOF
 
-            if [[ "$PARTITION" == "system_ext" ]]; then
-                echo "    system_ext_specific: true," >> "$BP_FILE"
-            elif [[ "$PARTITION" == "product" ]]; then
-                echo "    product_specific: true," >> "$BP_FILE"
-            fi
+                if [[ "$PARTITION" == "system_ext" ]]; then
+                    echo "    system_ext_specific: true," >> "$BP_FILE"
+                elif [[ "$PARTITION" == "product" ]]; then
+                    echo "    product_specific: true," >> "$BP_FILE"
+                fi
 
-            echo "}" >> "$BP_FILE"
-        done
-    fi
+                echo "}" >> "$BP_FILE"
+            done
+        fi
+
+        echo "✔ Done: ${MODULE_NAME}"
+        echo
+    done
 
     rm -rf "${TMPDIR}"
-
-    echo "✔ Done: ${MODULE_NAME}"
-    echo
 
 done
 
