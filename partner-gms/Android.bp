@@ -120,6 +120,18 @@ android_app_import {
 }
 
 android_app_import {
+	name: "Drive",
+	owner: "gms",
+	apk: "proprietary/product/app/Drive/Drive.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
 	name: "GoogleContacts",
 	owner: "gms",
 	apk: "proprietary/product/app/GoogleContacts/GoogleContacts.apk",

@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
     Chrome-Stub \
     CredentialManagerPrebuilt_credentialmanager.android_20250404.06_p0 \
     DevicePolicyPrebuilt-v10334460 \
+    Drive \
     GoogleContacts \
     GoogleTTS \
     LatinIMEGooglePrebuilt \

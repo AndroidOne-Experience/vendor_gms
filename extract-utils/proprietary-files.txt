@@ -24,6 +24,9 @@ product/priv-app/PrebuiltDeskClockGoogle_76007351/PrebuiltDeskClockGoogle_760073
 # Credential manager
 product/app/CredentialManagerPrebuilt_credentialmanager.android_20250404.06_p0/CredentialManagerPrebuilt_credentialmanager.android_20250404.06_p0.apk;PRESIGNED
 
+# Drive
+product/app/Drive/Drive.apk;PRESIGNED
+
 # Files
 product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
 system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk;OVERRIDES=DocumentsUI;PRESIGNED
