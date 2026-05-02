@@ -117,12 +117,14 @@ PRODUCT_PACKAGES += \
     SearchSelectorPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt_v811313066 \
+    WallpaperEffect \
     WeatherPixelPrebuilt_10006113 \
     WellbeingPrebuilt \
     AccessibilityMenu \
     EmergencyInfoGoogleNoUi \
     AvatarPickerGoogle \
     GoogleServicesFramework \
+    MagicPortraitWallpapers \
     StorageManagerGoogle \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \

@@ -118,6 +118,8 @@ product/priv-app/SetupWizardPrebuilt_v811313066/SetupWizardPrebuilt_v811313066.a
 # Styles & Wallpapers
 product/app/PixelThemesStub2025_and_newer/PixelThemesStub2025_and_newer.apk
 product/priv-app/PixelLiveWallpaperPrebuilt-26000013/PixelLiveWallpaperPrebuilt-26000013.apk;PRESIGNED
+product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
+system_ext/priv-app/MagicPortraitWallpapers/MagicPortraitWallpapers.apk;PRESIGNED
 system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
 # Sound
