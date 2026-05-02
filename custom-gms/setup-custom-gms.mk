@@ -22,3 +22,8 @@ endif
 PRODUCT_PACKAGES += \
 	GoogleExtServices \
 	privapp_allowlist_com.google.android.ext.services.xml
+
+# Build Tensorflow & symlink to MagicPortrait
+PRODUCT_PACKAGES += \
+    libtensorflowlite_jni \
+    MagicPortraitSymLink

@@ -165,3 +165,10 @@ android_app_import {
 	},
 	product_specific: true,
 }
+
+install_symlink {
+    name: "MagicPortraitSymLink",
+    system_ext_specific: true,
+    installed_location: "priv-app/MagicPortraitWallpapers/lib/arm64/libtensorflowlite_jni.so",
+    symlink_target: "/system/lib64/libtensorflowlite_jni.so",
+}
