@@ -44,3 +44,7 @@ PRODUCT_PACKAGES += \
     CarrierSettingsOverlay \
     CarrierSettingsProviderOverlay \
     CarrierSettingsSystemUIOverlay
+
+# PixelLauncher overlay 
+PRODUCT_PACKAGES += \
+    PixelLauncherOverlay
