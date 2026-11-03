@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation handle dimensions (Android 12 style) -->
+    <dimen name="navigation_home_handle_width">72dp</dimen>
+    <dimen name="taskbar_stashed_small_screen">72dp</dimen>
+    <dimen name="taskbar_stashed_handle_height">2dp</dimen>
+    <dimen name="taskbar_nudge_pill_width">72dp</dimen>
+</resources>
+
