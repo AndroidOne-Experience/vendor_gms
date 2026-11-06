@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mica.android.overlay.launcher3systemui"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <!--
+         Overrides launcher_overlayable_package to com.android.launcher3 for builds
+         that use Launcher3Quickstep instead of PixelLauncher (NexusLauncherRelease).
+         Included conditionally when TARGET_SUPPORT_PIXEL_LAUNCHER != true.
+         Priority must be higher than GoogleSystemUIOverlay (priority=1) so this wins.
+    -->
+    <overlay android:targetPackage="com.android.systemui"
+        android:priority="2"
+        android:isStatic="true" />
+</manifest>

@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mica.android.overlay.launcher3wallpaper"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <!--
+         Overrides launcher_overlayable_package to com.android.launcher3 for builds
+         that use Launcher3Quickstep instead of PixelLauncher (NexusLauncherRelease).
+         Included conditionally when TARGET_SUPPORT_PIXEL_LAUNCHER != true.
+    -->
+    <overlay android:targetPackage="com.google.android.apps.wallpaper"
+        android:priority="2"
+        android:isStatic="true" />
+</manifest>
+

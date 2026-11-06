@@ -38,6 +38,14 @@ PRODUCT_PACKAGES += \
     GoogleSettingsOverlay \
     GoogleSystemUIOverlay
 
+# When PixelLauncher is not included, override launcher_overlayable_package to
+# com.android.launcher3 for SystemUI and Wallpaper & style (ThemePicker).
+ifneq ($(TARGET_SUPPORT_PIXEL_LAUNCHER),true)
+PRODUCT_PACKAGES += \
+    Launcher3SystemUIOverlay \
+    Launcher3WallpaperOverlay
+endif
+
 # CarrierSettings overlay
 PRODUCT_PACKAGES += \
     CarrierSettingsConfigOverlay \
