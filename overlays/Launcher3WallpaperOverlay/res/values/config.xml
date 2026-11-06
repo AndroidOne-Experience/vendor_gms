@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override the launcher package to Launcher3 when PixelLauncher is not included. -->
+    <string name="launcher_overlayable_package" translatable="false">com.android.launcher3</string>
+</resources>
