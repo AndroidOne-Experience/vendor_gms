@@ -64,3 +64,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.feature.joined_up_loading=true \
     setupwizard.feature.locale_agnostic_enabled=true
 
+# Minimal GMS Packages
+TARGET_SUPPORT_MINIMAL_GAPPS ?= false
+ifeq ($(TARGET_SUPPORT_MINIMAL_GAPPS),true)
+PRODUCT_PACKAGES += \
+    MinimalPackage
+GMS_VOICE_MODEL_INCLUDED := false
+endif
